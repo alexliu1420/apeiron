@@ -97,8 +97,7 @@ If you are new to the material, the following sequence is recommended:
 1. **The AI Transition** — the most concrete and immediate, grounded in observable trends in technology and power dynamics
 2. **The Fermi Paradox** — expands the same logic to galactic scale, introduces the thermodynamic framework for life and intelligence
 3. **The Universe as Experiment** — the furthest speculative extension, best read after the first two
-4. **The Necessity of Randomness** — the physical foundation for why biological randomness is genuinely irreplaceable, not just asserted to be. Grounds the core claim of framework three in quantum mechanics. Can be read independently; most rewarding after framework three.
-5. **The Universe as Experiment: Extension** — derives the mechanism that framework three stated but left implicit: why the efficiency/framelessness trade is one move, what the parametric study actually is and why eternal inflation gives it a non-speculative physical backdrop, and why silicon is transitional rather than terminal on cosmological timescales. Also draws the cross-framework connections that become visible only after reading all five documents. Read framework three first.
+4. **The Necessity of Randomness** and **The Universe as Experiment: Extension** — read in either order after framework three. The quantum foundation grounds the randomness argument from physics upward. The extension derives the framework's implicit mechanisms and draws the cross-framework connections. Each is strengthened by reading the other.
 
 All assumptions are compiled in [ASSUMPTIONS.md](ASSUMPTIONS.md). Each framework and supporting document lists its own assumptions. Speculation levels are marked throughout.
 
