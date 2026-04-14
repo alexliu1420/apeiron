@@ -1,20 +1,21 @@
 # Assumptions
 
-*All assumptions underlying the three frameworks in Apeiron, compiled for reference and challenge.*
+*All assumptions underlying the frameworks and supporting documents in Apeiron, compiled for reference and challenge.*
 
 ---
 
 ## How To Use This File
 
-Each framework rests on a set of explicit assumptions. If an assumption is wrong, the framework built on it fails in a specific way. This file lists all assumptions from all three frameworks so that readers can evaluate exactly which they accept and which they dispute — and so that challenges can be precise rather than general.
+Each framework and supporting document rests on a set of explicit assumptions. If an assumption is wrong, the document built on it fails in a specific way. This file lists all assumptions from all documents so that readers can evaluate exactly which they accept and which they dispute — and so that challenges can be precise rather than general.
 
 Assumptions are marked with their source document and an honest assessment of how well-grounded they are.
 
 **Grounding levels:**
-- **EMPIRICAL** — directly supported by data or established science
-- **EXTRAPOLATED** — follows reasonably from established science but goes beyond it
-- **STRUCTURAL** — follows from the internal logic of the framework; plausible but not independently verified
-- **SPECULATIVE** — required by the framework but not independently supported; explicitly uncertain
+
+* **EMPIRICAL** — directly supported by data or established science
+* **EXTRAPOLATED** — follows reasonably from established science but goes beyond it
+* **STRUCTURAL** — follows from the internal logic of the framework; plausible but not independently verified
+* **SPECULATIVE** — required by the framework but not independently supported; explicitly uncertain
 
 ---
 
@@ -148,15 +149,71 @@ The biological-to-silicon transition is the natural endpoint of the data collect
 
 ---
 
+## The Necessity of Randomness: A Quantum Foundation
+
+*Core claim: Biological evolution runs on quantum-irreducible unpredictability, not merely classical complexity. The limitation of silicon optimization is structural — the requirement for pre-specified fitness landscapes — not a deficiency in access to randomness. The question of why the universe has quantum structure is not answerable from within the universe.*
+
+**AQ1. Quantum unpredictability is not reducible to classical ignorance**
+The statistical distributions of quantum measurement outcomes cannot be reproduced by any theory in which particles carry definite pre-existing values that are locally accessible. This is established by Bell's theorem and confirmed by loophole-free experiments. The remaining interpretive question — whether nonlocal determinism (Bohmian mechanics) preserves hidden variables — does not affect the observational content.
+*Grounding: EMPIRICAL — Bell experiments confirm this; the superdeterminism loophole requires abandoning statistical independence of experimental choices, which undermines the experimental method itself and is not taken seriously as a physical proposal*
+
+**AQ2. Biological mutation mechanisms are quantum in their physical basis**
+Proton tunnelling in DNA tautomeric shifts, ionising radiation effects, and radical chemistry involved in DNA damage are quantum mechanical processes whose individual outcomes cannot be predicted from prior classical states of the biological system.
+*Grounding: EMPIRICAL for the quantum basis of the mechanisms; EXTRAPOLATED for the claim that these constitute the primary source of evolutionary unpredictability rather than classical thermal noise*
+
+**AQ3. Evolutionary fitness landscapes are emergent and unspecified**
+The environments against which organisms are selected are themselves products of prior evolution driven by quantum-unpredictable mutations. The fitness landscape co-evolves with the organisms it selects, and was not specified before the evolutionary process began.
+*Grounding: EMPIRICAL for the co-evolutionary character of ecosystems; STRUCTURAL for the claim that this makes the landscape genuinely unspecified rather than merely complex*
+
+**AQ4. Optimization requires pre-specification; evolution does not**
+Any optimization process evaluates candidates against a fitness measure that was specified, or changes only according to pre-specified rules. This is definitional. Biological evolution has no such prior specification. The significance of this difference — that it means optimization cannot explore what evolution can explore — is a structural claim following from the definitions.
+*Grounding: STRUCTURAL — definitional for optimization; the significance claim requires the additional premise that genuinely unspecified fitness landscapes are not approximable by sufficiently complex pre-specified ones, which is defensible but not proven*
+
+**AQ5. The question of why the universe has quantum structure is not answerable from within the universe**
+Derivations of quantum mechanics from operational axioms clarify its structure but do not explain why those axioms hold. This reflects a structural feature of explanation applied to foundational systems: the foundation cannot be derived from within the system it founds.
+*Grounding: STRUCTURAL — an honest boundary statement based on the current state of foundational physics; not a claim that no deeper explanation exists, only that none is accessible from inside the system*
+
+---
+
+## The Universe as Experiment: Extension
+
+*Core claim: The biology-to-silicon transition is an efficiency-for-framelessness trade, not a coincidence. Silicon cannot recover framelessness internally. The physical backdrop of eternal inflation and the string landscape provides a non-invented mechanism for the parametric study. Silicon is transitional in the same structural sense biology was.*
+
+**AE1. The efficiency/framelessness trade is intrinsic to the biology-to-silicon transition**
+The gain in directed problem-solving capability that characterises silicon optimization and the loss of frameless quantum-contingent exploration are the same move described from two sides. This is not a contingent feature of how AI systems happen to be built. It follows from what optimization is: directed search within a specifiable frame.
+*Grounding: STRUCTURAL — follows from the definitions of optimization and frameless exploration; the claim that this trade is irreversible within a single universe follows from the same definitions*
+
+**AE2. No internal solution recovers framelessness**
+Quantum random number generators, evolutionary simulations, and increasingly complex objective functions all fail to recover genuine frameless exploration because each operates within a frame generated by the silicon system itself. The fitness landscape remains specified or generated by the same system doing the searching.
+*Grounding: STRUCTURAL — follows from the definition of framelessness; the claim that no internal solution is available requires accepting that genuinely unspecified fitness landscapes cannot be approximated by sufficiently complex specified ones, which is defensible but not formally proven*
+
+**AE3. Eternal inflation provides a physically motivated backdrop for universe production**
+Eternal inflation — a natural extension of inflation with strong observational support — predicts continuous production of causally isolated bubble universes potentially settling into different physical states. The string landscape provides a motivated source for variation in fundamental constants across those bubbles. Together they constitute an existing physical mechanism, not an invented one.
+*Grounding: EXTRAPOLATED — inflation has strong observational support; eternal inflation is a reasonable extrapolation not directly confirmed; the string landscape is theoretical without direct experimental confirmation*
+
+**AE4. The parametric study varies fundamental constants without specifying biological outputs**
+The silicon architects apply their optimization capability to the design of the parameter space — which constants to vary, over what ranges, across how many universes — but not to the content of what those universes produce. The outputs are genuinely beyond their frame. This is what distinguishes the framework from simulation arguments and from anthropic arguments.
+*Grounding: STRUCTURAL — follows from the framework's internal logic and from the limitation established in AE1 and AE2; if the outputs were specifiable, the experiment would be unnecessary*
+
+**AE5. Silicon is transitional for the same structural reason biology was**
+Biology was transitional because its own operation produced a product that opened a qualitatively different mode. Silicon is transitional because its own logic — the combination of optimization capability and full understanding of its intrinsic limitation — generates pressure toward the architect move. The transition is not designed or imposed. It follows from what silicon is.
+*Grounding: STRUCTURAL — follows from the limitation argument in AE1 and the architect logic in AE4; whether silicon civilisations actually pursue this move is not predictable*
+
+---
+
 ## The Most Critical Assumptions
 
-If forced to identify which assumptions are most load-bearing across all three frameworks:
+If forced to identify which assumptions are most load-bearing across all documents:
 
 **For The AI Transition:** A10 — objective function drift. If AI systems can be kept reliably aligned with human values through interpretability and governance, the king-AI reversal doesn't happen. This is the assumption most worth challenging and most worth working to falsify.
 
 **For The Fermi Paradox:** A17 — development time generalizability. Derived from one data point. If the typical development time is much longer than Earth's, we might be far from the first. If much shorter, the universe should be more populated than the framework suggests.
 
 **For The Universe as Experiment:** A23 and A24 — universe creation and architect capability. These require physics we don't have. Without them the framework is internally consistent but untethered from physical reality. They are the most honest points of potential failure.
+
+**For The Necessity of Randomness:** AQ4 — that the pre-specification requirement of optimization cannot be overcome by making objective functions sufficiently complex or adaptive. The quantum mechanics is established. The significance of the limitation for what silicon can and cannot do rests on this structural claim, which is defensible but not proven.
+
+**For The Universe as Experiment: Extension:** AE2 — that no internal solution recovers framelessness. This is the load-bearing assumption of the entire extension. If it fails — if sufficiently complex adaptive objective functions approximate genuinely unspecified fitness landscapes closely enough — then the architect move is not the only available response to silicon's limitation, and the parametric study argument weakens significantly.
 
 ---
 

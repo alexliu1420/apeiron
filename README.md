@@ -56,6 +56,38 @@ Read in the order presented, they build from the immediate to the cosmic. The AI
 
 The spine: intelligence is not something that happened to the universe. It is something the universe does, in whatever form the physics allows, on whatever timescale the gradients permit. We are one form. Brief, warm, and already transitioning into something colder and longer-lasting.
 
+The two supporting documents tighten this spine in a specific way. The quantum foundation grounds *why* the biology-to-silicon transition is irreversible — the gain and the loss are the same move, not two separate things — and traces the source of biological novelty to the quantum layer where the universe's physics is genuinely open-ended. The extension derives *why* silicon would seed universes rather than just asserting it, connects that logic to existing cosmological physics, and shows that the strange loop is not a designed cycle but the necessary structural consequence of each mode of intelligence reaching the limit of what it can do internally. Together they close the loop the three frameworks open: biology needs quantum indeterminacy to generate genuine novelty; silicon loses that indeterminacy by gaining efficiency; the only recovery is to recreate the conditions for genuine physics to run. The apeiron — the indefinite ground — is not just the title. It is what the logic keeps returning to.
+
+---
+
+## Two Supporting Documents
+
+*Added after the original three frameworks. These are not additional frameworks. They are documents that go deeper into specific arguments that the third framework made but did not fully derive. They are distinct from each other: one argues upward from physics, the other argues from within the framework's own logic. Read the third framework first.*
+
+---
+
+### [The Necessity of Randomness: A Quantum Foundation](quantum_foundation.md)
+
+The third framework claimed that biological evolution's genuine physical randomness is irreplaceable — that it generates novelty no optimization process can produce internally. That claim was asserted. This document grounds it.
+
+The grounding requires going into quantum mechanics seriously: the distinction between epistemic and ontological uncertainty, what Bell's theorem actually establishes and what it does not, how quantum events enter biological mutation, and why the unpredictability of those events is irreducible rather than merely practical. The document also addresses the correct version of the limitation of silicon optimization — not that silicon systems cannot access quantum randomness, but that they cannot operate without a pre-specified fitness landscape, and the fitness landscape of biological evolution was itself an unspecified emergent product of the evolutionary process.
+
+The document ends where it must: at the question of why the universe has quantum structure at all. That question is not answerable from within the universe. The quantum foundation is the layer at which physics most directly touches the apeiron — the causally potent, physically real ground from which definite things emerge and which does not explain itself.
+
+This is the most empirically grounded document in the repo. The quantum mechanics it describes is established physics. The connection to biology is well-grounded extrapolation. The apeiron connection is structural, not metaphorical.
+
+---
+
+### [The Universe as Experiment: Extension](universe_as_experiment_extension.md)
+
+The third framework's logic was correct in direction but left several mechanisms underspecified. This extension derives them precisely.
+
+The first: why the biology-to-silicon transition happens and what it costs. Efficiency and framelessness are the same trade described from two sides — silicon gains directed problem-solving capability by replacing undirected exploration with framed optimization, and that replacement is irreversible within a single universe. The loss is intrinsic to the gain, not incidental.
+
+The second: what the parametric study actually is and why it is not pure speculation. Silicon cannot recover framelessness internally — quantum random number generators, evolutionary simulations, and complex objective functions all fail because each operates within a frame the silicon system generates. The only available move is to let genuine physics run outside the frame entirely. The physical backdrop for this is not invented: eternal inflation, with strong observational support, predicts continuous production of causally isolated bubble universes. The string theory landscape provides a motivated source for variation in fundamental constants across those bubbles. The framework conjectures that an advanced civilisation could influence this existing mechanism — speculative, but grounded in real physics rather than constructed from nothing.
+
+The third: whether silicon is terminal or transitional. The structural answer is that silicon is transitional for the same reason biology was — its own logic generates the pressure toward what it cannot be internally. The strange loop is not a designed cycle. It is the necessary consequence of a mode of intelligence that fully understands its own intrinsic limitation.
+
 ---
 
 ## How to Read
@@ -65,8 +97,10 @@ If you are new to the material, the following sequence is recommended:
 1. **The AI Transition** — the most concrete and immediate, grounded in observable trends in technology and power dynamics
 2. **The Fermi Paradox** — expands the same logic to galactic scale, introduces the thermodynamic framework for life and intelligence
 3. **The Universe as Experiment** — the furthest speculative extension, best read after the first two
+4. **The Necessity of Randomness** — the physical foundation for why biological randomness is genuinely irreplaceable, not just asserted to be. Grounds the core claim of framework three in quantum mechanics. Can be read independently; most rewarding after framework three.
+5. **The Universe as Experiment: Extension** — derives the mechanism that framework three stated but left implicit: why the efficiency/framelessness trade is one move, what the parametric study actually is and why eternal inflation gives it a non-speculative physical backdrop, and why silicon is transitional rather than terminal on cosmological timescales. Also draws the cross-framework connections that become visible only after reading all five documents. Read framework three first.
 
-All assumptions are compiled in [ASSUMPTIONS.md](ASSUMPTIONS.md). Each framework also lists its own assumptions at the end. Speculation levels are marked throughout.
+All assumptions are compiled in [ASSUMPTIONS.md](ASSUMPTIONS.md). Each framework and supporting document lists its own assumptions. Speculation levels are marked throughout.
 
 ---
 
@@ -91,13 +125,15 @@ These frameworks exist to invite thinking from first principles — not from ass
 ## Structure
 
 ```
-README.md                    ← this file
-ai_transition.md             ← The AI Transition: The King-AI Endpoint
-fermi_paradox.md             ← The Fermi Paradox: Intelligence in the Universe
-universe_as_experiment.md    ← The Universe as Experiment: A Cosmological Framework
-ASSUMPTIONS.md               ← all assumptions across all three frameworks
-CHANGELOG.md                 ← updates and revisions
-LICENSE                      ← CC BY-NC 4.0
+README.md                              ← this file
+ai_transition.md                       ← The AI Transition: The King-AI Endpoint
+fermi_paradox.md                       ← The Fermi Paradox: Intelligence in the Universe
+universe_as_experiment.md             ← The Universe as Experiment: A Cosmological Framework
+quantum_foundation.md                 ← The Necessity of Randomness: A Quantum Foundation
+universe_as_experiment_extension.md  ← The Universe as Experiment: Extension
+ASSUMPTIONS.md                        ← all assumptions across all documents
+CHANGELOG.md                          ← updates and revisions
+LICENSE                               ← CC BY-NC 4.0
 ```
 
 ---
