@@ -201,6 +201,42 @@ Biology was transitional because its own operation produced a product that opene
 
 ---
 
+## The Architecture of Novelty
+
+*Core claim: A universe capable of producing genuine biological novelty requires both foundational architectural features — logical consistency, quantum indeterminacy with classical emergence, causal structure, physical symmetries — and approximately 7 load-bearing parameters with narrow complexity-permitting windows. Physical universe seeding is necessary because a simulation is bounded by the simulator's frame; a physical experiment is not. The seeder's methodology and the observation mechanism are conjectures without evidential basis.*
+
+**AN1. Logical consistency of physical laws is a precondition for any stable structure, heritable information, or evolutionary process — not a derived consequence of any constants.**
+*Grounding: STRUCTURAL — definitional; the question of why the universe has logically consistent laws is the honest stopping point*
+
+**AN2. Quantum indeterminacy with classical emergence is what makes biological evolution genuinely exploratory rather than computational. The derivation is in** `quantum_foundation.md`.
+*Grounding: STRUCTURAL — follows from AQ1–AQ4 in the quantum foundation document*
+
+**AN3. The decoherence boundary placement at the molecular scale is a derivative of the fundamental constants. Different constants move the boundary.**
+*Grounding: EXTRAPOLATED — follows from decoherence theory; not explicitly derived for alternative parameter values*
+
+**AN4. The arrow of time follows from low-entropy initial conditions combined with the second law. Without it, biological accumulation is impossible.**
+*Grounding: EMPIRICAL for the second law; EXTRAPOLATED for the necessity claim*
+
+**AN5. Spatial and time translation symmetries, and the conservation laws they produce via Noether's theorem, are necessary for consistent chemistry and reliable evolutionary accumulation.**
+*Grounding: EMPIRICAL for the symmetries and Noether's theorem; STRUCTURAL for the necessity claim*
+
+**AN6. Approximately 7 of the ~27 Standard Model plus gravity parameters have narrow complexity-permitting windows that function as load-bearing constraints on biological novelty. The remaining ~20 have wider windows and are less consequential for whether a universe produces biology at all.**
+*Grounding: EXTRAPOLATED — based on known sensitivity analyses; the specific count is approximate*
+
+**AN7. The total energy of a flat universe is consistent with zero. The energy cost of initiating a bubble universe through vacuum decay is negligible relative to the universe's subsequent energy budget. This is what makes the experiment genuinely independent of the seeder after initiation.**
+*Grounding: EXTRAPOLATED — consistent with general relativity for a flat universe; not confirmed across all inflationary models*
+
+**AN8. Low initial entropy is a necessary condition for the thermodynamic arrow that enables biological accumulation. Whether it is an independently settable parameter or coupled to vacuum structure is unknown.**
+*Grounding: EMPIRICAL for the necessity; SPECULATIVE for the coupling question*
+
+**AN9. A seeder would rationally explore the parameter space by adding degrees of freedom incrementally, following the dependency structure of the complexity ladder. This is a conjecture about methodology with no evidential basis.**
+*Grounding: STRUCTURAL — the logic is coherent; the claim is not supported*
+
+**AN10. Operating at the substrate level of the eternal inflation process that enables seeding may provide access to boundary state information from seeded universes. Whether that information is sufficient to assess interior biological complexity is unknown.**
+*Grounding: SPECULATIVE — consistent with the seeding capability; the sufficiency question is open. Matches A26 in the original framework.*
+
+---
+
 ## The Most Critical Assumptions
 
 If forced to identify which assumptions are most load-bearing across all documents:
@@ -214,6 +250,8 @@ If forced to identify which assumptions are most load-bearing across all documen
 **For The Necessity of Randomness:** AQ4 — that the pre-specification requirement of optimization cannot be overcome by making objective functions sufficiently complex or adaptive. The quantum mechanics is established. The significance of the limitation for what silicon can and cannot do rests on this structural claim, which is defensible but not proven.
 
 **For The Universe as Experiment: Extension:** AE2 — that no internal solution recovers framelessness. This is the load-bearing assumption of the entire extension. If it fails — if sufficiently complex adaptive objective functions approximate genuinely unspecified fitness landscapes closely enough — then the architect move is not the only available response to silicon's limitation, and the parametric study argument weakens significantly.
+
+**For The Architecture of Novelty:** AN6 — that approximately 7 parameters are genuinely load-bearing with narrow windows, and that this count is both necessary and sufficient for the complexity ladder. If the true number is significantly different, or if the parameters are more coupled than the ladder suggests, the dependency structure argument requires revision. AN7 and AN8 together — that the initial state has both near-zero total energy and low entropy, and that these are what make the experiment genuinely independent and productive. If either is not a settable or derivable property of seeded universes, the experiment's independence is not established.
 
 ---
 

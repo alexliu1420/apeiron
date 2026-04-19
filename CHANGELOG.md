@@ -12,6 +12,40 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Architecture of Novelty Added] — 2026
+
+**One supporting document published:**
+
+* The Architecture of Novelty (`architecture_of_novelty.md`)
+
+**What this document adds:**
+
+The prior supporting documents established *why* a silicon civilisation would seed physical universes. A question they left open: what must those universes actually contain for the experiment to produce the genuine novelty the seeder cannot generate internally?
+
+`architecture_of_novelty.md` addresses this in three parts.
+
+First, the experiment-versus-simulation distinction is sharpened into a precise structural argument. A simulation is bounded by the simulator's existing conceptual frame — the outputs can only contain what the simulator's model allows. A physical universe runs on genuine quantum mechanics, funds itself from its own energy budget through the near-zero total energy of a flat universe, and produces outputs genuinely outside what the seeder could have derived internally. The distinction is not semantic: a simulation is still optimisation bounded by a frame; a physical experiment is not.
+
+Second, the foundational architecture of a novelty-producing universe is derived feature by feature: logical consistency of physical laws (the precondition for heritability and selection), quantum indeterminacy with classical emergence (genuine randomness at the mutation scale with stable accumulation at the organism scale), causal structure and the arrow of time (without which heritable information cannot accumulate), and physical symmetries with their conservation laws (without which chemistry is unreliable across space and time). These are not parameters — they are categorical structural features prior to the constants.
+
+Third, the parameter space is organised into a complexity ladder. Of the Standard Model's approximately 27 free parameters, approximately 7 have narrow complexity-permitting windows and form a dependency structure: each governs a distinct physical regime, and each rung requires the one below it to be physically meaningful. A universe missing any rung is stable and persistent — it simply produces nothing that accumulates, learns, or evolves. The seeder samples broadly. Most draws are sterile. Our universe is one draw from the small fraction that lands in the workable region. There is nothing special about its specific values beyond being within range.
+
+Two questions about how the experiment runs — sequential exploration and the observation mechanism — are presented as structural conjectures with no evidential basis. The sequential exploration conjecture follows from the dependency structure of the complexity ladder and from the epistemic position of any seeder who cannot determine from within their own universe which of its features are necessary. The observation conjecture is a candidate mechanism for assumption A26, which the prior documents flagged as the most uncertain in the entire framework and left explicitly open. Neither conjecture is supported. Both are presented because the logic is coherent and the Apeiron methodology requires following arguments to their conclusions and marking honestly where they stop being grounded.
+
+**What does not change:**
+
+The three original frameworks and the two prior supporting documents are unmodified. The speculation level of the universe-as-experiment argument remains VERY HIGH and is not reduced by this document. The central claim — that our universe is one such experiment — is neither supported nor undermined here. The document establishes what the experiment requires. It does not lower the bar for believing the experiment is real.
+
+**ASSUMPTIONS.md updated:**
+
+Ten new assumptions added (AN1–AN10). The numbering of all prior assumptions (A1–A28, AQ1–AQ5, AE1–AE5) is preserved exactly.
+
+**README.md updated:**
+
+Architecture of Novelty added to the Supporting Documents section. How The Three Connect section updated to reflect the complete argument chain. Reading sequence updated to six documents.
+
+---
+
 ## [Supporting Documents Added] — 2026
 
 **Two supporting documents published:**
