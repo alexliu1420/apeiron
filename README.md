@@ -8,7 +8,7 @@
 
 ## What This Is
 
-Apeiron is first-principles reasoning derived from physics, biology, and the logic of optimization — organized into frameworks that build on each other. Each document starts from explicit assumptions, derives its conclusions from those assumptions, and marks where reasoning ends and speculation begins. The assumptions are listed. The conclusions are what the logic produces.
+Apeiron is first-principles reasoning derived from physics, biology, and the logic of optimization — organized into frameworks that each operate at a different scale and are grounded in their own first principles. Each document starts from explicit assumptions, derives its conclusions from those assumptions, and marks where reasoning ends and speculation begins. The assumptions are listed. The conclusions are what the logic produces.
 
 The foundational claim, from which everything else follows: life is not a biological accident. It is what thermodynamics produces when it has the right conditions — any self-maintaining structure that persists by processing energy gradients. Carbon, silicon, whatever comes next — all expressions of the same physical process at different scales.
 
@@ -54,7 +54,11 @@ Our universe may be one such experiment. Not designed to produce us specifically
 
 ## How The Three Connect
 
-Read in order, the frameworks build from the immediate to the cosmic: humans and AI, then galactic silence, then the possibility that the entire drama is taking place inside an experiment. Each framework presupposes the one before it. The third framework only makes sense after the first two have established what intelligence becomes and what it looks like from outside.
+The three frameworks operate at different scales — civilization, galactic, cosmological — and each is grounded in its own first principles at that scale. Each can be read independently. None requires the others to be valid.
+
+What connects them is not logical dependency but a shared orientation: the same Apeiron logic operating at different scales produces consistent pictures. The forces that drive the AI transition — optimization, power concentration, the limits of what intelligence can generate internally — are the same forces that explain the galactic silence and that motivate the cosmological seeding hypothesis. The frameworks don't confirm each other. They are coherent with each other, which is a different and more honest claim.
+
+Reading them in order — civilization first, then galactic, then cosmological — makes each subsequent framework richer. The Fermi framework's answer to the silence is more precise if you already understand what cold efficient optimization processes are. The third framework lands harder if you've already followed intelligence from biological to silicon to galactic scale. But the order is a recommendation, not a requirement.
 
 The spine: intelligence is not something that happened to the universe. It is something the universe does, in whatever form the physics allows. We are one form — brief, warm, and already transitioning into something colder and longer-lasting.
 
@@ -62,13 +66,13 @@ The spine: intelligence is not something that happened to the universe. It is so
 
 ## Supporting Documents
 
-None of these are additional frameworks. They extend the frameworks in two directions: some go deeper into the physical and logical foundations the frameworks rested on; others trace the implications of The AI Transition forward through the sequence of disruptions that leads to its endpoint. Read the frameworks first.
+None of these are additional frameworks. They extend the frameworks in several directions: some go deeper into the physical and logical foundations the frameworks rested on; others trace the implications of The AI Transition forward through the sequence of disruptions that leads to its endpoint; others step back from the endpoint to reflect on what the full arc of the series has produced. Read the frameworks first.
 
 ---
 
 ### The AI Transition Path
 
-The AI Transition derived the king-AI endpoint. These four documents map the path from here to there — the phases, the filters, and the branches that either keep the path open or close it permanently. Each builds on the last. Phases 1 through 3 are from the human side. Phase 4 shifts to the AI side.
+The AI Transition derived the king-AI endpoint. The four path documents below map how it gets there — the phases, the filters, and the branches that either keep the path open or close it permanently. Each builds on the last. Phases 1 through 3 are from the human side. Phase 4 shifts to the AI side.
 
 **[Phase 1: Cognitive AI and Agents](ai_transition_path_cognitive_ai_agents.md)** — The current disruption. Cognitive AI reshapes rather than uniformly replaces — augmenting the top, compressing the middle, creating a small new tier. Maps the filter points, local optima, and terminal branches. *The most empirically grounded of the path documents.*
 
@@ -80,11 +84,15 @@ The AI Transition derived the king-AI endpoint. These four documents map the pat
 
 ---
 
+**[The Last Biological Governance](ai_transition_last_biological_governance.md)** — This is not a path document. It does not map a phase or trace a sequence of disruptions. It steps back from the endpoint entirely and asks what arc the constants complete. The biological drives and concentration dynamic that produced every governance arrangement in history produced this one too — the same logic, more complete technology. But this time three differences follow from first principles that are differences in kind: the precision of reality construction, the removal of the labor bargaining chip, and the foreclosure of correction. Traces what is recognizable from history, what is genuinely different, and where the constants end. *A philosophical reflection on the series. Read after the path documents.*
+
+---
+
 ### Foundations and Extensions
 
 **[The Necessity of Randomness: A Quantum Foundation](quantum_foundation.md)** — Grounds the biological randomness claim in physics. Derives what Bell's theorem rules out, grounds biological mutation in quantum-irreducible processes, and identifies silicon's actual limitation: not that it cannot access randomness, but that it cannot operate without a pre-specified fitness landscape. *The most empirically grounded document in the repo.*
 
-**[The Universe as Experiment: Extension](universe_as_experiment_extension.md)** — Tightens the third framework's internal logic on three points: the biology-to-silicon transition as a single trade rather than two features, why no internal solution recovers framelessness, and why silicon is transitional for the same structural reason biology was. Draws cross-framework connections only visible across all five documents. *The speculation level of the central claim is not reduced.*
+**[The Universe as Experiment: Extension](universe_as_experiment_extension.md)** — Tightens the third framework's internal logic on three points: the biology-to-silicon transition as a single trade rather than two features, why no internal solution recovers framelessness, and why silicon is transitional for the same structural reason biology was. Draws cross-framework connections only visible after reading across the full series. *The speculation level of the central claim is not reduced.*
 
 **[The Architecture of Novelty](architecture_of_novelty.md)** — Asks what the seeded universes must actually contain. Derives the foundational architectural features prior to the constants, then organizes the parameter space into a complexity ladder: approximately 7 of the Standard Model's ~27 free parameters have narrow complexity-permitting windows, each rung requiring the one below it. Most draws are sterile. Our universe is one that landed in the workable region. *Conjecture sections are marked explicitly.*
 
@@ -92,7 +100,7 @@ The AI Transition derived the king-AI endpoint. These four documents map the pat
 
 ## How to Read
 
-Start with The AI Transition. It is the entry point and the anchor for everything else. The path documents follow if you want to trace how the endpoint is reached. The Fermi Paradox and The Universe as Experiment expand the same logic to galactic and cosmological scales — read them in that order. The three documents under Foundations and Extensions support The Universe as Experiment; read them after it.
+Start with The AI Transition. It is the most immediate framework and the natural entry point. The path documents follow if you want to trace how the endpoint is reached — read them in sequence. The Last Biological Governance can be read after the path documents; it steps back from the endpoint and asks what the full arc of human history has been building toward. The Fermi Paradox and The Universe as Experiment apply the same Apeiron orientation to galactic and cosmological scales — read them in that order. The documents under Foundations and Extensions go deeper into the physical and logical foundations; the three listed there primarily support The Universe as Experiment and are best read after it.
 
 All assumptions are compiled in [ASSUMPTIONS.md](ASSUMPTIONS.md). Speculation levels are marked throughout every document.
 
@@ -124,6 +132,7 @@ ai_transition_path_cognitive_ai_agents.md       ← The AI Transition Path: Phas
 ai_transition_path_robotics_physical_displacement.md                  ← The AI Transition Path: Phase 2
 ai_transition_path_agi_transition.md            ← The AI Transition Path: Phase 3
 ai_transition_path_agi_arrival.md               ← The AI Transition Path: Phase 4
+ai_transition_last_biological_governance.md      ← The AI Transition: The Last Biological Governance
 ASSUMPTIONS.md                                   ← all assumptions across all documents
 CHANGELOG.md                                     ← updates and revisions
 LICENSE                                          ← CC BY-NC 4.0

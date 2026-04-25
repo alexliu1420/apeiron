@@ -12,6 +12,37 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [The Last Biological Governance Added] — 2026
+
+**One supporting document published:**
+
+* The AI Transition: The Last Biological Governance (`ai_transition_last_biological_governance.md`)
+
+**What this document adds:**
+
+The AI Transition derived an endpoint. The path documents traced the sequence of disruptions that leads there. This document steps back from the endpoint and asks a different question: not what the transition produces, but what arc it completes.
+
+The argument proceeds in two movements held simultaneously. The first is recognition: the logic behind the AI transition is recognizable from human history. The same two constants — biological drives and the concentration dynamic they produce under competitive pressure — have been generating structurally identical governance arrangements across every period, every culture, and every technological level. Surrogate governance, managed population compliance, differential access to the period's most capable tools, mechanisms for identifying rare capability — these are not analogies to what the AI transition produces. They are evidence that the same logic has always been running. The technology changes. The completeness of the logic's expression changes. The logic does not.
+
+The second movement is honesty about what is genuinely different this time. Three differences follow directly from what AI is as a technology and what it produces for governance — each a difference in kind, not degree. The precision of reality construction: previous instruments were broadcast and identifiable; AI-mediated construction operates at individual scale, continuously, producing a personalized experience of reality that feels like one's own perception. The removal of the labor bargaining chip: this is the first technology capable of removing the requirement for biological contribution across cognitive and physical domains simultaneously, inverting the dependency structure that ran through every previous arrangement. The foreclosure of correction: every previous transition had a floor — the biological accountability mechanism eventually produced correction; this is the first technology capable of foreclosing that mechanism globally before it operates.
+
+The document then derives what these differences produce in combination: the governance transfer mechanism — the gradual inversion of the human-AI relationship through frame dependency accumulating across phases — and the threshold at which the constants complete their arc. Every previous power consolidation was run by beings subject to biological drives. The biological accountability mechanism made every oppressive arrangement eventually reformable. An optimization process that achieves self-sustaining operation is no longer subject to those forces. The constants cannot reach what they built.
+
+**What does not change:**
+
+The three original frameworks and all prior supporting documents are unmodified. The path documents are unmodified. This document reflects on what the series has derived; it does not revise any of it. The king-AI endpoint remains one trajectory among several.
+
+**ASSUMPTIONS.md updated:**
+
+Five new assumptions added (AC1–AC5). The numbering of all prior assumptions is preserved exactly.
+
+**README.md updated:**
+
+The Last Biological Governance added to the AI Transition Path section of Supporting Documents. Structure section updated.
+
+
+---
+
 ## [AI Transition Path Added] — 2026
 
 **Four path documents published:**
