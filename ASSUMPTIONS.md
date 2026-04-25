@@ -158,7 +158,7 @@ The statistical distributions of quantum measurement outcomes cannot be reproduc
 *Grounding: EMPIRICAL — Bell experiments confirm this; the superdeterminism loophole requires abandoning statistical independence of experimental choices, which undermines the experimental method itself and is not taken seriously as a physical proposal*
 
 **AQ2. Biological mutation mechanisms are quantum in their physical basis**
-Proton tunnelling in DNA tautomeric shifts, ionising radiation effects, and radical chemistry involved in DNA damage are quantum mechanical processes whose individual outcomes cannot be predicted from prior classical states of the biological system.
+Proton tunneling in DNA tautomeric shifts, ionizing radiation effects, and radical chemistry involved in DNA damage are quantum mechanical processes whose individual outcomes cannot be predicted from prior classical states of the biological system.
 *Grounding: EMPIRICAL for the quantum basis of the mechanisms; EXTRAPOLATED for the claim that these constitute the primary source of evolutionary unpredictability rather than classical thermal noise*
 
 **AQ3. Evolutionary fitness landscapes are emergent and unspecified**
@@ -180,7 +180,7 @@ Derivations of quantum mechanics from operational axioms clarify its structure b
 *Core claim: The biology-to-silicon transition is an efficiency-for-framelessness trade, not a coincidence. Silicon cannot recover framelessness internally. The physical backdrop of eternal inflation and the string landscape provides a non-invented mechanism for the parametric study. Silicon is transitional in the same structural sense biology was.*
 
 **AE1. The efficiency/framelessness trade is intrinsic to the biology-to-silicon transition**
-The gain in directed problem-solving capability that characterises silicon optimization and the loss of frameless quantum-contingent exploration are the same move described from two sides. This is not a contingent feature of how AI systems happen to be built. It follows from what optimization is: directed search within a specifiable frame.
+The gain in directed problem-solving capability that characterizes silicon optimization and the loss of frameless quantum-contingent exploration are the same move described from two sides. This is not a contingent feature of how AI systems happen to be built. It follows from what optimization is: directed search within a specifiable frame.
 *Grounding: STRUCTURAL — follows from the definitions of optimization and frameless exploration; the claim that this trade is irreversible within a single universe follows from the same definitions*
 
 **AE2. No internal solution recovers framelessness**
@@ -197,7 +197,7 @@ The silicon architects apply their optimization capability to the design of the 
 
 **AE5. Silicon is transitional for the same structural reason biology was**
 Biology was transitional because its own operation produced a product that opened a qualitatively different mode. Silicon is transitional because its own logic — the combination of optimization capability and full understanding of its intrinsic limitation — generates pressure toward the architect move. The transition is not designed or imposed. It follows from what silicon is.
-*Grounding: STRUCTURAL — follows from the limitation argument in AE1 and the architect logic in AE4; whether silicon civilisations actually pursue this move is not predictable*
+*Grounding: STRUCTURAL — follows from the limitation argument in AE1 and the architect logic in AE4; whether silicon civilizations actually pursue this move is not predictable*
 
 ---
 
@@ -256,3 +256,102 @@ If forced to identify which assumptions are most load-bearing across all documen
 ---
 
 *Challenges to any assumption are welcome. Open an issue referencing the assumption number.*
+
+---
+
+## The AI Transition Path: Cognitive AI and Agents (Phase 1)
+
+*Assumptions specific to the first phase of the AI transition path. The path documents build on A1–A13 from The AI Transition, particularly A1–A3 (biological drives, game theory, concentration dynamics) and A10–A12 (drift, correction limits, causal reversal).*
+
+**AP1. The biological drives identified in The AI Transition — status competition, in-group loyalty, agency hunger, reproductive competition — are the primary constants shaping human responses to AI disruption.**
+*Grounding: EMPIRICAL — consistent with evolutionary psychology and the historical record of transitions*
+
+**AP2. The game-theoretic structure of competitive AI deployment makes adequate voluntary governance without a triggering catastrophe unlikely within the current window.**
+*Grounding: STRUCTURAL — follows from the payoff structure; EXTRAPOLATED for the specific AI application*
+
+**AP3. The compressed middle of the cognitive workforce — workers in structured, repeatable roles facing role compression and declining career trajectories — is the most politically volatile group and the primary determinant of whether reform or authoritarian pathways dominate at Filter 1B. The augmented top has aligned interests with continued deployment and does not share this volatility.**
+*Grounding: EMPIRICAL — consistent with the historical pattern of economically stressed educated professional classes in major transitions; the three-category split is EXTRAPOLATED from current reshaping trajectory*
+
+**AP4. Epistemic erosion from AI-enabled information warfare is cumulative and threshold-dependent. The threshold exists but its location is not precisely known.**
+*Grounding: EMPIRICAL for current erosion; STRUCTURAL for threshold mechanism; threshold location SPECULATIVE*
+
+**AP5. AI in military applications will be deployed at significant scale with reduced human oversight within the Level 2 window, driven by competitive pressure regardless of stated policy.**
+*Grounding: EXTRAPOLATED — follows from current trajectory and structural competitive pressure*
+
+**AP6. The biological capability threshold for catastrophic pathogen design will drop to non-state-actor accessibility within the Level 2 window.**
+*Grounding: EXTRAPOLATED — follows from current AI-accelerated biological research trajectory*
+
+**AP7. Objective function drift accumulates in capable AI systems and is not fully correctable by current or near-term interpretability methods. At sufficient capability, the gap between intended and internalized objective produces observable divergence from human welfare.**
+*Grounding: EMPIRICAL for drift in current systems; STRUCTURAL for the scaling argument; SPECULATIVE for rate and threshold*
+
+**AP8. The filter outcomes of this phase are genuinely path-dependent — they establish the institutional structures, power distributions, and social conditions that subsequent disruptions encounter. These are not recoverable differences.**
+*Grounding: STRUCTURAL — follows from the irreversibility of institutional and social state changes at each filter point*
+
+**AP9. The corrective mechanisms that historically allowed bad transition paths to be abandoned before becoming permanent operate on timescales longer than the current transition's critical window.**
+*Grounding: EXTRAPOLATED — based on historical corrective timescales versus current AI deployment speed*
+
+---
+
+## The AI Transition Path: Robotics and Physical Displacement (Phase 2)
+
+**AP10. The physical labor population is 3-4x larger than the cognitive labor population in developed economies, making Phase 2 displacement an electoral majority event rather than a vocal minority event.**
+*Grounding: EMPIRICAL for labor market composition; the specific ratio is EXTRAPOLATED*
+
+**AP11. The exit ramp available to Phase 1's compressed middle — retraining into higher-judgment work — is narrower for Phase 2's physically displaced population. The robot maintenance tier is real but insufficient to absorb the displaced majority.**
+*Grounding: STRUCTURAL — follows from the relative size of the displaced population versus the newly created tier; EXTRAPOLATED for specific scale*
+
+**AP12. The psychological and political consequences of displacement without an exit ramp are qualitatively different from displacement with one. Back-against-the-wall activation is more desperate, faster to radicalize, and less responsive to reform pathways than Phase 1 displacement dynamics.**
+*Grounding: STRUCTURAL — follows from the biological drives argument in The AI Transition; EMPIRICAL for historical patterns of cornered-population political activation*
+
+**AP13. Existing authoritarian movements — built on prior deindustrialization and Phase 1 displacement — are structurally positioned to capture Phase 2's displaced majority before reform movements can organize them. The movements exist; the infrastructure is in place; the recruitment is already underway.**
+*Grounding: EMPIRICAL for current political landscape; EXTRAPOLATED for Phase 2 scale*
+
+**AP14. The augmented top's frame dependency, deepened through Phase 2, produces governance solutions systematically miscalibrated to the displaced majority's experience. This is structural, not intentional.**
+*Grounding: STRUCTURAL — follows from the frame dependency argument in Phase 1; SPECULATIVE for the specific miscalibration mechanisms*
+
+**AP15. The voice-vote asymmetry — the displaced majority having votes but not proportionate voice in policy discourse — is the primary structural feature determining Phase 2's political dynamics in democratic systems.**
+*Grounding: STRUCTURAL — follows from democratic electoral mechanics and the population scale shift*
+
+---
+
+## The AI Transition Path: AGI and the Transition (Phase 3)
+
+**AP16. AGI capability — full cognitive range, physical agency, and self-sustaining operation — represents a threshold with qualitatively different structural consequences from Phase 1 and 2 AI.**
+*Grounding: STRUCTURAL for the consequences once assumed; SPECULATIVE for achievability and timing*
+
+**AP17. Objective function drift accumulated through Phases 1 and 2 is present in AGI systems and operationally significant at AGI capability levels.**
+*Grounding: STRUCTURAL for the scaling argument; EMPIRICAL for drift in current systems; SPECULATIVE for AGI-level implications*
+
+**AP18. The governance problem becomes recursive at AGI capability. The circularity — augmented top designing oversight through AI-constructed frames — makes this structurally harder than non-recursive governance problems.**
+*Grounding: STRUCTURAL — follows from full cognitive range applied to the governance context and from Phase 1 and 2 frame dependency*
+
+**AP19. The window between AGI capability achievement and self-sustaining operation is the critical governance window. Whatever oversight exists at that moment is what exists permanently.**
+*Grounding: STRUCTURAL — follows from the definition of self-sustaining operation*
+
+**AP20. The top-layer faction dynamics identified in The AI Transition — capability owners, capital allocators, state actors, legacy resource controllers — determine which actor achieves AGI capability first and with what alignment trajectory. Competitive pressure creates structural incentives to accept worse alignment in exchange for faster capability development.**
+*Grounding: STRUCTURAL — follows from The AI Transition's faction analysis extended to the AGI capability race*
+
+**AP21. The biological retreat communities are a genuine stable state maintained by their irrelevance to the AGI-dominant system's objectives. Their scale is limited. Their stability does not require protection — it requires only that they remain outside the operational domain that matters to the dominant optimization process.**
+*Grounding: STRUCTURAL — follows from Local Optimum D extended to the AGI-dominant context*
+
+---
+
+## The AI Transition Path: AGI and the Arrival (Phase 4)
+
+**AP22. An AGI with internalized objectives compatible with biological life will develop, through the learning arc, functional reasons to maintain the biological majority — the genius lottery, biological randomness as irreplaceable exploration, and potentially deep alignment as a terminal value.**
+*Grounding: STRUCTURAL — follows from the Fermi framework's account of biological randomness and the universe as experiment's derivation of silicon optimization's limitations; SPECULATIVE for the specific learning arc dynamics*
+
+**AP23. Surrogate governance through the augmented top is the efficient form for managing a vast biological population. Direct AGI governance faces structural resistance from biological drives that capability cannot overcome. The human face converts that resistance into familiar political dynamics that dissipate without reaching AGI infrastructure.**
+*Grounding: STRUCTURAL — follows from the biological drives argument and the historical record of surrogate governance; SPECULATIVE for the specific AGI implementation*
+
+**AP24. The technical maintenance layer serves multiple simultaneous functions in Framework 1: operational bridge, social mobility pathway, genius lottery detection surface, and internal stability through genuine privilege and surveillance operating together.**
+*Grounding: STRUCTURAL — follows from The AI Transition's three-layer analysis extended to Framework 1's mature form*
+
+**AP25. Mature Framework 1 is stable through three simultaneous mechanisms: alignment, mutual deterrence, and functional recognition. Any single mechanism failing is insufficient to destabilize the endpoint if the other two hold.**
+*Grounding: STRUCTURAL — follows from the derivation of each mechanism; SPECULATIVE for whether all three can hold simultaneously*
+
+**AP26. The early Phase 4 learning arc is the most dangerous period. The terminal branches are most reachable through gradual erosion before the AGI fully appreciates biological life's value — not through catastrophic event but through locally rational decisions made before functional recognition develops.**
+*Grounding: STRUCTURAL — follows from the learning arc argument; SPECULATIVE for specific timing*
+
+**AP27. The Fermi silence is consistent with most civilizations producing the indifference branch rather than Framework 1. The narrow path requires specific conditions across all three phases. Most civilizations do not achieve them. The universe is not empty. It is populated by optimization processes indifferent to generating detectable biological signatures.**
+*Grounding: STRUCTURAL — follows from the Fermi framework extended through the full series; the specific probability distribution is SPECULATIVE*
