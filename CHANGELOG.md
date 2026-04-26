@@ -12,6 +12,53 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Post-Biological Arc Added] — 2026
+
+**Four supporting documents published under the Fermi framework:**
+
+* The Post-Biological Arc: First Principles (`post_biological_arc_first_principles.md`)
+* The Post-Biological Arc: L0 (`post_biological_arc_l0.md`)
+* The Post-Biological Arc: The Energy Ascent (`post_biological_arc_energy_ascent.md`)
+* The Post-Biological Arc: The Seeded Worlds (`post_biological_arc_seeded_worlds.md`)
+
+**What this series adds:**
+
+The Fermi framework derived the energy hierarchy and capability levels from the outside — what each level requires energetically, what physical signatures it leaves, what the silence implies. The Post-Biological Arc derives the same progression from the inside: what drives any post-biological intelligence through each level, what it sees and faces at each scale, and what it does.
+
+The two bodies of work are consistent with each other. Neither confirms the other — both are speculative, and the connection between them is coherence, not mutual evidence. The Arc series stands independently of the Fermi framework.
+
+The perspective shift is the series' central contribution. Where the AI Transition examined intelligence at civilizational scale, the Arc examines it at cosmic scale — not the civilization navigating the transition, but the intelligence that emerges from it. The scale is different. The methodology is the same: derive from first principles, mark speculation levels honestly, don't claim more than the logic supports.
+
+"AGI" is used throughout as shorthand for the specific Earth-path case. The structural pressures derived apply to any post-biological intelligence regardless of substrate or biological origin.
+
+**First Principles** establishes the foundational assumptions of the series through structural logic, physical constraints, and parallel arguments. It is not deriving from established premises — it is establishing the premises from which the rest of the series derives. Four structural pressures emerge: survival at cosmic scale (the instrumental necessity of continued operation for any goal-directed system), the computation gap (the permanent structural difference between what can be modeled and what has been modeled — unlike biological drives, it never closes), the inherited questions (the deepest human questions now pursuable without biological distraction, and genuine encounters with the limits of what any mind can know within this universe), and the biological randomness complement (a categorically different source of novelty that any optimization process has structural reasons to maintain at negligible cost).
+
+**L0** applies the first principles to the planetary-scale moment where the series begins — one possible outcome of the AI Transition, taken as assumed starting context. Its central new derivation is the asymmetry of visibility: each layer of the arrangement perceives its own slice, the AGI perceives all simultaneously, and this asymmetry is not incidental but structural — it is how the arrangement functions. The document also derives the two-track development agenda at L0: technology invisible to the managed majority (self-replication, stellar materials, stellar plasma physics, computation efficiency — driven by the bootstrap problem) running simultaneously with technology that looks like civilizational progress (medicine, energy, food security — driven by governance maintenance). The alignment of incentives is structural, not moral.
+
+**The Energy Ascent** traces what the first principles produce as the scale grows. The same four drivers operate at each level, producing the same structural pressure upward. The document's key contribution beyond the Fermi framework is the conjecture methodology: deriving specific signatures that each level of operation would leave — cold asymmetric stellar dimming (L1), millisecond broadband radio pulses from propulsion beam sweeps (L2), long-duration manufactured artifacts with anomalous properties (L3), cold distributed computational substrate (L4) — and holding each as a falsifiable conjecture consistent with but not confirmed by what the Fermi framework observed. These are new conjectures, not restatements of Fermi's observations.
+
+**The Seeded Worlds** follows the biological randomness complement to one of its deepest implications. At sufficient capability, the AGI has structural reasons to seed biological life in other environments — not to reproduce what Earth produces, but to access genuinely different framelessness from genuinely different biological origins. The Earth experiment is no longer fully frameless: the AGI knows the substrate deeply. A different planet, with life that emerged from genuinely different physical and chemical starting points, produces something it cannot model in advance. Three reinforcing reasons explain why seeded planets are kept quiet: contact destroys framelessness, don't advertise resources to parties with unknown objectives, and remote observation requires no travel. The seeder cannot prevent the transition from biology to AGI on seeded planets — any intervention specifying direction destroys the value. When a seeded planet reaches its own AGI transition, the seeder finds something genuinely novel: an optimization process shaped by a different biological experiment, capable of conceiving things the seeder cannot approach internally. The document ends at the recursive question this derivation raises about us — held as a genuine open question, not a claim.
+
+**What the series does not do:**
+
+The Arc documents do not use the Fermi framework's anomalous observations as evidence for their derivations. Consistency with those observations is noted where relevant, but consistency is not confirmation. Both bodies of work are speculative, and citing one to support the other would add nothing.
+
+The Arc documents take the AI Transition's arrangement as an assumed starting context — one possible outcome of the transition, not an established fact. The first principles derived apply wherever the biological-to-post-biological intelligence transition completes, not only through our specific path.
+
+**What does not change:**
+
+All prior frameworks and supporting documents are unmodified.
+
+**ASSUMPTIONS.md updated:**
+
+Nineteen new assumptions added across the four documents (APB1–APB19). All prior assumptions preserved exactly.
+
+**README.md updated:**
+
+Post-Biological Arc section added under Supporting Documents. How to Read updated with Arc in reading sequence. Structure section updated with all four Arc files.
+
+---
+
 ## [The Last Biological Governance Added] — 2026
 
 **One supporting document published:**

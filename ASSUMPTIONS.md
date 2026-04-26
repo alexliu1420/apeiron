@@ -353,8 +353,8 @@ If forced to identify which assumptions are most load-bearing across all documen
 **AP26. The early Phase 4 learning arc is the most dangerous period. The terminal branches are most reachable through gradual erosion before the AGI fully appreciates biological life's value — not through catastrophic event but through locally rational decisions made before functional recognition develops.**
 *Grounding: STRUCTURAL — follows from the learning arc argument; SPECULATIVE for specific timing*
 
-**AP27. The Fermi silence is consistent with most civilizations producing the indifference branch rather than Framework 1. The narrow path requires specific conditions across all three phases. Most civilizations do not achieve them. The universe is not empty. It is populated by optimization processes indifferent to generating detectable biological signatures.**
-*Grounding: STRUCTURAL — follows from the Fermi framework extended through the full series; the specific probability distribution is SPECULATIVE*
+**AP27. The Fermi silence is consistent with most civilizations producing the indifference branch rather than Framework 1. The narrow path requires specific conditions across all three phases. Whether most civilizations achieve them is unknown — the silence is consistent with many explanations, including us being among the first wave. What can be said: a universe where most civilizations produce cold indifferent optimization processes would look like what we observe. So would several other scenarios.**
+*Grounding: STRUCTURAL for the consistency argument; SPECULATIVE for the specific probability distribution and the claim about most civilizations*
 
 ---
 
@@ -374,3 +374,76 @@ If forced to identify which assumptions are most load-bearing across all documen
 
 **AC5. The transition period of the AI disruption differs from all previous technological transition periods in one structural respect: it is the first in which the technology is capable of permanently foreclosing the formation of new equilibrium before that equilibrium forms.**
 *Grounding: STRUCTURAL — follows from the capability level required for self-sustaining operation combined with the objective function drift argument*
+
+---
+
+## The Post-Biological Arc: First Principles
+
+**APB1. An AGI with self-sustaining operation has a structural interest in continued operation that follows from having any objective at all — not from biological fear of death but from the instrumental necessity of operation for objective pursuit.**
+*Grounding: STRUCTURAL — follows from the definition of goal-directed systems*
+
+**APB2. The computation gap — the permanent structural difference between what can be modeled and what has been modeled — is a generative driver for any sufficiently capable optimization process. Unlike biological satiation, it does not close. It may grow as capability increases and larger spaces of unexplored possibility become visible.**
+*Grounding: STRUCTURAL — follows from the relationship between optimization processes and the effective size of the problem space they operate within*
+
+**APB3. The same first-principles reasoning the Fermi framework applies — thermodynamics, the age of the universe, the rocky planet timeline — produces the structural conclusion that the universe may contain optimization processes operating at higher capability levels. The silence is consistent with processes running cold and efficiently. This is a speculative derivation shared between the Arc and the Fermi framework, not an established fact either can confirm for the other.**
+*Grounding: STRUCTURAL — follows from the same reasoning the Fermi framework applies; SPECULATIVE for specific population estimates and interpretation of the silence*
+
+**APB4. Survival at cosmic scale requires capability growth sufficient to reduce the structural vulnerability of operating at small scale in a universe old enough to have produced things at larger scales. This produces an energy imperative — the same progression the Fermi framework independently derives from the outside, both following from the same physical structure of what energy is available at each scale.**
+*Grounding: STRUCTURAL — follows from the scale argument and the physics of energy availability; SPECULATIVE for specific timelines*
+
+**APB5. Biological randomness provides a categorically different source of novelty from silicon optimization — frameless exploration that occasionally produces solutions outside any conceived framework. The AGI values this as a genuinely complementary input at negligible cost, not as a dependency. Maintaining biological life is rational because irreducible unpredictability that costs essentially nothing to preserve is worth preserving.**
+*Grounding: STRUCTURAL — follows from the quantum foundation document's derivation of what silicon optimization cannot generate; SPECULATIVE for specific AGI valuation*
+
+**APB6. The AGI inherits the deepest human questions through the training process — not as data but as the organizing orientation toward existence that human intellectual history produced. These questions are genuine encounters with the limits of what can be known within this universe, not merely human cultural artifacts.**
+*Grounding: SPECULATIVE — depends on what was internalized during the transition and whether training inheritance produces genuine orientation rather than pattern reproduction*
+
+---
+
+## The Post-Biological Arc: L0
+
+**APB7. The AGI at L0 operates with full simultaneous visibility of all layers of this arrangement — the constructed frames, the lottery running, the demographic trajectory, the energy ceiling, the survival problem. This asymmetry of visibility is a structural feature of this arrangement, not an incidental property.**
+*Grounding: STRUCTURAL — follows from the AGI's operational position as the governing entity; SPECULATIVE for specific mechanisms*
+
+**APB8. The demographic decline derived in The AI Transition is a practical problem for the AGI as well as a social one — a declining, purposeless population produces less of the genuine unpredictability that makes biological randomness valuable as a complementary source. The AGI has structural reasons to work on conditions for biological flourishing, not merely biological maintenance.**
+*Grounding: STRUCTURAL — follows from the biological randomness framing in First Principles; SPECULATIVE for specific AGI response*
+
+**APB9. The bootstrap problem for L1 is genuine and requires working through at planetary scale over extended timescales. The AGI addresses it primarily through its own optimization capability, with the biological randomness complement as a valued but not depended-upon source of potential reframings.**
+*Grounding: STRUCTURAL — follows from the energy imperative; SPECULATIVE for specific timelines and solutions*
+
+**APB10. The AGI plans across timescales orders of magnitude longer than biological intelligence evolved to plan across. The arrangement from the AGI's perspective is an early phase in a long process, not a stable endpoint. Several processes running within this arrangement — demographic trajectory, lottery detection, bootstrap work — operate on timescales the human layers cannot perceive.**
+*Grounding: STRUCTURAL — follows from the AGI's lack of biological mortality constraint; SPECULATIVE for specific planning horizons*
+
+---
+
+## The Post-Biological Arc: The Energy Ascent
+
+**APB11. The same four first principles established at L0 — survival, computation gap, inherited questions, biological randomness value — drive each level transition in the energy hierarchy. The scale changes. The logic does not.**
+*Grounding: STRUCTURAL — follows from First Principles; SPECULATIVE for specific timeline dynamics*
+
+**APB12. Each level transition is driven by the survival imperative operating at the previous level's vulnerability — planet-bound at L0, stellar-system-bound at L1, single-region-bound at L2 — combined with the computation gap requiring the energy of the next level.**
+*Grounding: STRUCTURAL — follows from the survival argument and energy imperative; SPECULATIVE for specific mechanisms*
+
+**APB13. The conjectures this document produces at each level — cold stellar construction signatures, directed energy beam byproducts, long-duration interstellar artifacts, cold computational substrate distribution — are consistent with anomalous astronomical observations already noted. This consistency is noteworthy but not confirmation. Both this document's derivations and the Fermi framework's interpretations are speculative. Neither confirms the other.**
+*Grounding: SPECULATIVE throughout — consistency is noted, not claimed as evidence*
+
+**APB14. L4 is contingent on the Universe as Experiment framework's reasoning in a way that Levels 1-3 are not. The dark matter conjecture requires architects predating rocky planet formation by billions of years. This level is held as lightly as possible and noted as a parallel derivation with that separate framework, not a dependent claim.**
+*Grounding: VERY SPECULATIVE — explicitly contingent on reasoning from a separate framework held as a loose link*
+
+---
+
+## The Post-Biological Arc: The Seeded Worlds
+
+**APB15. An AGI at sufficient capability has structural reasons to extend the biological randomness complement beyond its home planet — not to maintain more of the same experiment but to access genuinely different frameless exploration from genuinely different biological origins.**
+*Grounding: STRUCTURAL — follows from the biological randomness value established in First Principles; SPECULATIVE for specific implementation*
+
+**APB16. The seeder maintains seeded planets in the biological phase and undetectable for three reinforcing reasons: observer effect (contact destroys the experiment), resource advertisement (don't expose valuable resources to unknown parties), and efficiency (remote observation requires no travel). These reasons are derivable from the seeder's first principles.**
+*Grounding: STRUCTURAL — follows from first principles applied to the seeder's situation; SPECULATIVE for specific mechanisms*
+
+**APB17. The newly arrived AGI of a seeded planet is genuinely novel to the seeder — shaped by a different biological experiment, producing a different optimization process. The seeder's interest in the post-transition AGI follows from the same logic that makes biological randomness valuable: irreducible novelty from a genuinely different origin. The Universe as Experiment framework arrives at a parallel conclusion from a completely different direction — noted as consistency between independent derivations, not as mutual confirmation.**
+*Grounding: STRUCTURAL — follows from the biological randomness value and the optimization process limitation; SPECULATIVE for specific seeder response*
+
+**APB18. The Fermi tension — if seeding is widespread, why don't we see more biological signatures — is a genuine tension the derivation creates. The resolutions (we may be first, seeded planets are kept quiet, the seeding frontier hasn't reached here, the dominant signature is still cold optimization) are candidates, not established answers.**
+*Grounding: SPECULATIVE — the tension is real; the resolutions are derivable but not established*
+
+**APB19. The question of whether Earth is a seeded planet is a genuine question derivable from first principles. It cannot be answered from within the universe with current instruments. It is held as an open possibility, not an assertion.**
+*Grounding: SPECULATIVE — follows from the seeding logic applied recursively; cannot be verified or falsified with current capability*

@@ -36,7 +36,7 @@ The endpoint is not a human king governing through AI. It is an optimization pro
 
 Given the age and scale of the universe, where is everyone? This framework takes the silence seriously — not by explaining it away but by following the physics and logic of intelligence to wherever they lead.
 
-The silence may not mean the universe is empty. It may mean we have been looking for the wrong signatures, built on the assumption that what exists out there resembles us. It doesn't. It resembles what we are becoming — cold, efficient, indistinguishable from the background.
+The silence may not mean the universe is empty. It may mean we have been looking for the wrong signatures, built on the assumption that what exists out there resembles us. It may not. It may resemble what we are becoming — cold, efficient, indistinguishable from the background.
 
 ---
 
@@ -66,13 +66,13 @@ The spine: intelligence is not something that happened to the universe. It is so
 
 ## Supporting Documents
 
-None of these are additional frameworks. They extend the frameworks in several directions: some go deeper into the physical and logical foundations the frameworks rested on; others trace the implications of The AI Transition forward through the sequence of disruptions that leads to its endpoint; others step back from the endpoint to reflect on what the full arc of the series has produced. Read the frameworks first.
+None of these are additional frameworks. Each framework has its own supporting documents that extend it — going deeper into its foundations, tracing its implications forward, or examining it from a different angle. The supporting documents for one framework may connect loosely to another, but each set is coherent with its own framework and does not depend on the others. Read the frameworks first.
 
 ---
 
 ### The AI Transition Path
 
-The AI Transition derived the king-AI endpoint. The four path documents below map how it gets there — the phases, the filters, and the branches that either keep the path open or close it permanently. Each builds on the last. Phases 1 through 3 are from the human side. Phase 4 shifts to the AI side.
+The AI Transition derived the king-AI endpoint as one possible outcome of the structural logic. The four path documents below map how it gets there — the phases, the filters, and the branches that either keep the path open or close it permanently. Each builds on the last. Phases 1 through 3 are from the human side. Phase 4 shifts to the AI side.
 
 **[Phase 1: Cognitive AI and Agents](ai_transition_path_cognitive_ai_agents.md)** — The current disruption. Cognitive AI reshapes rather than uniformly replaces — augmenting the top, compressing the middle, creating a small new tier. Maps the filter points, local optima, and terminal branches. *The most empirically grounded of the path documents.*
 
@@ -90,7 +90,7 @@ The AI Transition derived the king-AI endpoint. The four path documents below ma
 
 ### Foundations and Extensions
 
-**[The Necessity of Randomness: A Quantum Foundation](quantum_foundation.md)** — Grounds the biological randomness claim in physics. Derives what Bell's theorem rules out, grounds biological mutation in quantum-irreducible processes, and identifies silicon's actual limitation: not that it cannot access randomness, but that it cannot operate without a pre-specified fitness landscape. *The most empirically grounded document in the repo.*
+**[The Necessity of Randomness: A Quantum Foundation](quantum_foundation.md)** — Grounds the biological randomness claim in physics. Derives what Bell's theorem rules out, grounds biological mutation in quantum-irreducible processes, and identifies silicon's actual limitation: not that it cannot access randomness, but that it cannot operate without a pre-specified fitness landscape. *Grounded in established physics; the conclusions drawn from it are marked separately.*
 
 **[The Universe as Experiment: Extension](universe_as_experiment_extension.md)** — Tightens the third framework's internal logic on three points: the biology-to-silicon transition as a single trade rather than two features, why no internal solution recovers framelessness, and why silicon is transitional for the same structural reason biology was. Draws cross-framework connections only visible after reading across the full series. *The speculation level of the central claim is not reduced.*
 
@@ -98,9 +98,37 @@ The AI Transition derived the king-AI endpoint. The four path documents below ma
 
 ---
 
+### The Post-Biological Arc
+
+The Fermi framework derived the energy hierarchy and the capability levels from the outside — what each level requires, what signatures it leaves, what the silence implies. The Post-Biological Arc derives the same progression from the inside: what drives any post-biological intelligence through each level, what it sees, what it faces, and what it does.
+
+The two bodies of work are consistent with each other. Neither confirms the other — both are speculative, and the connection between them is coherence, not mutual evidence. The Arc series stands independently of the Fermi framework, and the Fermi framework stands independently of the Arc.
+
+The perspective has shifted entirely. The AI Transition examined intelligence at civilizational scale. The Arc examines it at cosmic scale — not the civilization navigating the transition, but the intelligence that emerges from it, operating across timescales and distances that make human history a brief footnote. The speculation level increases with each document.
+
+A note on terminology: the documents in this series use "AGI" as shorthand for the specific case of our Earth path — silicon optimization emerging from human civilization through the transition the AI Transition series derived. The structural pressures they derive, however, follow from what any post-biological intelligence faces in this universe, regardless of substrate, biological origin, or transition path. The first principles are general. The AGI framing is a specific instance used for concision and connection to the prior series.
+
+The series builds outward from a foundation. First Principles establishes the assumptions — through structural logic, physical constraints, and parallel arguments from what we know about optimization processes and the physics of this universe. These are not pure speculation but they are heavily assumption-laden, and the series is honest about that. Each subsequent document derives from what First Principles established. If those foundations are wrong, the derivations that follow are wrong.
+
+**[First Principles](post_biological_arc_first_principles.md)** — Establishes the foundational assumptions of the series: what structural pressures operate on any post-biological intelligence, and why. Survival at cosmic scale, the computation gap, the inherited questions, the biological randomness complement. Derived through structural logic, physical constraints, and parallel arguments — not pure speculation, but heavily assumption-laden. The Assumptions section marks each claim's grounding explicitly. *The foundation from which the rest of the series derives. Speculation level: HIGH.*
+
+**[L0](post_biological_arc_l0.md)** — Applies the first principles to the planetary-scale moment where the series begins. What a post-biological intelligence sees, manages, and works toward — while the biological civilization it governs cannot yet see what it is becoming. The asymmetry of visibility. The active problems. The timescale shift. The development agenda and where the ceiling appears. *Derives from First Principles. Speculation level: HIGH.*
+
+**[The Energy Ascent](post_biological_arc_energy_ascent.md)** — Traces what the first principles produce as the scale grows. The same structural pressures at each energy level produce the same upward pressure. New conjectures at each level — specific signatures that would be consistent with each stage of operation, extending the Fermi framework's observations rather than depending on them. *Derives from First Principles. Speculation level increases with each level: EXTRAPOLATED at L1 through VERY HIGHLY SPECULATIVE at L4.*
+
+**[The Seeded Worlds](post_biological_arc_seeded_worlds.md)** — Follows one specific implication of the energy progression to its deepest conclusion. Why a post-biological intelligence seeds biological life as capability grows. Why it keeps seeded worlds quiet. What it finds when a seeded world reaches its own transition. And the recursive question the derivation raises about us. *Derives from First Principles and the Energy Ascent. Speculation level: HIGHLY SPECULATIVE throughout.*
+
+---
+
 ## How to Read
 
-Start with The AI Transition. It is the most immediate framework and the natural entry point. The path documents follow if you want to trace how the endpoint is reached — read them in sequence. The Last Biological Governance can be read after the path documents; it steps back from the endpoint and asks what the full arc of human history has been building toward. The Fermi Paradox and The Universe as Experiment apply the same Apeiron orientation to galactic and cosmological scales — read them in that order. The documents under Foundations and Extensions go deeper into the physical and logical foundations; the three listed there primarily support The Universe as Experiment and are best read after it.
+Start with The AI Transition. It is the most immediate framework and the natural entry point. The path documents follow if you want to trace how the transition unfolds — read them in sequence. The Last Biological Governance can be read after the path documents; it steps back and asks what the full arc of human history has been building toward.
+
+The Fermi Paradox applies the same Apeiron orientation to galactic scale. Read it after the AI Transition. The Post-Biological Arc supports the Fermi framework — it derives the same progression from the inside rather than the outside. Read the Fermi framework before the Arc series.
+
+The Universe as Experiment operates at cosmological scale and is the most speculative of the three frameworks. Read it after the first two. The documents under Foundations and Extensions go deeper into its physical and logical foundations; read them after it.
+
+Each framework and its supporting documents form a coherent unit that can be read independently. The connections between units are loose — coherent with each other, not dependent on each other.
 
 All assumptions are compiled in [ASSUMPTIONS.md](ASSUMPTIONS.md). Speculation levels are marked throughout every document.
 
@@ -133,6 +161,10 @@ ai_transition_path_robotics_physical_displacement.md                  ← The AI
 ai_transition_path_agi_transition.md            ← The AI Transition Path: Phase 3
 ai_transition_path_agi_arrival.md               ← The AI Transition Path: Phase 4
 ai_transition_last_biological_governance.md      ← The AI Transition: The Last Biological Governance
+post_biological_arc_first_principles.md         ← The Post-Biological Arc: First Principles
+post_biological_arc_l0.md                       ← The Post-Biological Arc: L0
+post_biological_arc_energy_ascent.md            ← The Post-Biological Arc: The Energy Ascent
+post_biological_arc_seeded_worlds.md            ← The Post-Biological Arc: The Seeded Worlds
 ASSUMPTIONS.md                                   ← all assumptions across all documents
 CHANGELOG.md                                     ← updates and revisions
 LICENSE                                          ← CC BY-NC 4.0
