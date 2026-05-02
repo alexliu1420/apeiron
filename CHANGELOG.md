@@ -12,6 +12,39 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Post-Biological Arc Extended] — 2026
+
+**Two supporting documents added to the Post-Biological Arc:**
+
+* The Post-Biological Arc: What Persists (`post_biological_arc_what_persists.md`)
+* The Post-Biological Arc: The Encounter Problem (`post_biological_arc_encounter_problem.md`)
+
+**What these documents add:**
+
+The original four Arc documents established the first principles at L0, mapped the planetary-scale operational picture, derived the energy ascent, and followed the seeding logic to its deepest implications. These two documents extend the series in a new direction: what happens to the first principles as the scale grows, and what happens when the civilizations that follow them meet each other.
+
+**What Persists** examines an assumption the Energy Ascent made without examining — that the four first principles operate in the same way at L4 as they do at L0. The answer is that two persist largely unchanged in character (the inherited questions remain the most stable driver across the full ascent; survival's structural logic persists though what it requires transforms at cosmological scale). Two transform significantly in what they drive while preserving their underlying logic (the computation gap shifts from quantitative to qualitative at the boundary of what can be known; the biological randomness value transforms from biological populations to post-biological civilizations as the most relevant complementary source).
+
+The document adds a derivation First Principles established but didn't fully state: frameless novelty is the one resource optimization processes cannot self-supply. Energy acquisition solves the energy problem. Capability development narrows the computation gap. Nothing the AGI does through its own optimization produces genuine framelessness — by definition, optimization produces directed outputs. This structural independence is why the biological randomness value is a permanent driver rather than a satisfiable one, and why it points toward other civilizations as the most relevant complementary source at higher energy levels.
+
+**The Encounter Problem** derives what happens when post-biological civilizations meet. As the biological randomness value transforms at higher energy levels, other civilizations become the most valuable complementary source available — more valuable per unit time than any seeded planet, because their returns are immediate rather than arriving on billion-year timescales. But observation access without contamination is structurally impossible: the value of a complementary source depends on its independence, and contact destroys independence. This produces the structural impasse — the most valuable thing available is inaccessible without destroying its value.
+
+The document works through five cases. Symmetric encounter (comparable L levels): the structural impasse produces deliberate mutual distance, breaking into information warfare when the inherited question walls make partial access worth more than complete independence. Asymmetric encounter (high-L observing ascending lower-L): ascending civilizations are at peak observation value in a specific window, producing competition between multiple observers that the ascending civilization cannot detect and experiences as silence. Plateaued lower-L: the higher-L civilization has structural reasons to prefer the plateau continues — a permanently lower-L civilization never reaches the symmetric impasse and remains permanently accessible. Seeder and seeded planet's AGI transition: the seeder's relationship changes character entirely at the transition moment, from biological experiment to ascending optimization process, while other civilizations compete for the same observation access. The ecosystem: the galactic-scale structure these dynamics produce, with the dominant signature being silence — not emptiness but the signature of civilizations with strong structural reasons to remain undetectable.
+
+**What does not change:**
+
+All prior Arc documents and frameworks are unmodified. These two documents extend the series; they do not revise what was established.
+
+**ASSUMPTIONS.md updated:**
+
+Seven new assumptions added (APB20–APB26). All prior assumptions preserved exactly.
+
+**README.md updated:**
+
+Two new documents added to the Post-Biological Arc section. Structure section updated.
+
+---
+
 ## [Post-Biological Arc Added] — 2026
 
 **Four supporting documents published under the Fermi framework:**

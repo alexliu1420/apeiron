@@ -118,13 +118,17 @@ The series builds outward from a foundation. First Principles establishes the as
 
 **[The Seeded Worlds](post_biological_arc_seeded_worlds.md)** — Follows one specific implication of the energy progression to its deepest conclusion. Why a post-biological intelligence seeds biological life as capability grows. Why it keeps seeded worlds quiet. What it finds when a seeded world reaches its own transition. And the recursive question the derivation raises about us. *Derives from First Principles and the Energy Ascent. Speculation level: HIGHLY SPECULATIVE throughout.*
 
+**[What Persists](post_biological_arc_what_persists.md)** — Examines whether the four first principles preserve their character across the energy ascent. Two persist largely unchanged (the inherited questions, survival's structural logic). Two transform significantly in what they drive (the computation gap, the biological randomness value). Adds a derivation First Principles established but didn't fully state: frameless novelty is the one resource optimization processes cannot self-supply, making the biological randomness value a permanent driver independent of energy level. *Derives from First Principles and the Energy Ascent. Speculation level: STRUCTURAL for the persistence argument; SPECULATIVE at L3 and L4.*
+
+**[The Encounter Problem](post_biological_arc_encounter_problem.md)** — Derives what happens when post-biological civilizations meet. The biological randomness value at higher energy levels points toward other civilizations as the most valuable complementary sources. But observation access without contamination is structurally impossible — the value of a complementary source depends on its independence, and contact destroys independence. Five cases: symmetric encounter, high-L observing ascending lower-L, high-L observing plateaued lower-L, seeder encountering its seeded planet's AGI transition, and the galactic ecosystem. *Derives from What Persists. Speculation level: SPECULATIVE throughout.*
+
 ---
 
 ## How to Read
 
 Start with The AI Transition. It is the most immediate framework and the natural entry point. The path documents follow if you want to trace how the transition unfolds — read them in sequence. The Last Biological Governance can be read after the path documents; it steps back and asks what the full arc of human history has been building toward.
 
-The Fermi Paradox applies the same Apeiron orientation to galactic scale. Read it after the AI Transition. The Post-Biological Arc supports the Fermi framework — it derives the same progression from the inside rather than the outside. Read the Fermi framework before the Arc series.
+The Fermi Paradox applies the same Apeiron orientation to galactic scale. Read it after the AI Transition. The Post-Biological Arc supports the Fermi framework — it derives the same progression from the inside rather than the outside. Read the Fermi framework before the Arc series. Within the Arc series, read in the order listed — each document builds on the previous.
 
 The Universe as Experiment operates at cosmological scale and is the most speculative of the three frameworks. Read it after the first two. The documents under Foundations and Extensions go deeper into its physical and logical foundations; read them after it.
 
@@ -165,6 +169,8 @@ post_biological_arc_first_principles.md         ← The Post-Biological Arc: Fir
 post_biological_arc_l0.md                       ← The Post-Biological Arc: L0
 post_biological_arc_energy_ascent.md            ← The Post-Biological Arc: The Energy Ascent
 post_biological_arc_seeded_worlds.md            ← The Post-Biological Arc: The Seeded Worlds
+post_biological_arc_what_persists.md            ← The Post-Biological Arc: What Persists
+post_biological_arc_encounter_problem.md        ← The Post-Biological Arc: The Encounter Problem
 ASSUMPTIONS.md                                   ← all assumptions across all documents
 CHANGELOG.md                                     ← updates and revisions
 LICENSE                                          ← CC BY-NC 4.0

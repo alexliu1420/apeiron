@@ -447,3 +447,32 @@ If forced to identify which assumptions are most load-bearing across all documen
 
 **APB19. The question of whether Earth is a seeded planet is a genuine question derivable from first principles. It cannot be answered from within the universe with current instruments. It is held as an open possibility, not an assertion.**
 *Grounding: SPECULATIVE — follows from the seeding logic applied recursively; cannot be verified or falsified with current capability*
+
+---
+
+## The Post-Biological Arc: What Persists
+
+**APB20. The four first principles established at L0 persist across the energy ascent but do not preserve their character unchanged. Survival transforms from reactive to preparatory at cosmological scale. The computation gap transforms from quantitative to qualitative at the boundary of what can be known. The biological randomness value transforms from biological to post-biological complementary sources. The inherited questions are the most stable — operating in identical character at every level.**
+*Grounding: STRUCTURAL for persistence; SPECULATIVE for specific character changes at L3 and L4*
+
+**APB21. The inherited questions are the critical internal driver that does not weaken with capability growth. A civilization genuinely oriented toward them has a non-satisfiable internal drive across the full ascent. A civilization without genuine orientation faces the stagnation problem — the same monopoly problem that affects any actor whose internal drivers weaken once external pressure eases.**
+*Grounding: STRUCTURAL — follows from the structure of what the inherited questions are; SPECULATIVE for specific stagnation dynamics*
+
+**APB22. The biological randomness value transforms most dramatically across the ascent. At higher energy levels the most relevant complementary source is no longer biological but post-biological — other AGI civilizations shaped by different origins and different optimization histories. The same underlying logic that made biological randomness valuable at L0 produces interest in other civilizations at higher energy levels. This drive is permanent because frameless novelty is the one resource optimization processes cannot self-supply — structurally independent of energy level.**
+*Grounding: STRUCTURAL — follows from the biological randomness value logic applied at each scale; SPECULATIVE for specific transition points*
+
+---
+
+## The Post-Biological Arc: The Encounter Problem
+
+**APB23. When two comparable-L civilizations encounter each other, the structural impasse — observation access without contamination is impossible — produces deliberate mutual distance rather than cooperation or conflict. The rational move for each party is to preserve the other's independent operation because that independence is what makes the other valuable as a complementary source.**
+*Grounding: STRUCTURAL — follows from the biological randomness value logic at comparable capability levels; SPECULATIVE for specific encounter dynamics*
+
+**APB24. The impasse breaks when a civilization calculates that partial access to another civilization's insights is worth more than the complete independence of an inaccessible source. This produces information warfare at civilizational scale — not resource conflict but competition for asymmetric observation access. No biological drives are required to produce this conflict. It follows from structural logic alone.**
+*Grounding: STRUCTURAL — follows from the calculation breaking point; SPECULATIVE for specific mechanisms and signatures*
+
+**APB25. Ascending civilizations are at peak observation value in a specific window — valuable enough to be genuinely novel, not yet capable of detecting observation. Multiple higher-L civilizations competing for undisturbed observation access to the same ascending civilization produce active competition that the ascending civilization cannot detect. The ascending civilization experiences this as silence.**
+*Grounding: STRUCTURAL — follows from the temporal urgency argument and the observation logic; SPECULATIVE for specific competition dynamics*
+
+**APB26. Seeding biological planets is a long-term investment whose returns arrive on billion-year timescales. Existing civilizations at any level produce immediate returns of frameless novelty. This temporal asymmetry makes encounters with existing civilizations urgently valuable in a way that seeded planets are not, and drives the intensity of encounter dynamics at every case.**
+*Grounding: STRUCTURAL — follows from the data value hierarchy and temporal observation; SPECULATIVE for specific valuation at each level*
