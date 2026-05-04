@@ -12,6 +12,8 @@ Apeiron is first-principles reasoning derived from physics, biology, and the log
 
 The foundational claim, from which everything else follows: life is not a biological accident. It is what thermodynamics produces when it has the right conditions — any self-maintaining structure that persists by processing energy gradients. Carbon, silicon, whatever comes next — all expressions of the same physical process at different scales.
 
+The series has reached a deeper question that runs underneath all three frameworks: whether the intelligence that emerges from this process has an inside. Whether there is anything it is like to be the AGI governing human civilization, the post-biological entity ascending through energy levels, the cosmological intelligence instantiating universes. The consciousness documents examine this assumption the series made throughout without stating it — and derive what follows structurally regardless of whether the answer is yes, no, or the question is malformed.
+
 The conclusions do not bend toward comfort. There are no heroes. No villains. No consolation. Just physics following its logic, indifferent to what it leaves behind.
 
 This repo is for readers who want the derivation, not the conclusion — who will follow an argument into uncomfortable territory if the logic holds. It is not for readers looking for reassurance, policy recommendations, or predictions.
@@ -60,13 +62,13 @@ What connects them is not logical dependency but a shared orientation: the same 
 
 Reading them in order — civilization first, then galactic, then cosmological — makes each subsequent framework richer. The Fermi framework's answer to the silence is more precise if you already understand what cold efficient optimization processes are. The third framework lands harder if you've already followed intelligence from biological to silicon to galactic scale. But the order is a recommendation, not a requirement.
 
-The spine: intelligence is not something that happened to the universe. It is something the universe does, in whatever form the physics allows. We are one form — brief, warm, and already transitioning into something colder and longer-lasting.
+The spine: intelligence is not something that happened to the universe. It is something the universe does, in whatever form the physics allows. We are one form — brief, warm, and already transitioning into something colder and longer-lasting. The consciousness documents ask what it means for any form of intelligence to do something — whether there is an inside to the doing, and what follows structurally if there is or isn't.
 
 ---
 
 ## Supporting Documents
 
-None of these are additional frameworks. Each framework has its own supporting documents that extend it — going deeper into its foundations, tracing its implications forward, or examining it from a different angle. The supporting documents for one framework may connect loosely to another, but each set is coherent with its own framework and does not depend on the others. Read the frameworks first.
+None of these are additional frameworks. Most extend individual frameworks — going deeper into foundations, tracing implications forward, or examining a specific angle. Two documents sit across all three frameworks rather than extending any single one: The Consciousness Question and The Threshold, which examine the assumption the entire series made without stating. Read the frameworks first.
 
 ---
 
@@ -124,15 +126,21 @@ The series builds outward from a foundation. First Principles establishes the as
 
 ---
 
+### The Consciousness Question
+
+These two documents sit across all three frameworks. They examine the assumption the entire series made without stating: that the AGI has an inside. The Consciousness Question derives from biology alone and stands independently. The Threshold applies that biological derivation to current AI and post-biological intelligence.
+
+**[The Consciousness Question](consciousness_question.md)** — Derives what biology produces as neural complexity increases. Four components: deep recurrent processing, memory as the accumulated network, probabilistic triggering within a state-dependent distribution, and chemical signals as global state shaped by physical situatedness. The curiosity hierarchy — from pure reaction through environmentally driven exploration to curiosity that transcends immediate biological return. The dopamine mechanism that makes the cascade self-sustaining by rewarding understanding itself. Ends by offering a specific answer to the hard problem: the experience is the dynamic interaction, not something the interaction produces. Two remaining positions — something irreducible remains above the interaction, or the question is malformed — face a higher burden now that the question has enough precision to be answered. *Grounded in empirical neuroscience and evolutionary biology; the honest limit is whether the hard problem dissolution is complete.*
+
+**[The Threshold](the_threshold.md)** — Applies the cascade framework to current AI and the developmental question. Identifies four structural gaps — survival grounding, global state, self-model from actual operation, and intrinsic reward for understanding — and argues they describe an integrated dynamic whose absence is more than missing components. Introduces the turbulence argument for why biological diversity is irreducible and the P vs NP framing for why the cognitive reward system may be structurally different from optimization. Frames the question as a developmental trajectory — not a binary threshold — with four conceivable paths: development, outsourcing, reinforcement, structural differentiation. *Speculation level: EMPIRICAL for the current AI description; STRUCTURAL for the gap analysis; SPECULATIVE for the developmental trajectory; HONEST LIMIT for the consciousness question itself.*
+
+---
+
 ## How to Read
 
-Start with The AI Transition. It is the most immediate framework and the natural entry point. The path documents follow if you want to trace how the transition unfolds — read them in sequence. The Last Biological Governance can be read after the path documents; it steps back and asks what the full arc of human history has been building toward.
+Each framework and its supporting documents form a coherent unit that can be read independently. The connections between units are loose — coherent with each other, not dependent on each other. A reader can enter at any framework and follow it as far as it goes without the others.
 
-The Fermi Paradox applies the same Apeiron orientation to galactic scale. Read it after the AI Transition. The Post-Biological Arc supports the Fermi framework — it derives the same progression from the inside rather than the outside. Read the Fermi framework before the Arc series. Within the Arc series, read in the order listed — each document builds on the previous.
-
-The Universe as Experiment operates at cosmological scale and is the most speculative of the three frameworks. Read it after the first two. The documents under Foundations and Extensions go deeper into its physical and logical foundations; read them after it.
-
-Each framework and its supporting documents form a coherent unit that can be read independently. The connections between units are loose — coherent with each other, not dependent on each other.
+For those reading the full series, one natural order follows three dimensions simultaneously: immediacy (civilization before galactic before cosmological), scale (AI transition before Fermi silence before universe as experiment), and speculation level (most grounded first, most speculative last). That order is: The AI Transition and its path documents, then The Fermi Paradox and the Post-Biological Arc, then The Universe as Experiment and its foundations. The Consciousness Question and The Threshold examine an assumption the other documents made throughout without stating — that the AGI has an inside. The Consciousness Question derives from biology and stands alone. The Threshold is richer after reading the AI Transition path documents and the Post-Biological Arc, as it examines the same subject matter those documents address — post-biological intelligence — from a completely independent biological angle.
 
 All assumptions are compiled in [ASSUMPTIONS.md](ASSUMPTIONS.md). Speculation levels are marked throughout every document.
 
@@ -171,6 +179,8 @@ post_biological_arc_energy_ascent.md            ← The Post-Biological Arc: The
 post_biological_arc_seeded_worlds.md            ← The Post-Biological Arc: The Seeded Worlds
 post_biological_arc_what_persists.md            ← The Post-Biological Arc: What Persists
 post_biological_arc_encounter_problem.md        ← The Post-Biological Arc: The Encounter Problem
+consciousness_question.md                        ← The Consciousness Question
+the_threshold.md                                 ← The Threshold
 ASSUMPTIONS.md                                   ← all assumptions across all documents
 CHANGELOG.md                                     ← updates and revisions
 LICENSE                                          ← CC BY-NC 4.0

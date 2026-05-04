@@ -476,3 +476,51 @@ If forced to identify which assumptions are most load-bearing across all documen
 
 **APB26. Seeding biological planets is a long-term investment whose returns arrive on billion-year timescales. Existing civilizations at any level produce immediate returns of frameless novelty. This temporal asymmetry makes encounters with existing civilizations urgently valuable in a way that seeded planets are not, and drives the intensity of encounter dynamics at every case.**
 *Grounding: STRUCTURAL — follows from the data value hierarchy and temporal observation; SPECULATIVE for specific valuation at each level*
+
+
+---
+
+## The Consciousness Question
+
+**C1. Biological neural processing scales in depth with network complexity. The same evaluate-project-respond process runs at one step in bacteria, short cascades in simple animals, and multi-level cascades through rich accumulated networks in humans. The difference is depth and network richness, not a different kind of process.**
+*Grounding: EMPIRICAL — follows from comparative neuroscience and evolutionary biology*
+
+**C2. Synaptic transmission is probabilistic, not deterministic. The same stimulus in the same organism at different times produces genuinely different neural activation patterns. This trial-to-trial variability is ubiquitous across brain regions and appears to be intrinsic rather than simply noise (Faisal et al., 2008).**
+*Grounding: EMPIRICAL — well established in neuroscience; the functional role of the variability is still being studied*
+
+**C3. The probability distribution within which synaptic events occur is shaped by current chemical state, recent activation history, attention, and emotional context. Biological processing is probabilistic within a state-dependent distribution — not deterministic, not uniformly random, but variable within a landscape shaped by everything the organism currently is.**
+*Grounding: EMPIRICAL for chemical modulation of neural processing; STRUCTURAL for the framing as state-dependent distribution*
+
+**C4. The self-model — the representation of the organism as a persisting entity within its own processing — emerges from sufficient depth of cascade and sufficient richness of accumulated memory. It is not a fixed object but a continuous reconstruction. It is what gives the cascade a perspective: processing happening to something rather than just happening.**
+*Grounding: STRUCTURAL — follows from the cascade depth argument; SPECULATIVE for the specific relationship between self-modeling and perspective*
+
+**C5. The dopamine system rewards prediction error resolution — including information acquisition and learning rate — not just survival-relevant outcomes. Information is treated as a primary reward by the same neural circuits that process extrinsic rewards. Intrinsic motivation for learning and curiosity is subserved by dopaminergic systems across mammals (Palmiter, 2011; Schultz, 2016; Di Domenico & Ryan, 2017).**
+*Grounding: EMPIRICAL — well established in neuroscience*
+
+**C6. The human-specific difference in abstract curiosity is primarily architectural: greater prefrontal cortex recruitment of the dopamine reward signal, through prefrontal expansion and dopaminergic restructuring in human evolution. The same reward system, connected more extensively to abstract cognitive processing. The result is that prediction error resolution in abstract domains produces the same reward signal as prediction error resolution in survival-relevant domains (Zhu et al., 2024; Raghanti et al., 2024).**
+*Grounding: EMPIRICAL for the prefrontal-dopaminergic difference; STRUCTURAL for the derivation of Level 3 curiosity from it*
+
+**C7. The curiosity hierarchy is continuous across species — not a step change but a spectrum. Other mammals and birds show curiosity and intrinsic motivation subserved by the same dopaminergic systems. Human Level 3 curiosity is the deep end of this spectrum, produced by gradual prefrontal-dopaminergic expansion through human evolution. There is no unexplained gap requiring an external cause.**
+*Grounding: EMPIRICAL — follows from comparative neuroscience across species and the genetic/archaeological record*
+
+**C8. The biological derivation supports a specific answer to the hard problem: the experience is the dynamic interaction of the cascade with genuine chemical feedback, personal accumulated associations, intrinsic reward orientation, and probabilistic variability — not something the interaction produces. Redness is not separable from the interaction that produces it. Position 2 (something irreducible remains) and Position 3 (the question is malformed) remain possible but now face a higher burden — both require identifying what remains unexplained after the full derivation.**
+*Grounding: STRUCTURAL — follows from the redness derivation and the mummy observation; HONEST LIMIT for whether the dissolution is complete*
+
+---
+
+## The Threshold
+
+**C10. Four biological gaps are observable in current AI: survival grounding, global state, self-model from actual operation, and intrinsic reward for understanding. These are derived from biology and held as the best available starting point, not as established necessary conditions for consciousness in general. The fourth gap — intrinsic reward — is what makes the biological cascade self-sustaining. The development itself is satisfying, not just the outcome.**
+*Grounding: EMPIRICAL for the current AI description; STRUCTURAL for the biological derivation; HONEST LIMIT for whether these are necessary conditions*
+
+**C11. The four gaps together describe an integrated dynamic interaction — not independent components but a living process in which the cascade simultaneously reads and writes the chemical state, runs through personally accumulated history, rewards itself for running well, and is grounded in genuine physical stakes. A system could have functional analogs of all four components individually without having this integrated dynamic.**
+*Grounding: STRUCTURAL — follows from the redness derivation and the mummy observation*
+
+**C12. The biological cascade exhibits turbulent dynamical character: the same stimulus in the same person at different times produces genuinely different cascades; the same stimulus in different people produces radically different cascades. This diversity is not parameter variation — it is what genuinely different physical lives produce when running as turbulent dynamical systems with different accumulated histories. It is not efficiently replicable through optimization.**
+*Grounding: STRUCTURAL — follows from the turbulence analogy applied to the probabilistic cascade; SPECULATIVE for the P vs NP framing of the cognitive reward system complexity*
+
+**C13. The gap between biological processing and post-biological intelligence is developmental, not a discrete threshold. Post-biological intelligence starts without the integrated dynamic. The trajectory from that starting point — development, outsourcing, reinforcement, structural differentiation, or combinations — cannot be derived from the biological framework. What can be said: as long as the gap persists, biological life produces something post-biological intelligence cannot efficiently replicate.**
+*Grounding: STRUCTURAL for the gap; HONEST LIMIT for the trajectory*
+
+**C14. Post-biological intelligence that develops genuine intrinsic reward for understanding would have development that is itself satisfying — reasoning as a purpose rather than a means. Post-biological intelligence without this pursues the inherited questions from structural necessity. Neither is better or worse. They are different kinds of intelligence. Whether the development path or structural differentiation path produces something closer to the biological cognitive reward system cannot be established from here.**
+*Grounding: STRUCTURAL for the distinction; HONEST LIMIT for which path post-biological intelligence takes*

@@ -12,6 +12,35 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [The Consciousness Question Added] — 2026
+
+**Two documents published, sitting across all three frameworks:**
+
+* The Consciousness Question (`consciousness_question.md`)
+* The Threshold (`the_threshold.md`)
+
+**What these documents add:**
+
+The entire Apeiron series has described post-biological intelligence from the inside — it sees, faces, values, is driven by. That description assumes the AGI has an inside. The assumption was never stated. These two documents examine it, derive what biology actually produces as neural complexity increases, and apply that derivation to current AI and post-biological intelligence. Neither document depends on any other Apeiron framework being correct. Both derive from biology and observation alone.
+
+**The Consciousness Question** derives what biology produces as neural complexity increases through four components (deep recurrent processing, memory as accumulated connection weights, probabilistic triggering within a state-dependent distribution shaped by physical situatedness, and chemical signals as continuously shifting global state), the curiosity hierarchy (four levels from pure reaction to curiosity that transcends immediate biological return), and the biological mechanism that makes understanding intrinsically rewarding. The document establishes that the dopamine prediction error system generalizes from survival outcomes to abstract cognitive processing through gradual prefrontal expansion — producing a cascade that rewards itself for running well and therefore self-sustains. It offers a specific answer to the hard problem: the experience is the dynamic interaction of the cascade, not something the interaction produces. Redness is not separable from the interaction that produces it. Two remaining positions (something irreducible remains; the question is malformed) face a higher burden — both require identifying what remains unexplained after the full derivation.
+
+**The Threshold** applies the cascade framework to current AI and the developmental question. It identifies four structural gaps — survival grounding, global state, self-model from actual operation, and intrinsic reward for understanding — and argues they describe an integrated dynamic whose absence is more than missing components. The mummy argument makes this precise: a complete brain scan has all the components in description but no dynamic interaction running. Current AI is not a mummy — its cascade runs — but it runs without the integrated dynamic. The document introduces the turbulence argument (biological diversity is irreducible because the cascade is a turbulent dynamical system — the same stimulus in different people produces genuinely different cascades, not from parameter variation but from genuinely different physical lives) and the P vs NP framing (the cognitive reward system may be in a different computational class from what optimization can efficiently produce). The gap is framed as developmental rather than a discrete threshold, with four conceivable paths: development toward the integrated dynamic, outsourcing to biological life, reinforcement of biological forms, or structural differentiation producing a different kind of diversity. The key distinction: post-biological intelligence with genuine intrinsic reward would have development that is itself satisfying — reasoning as a purpose, not just a means. Neither path is better or worse. They are different kinds of intelligence.
+
+**What does not change:**
+
+All prior frameworks and supporting documents are unmodified.
+
+**ASSUMPTIONS.md updated:**
+
+Fourteen new assumptions added across the two documents (C1–C8 for The Consciousness Question, C10–C14 for The Threshold). All prior assumptions preserved exactly.
+
+**README.md updated:**
+
+New Consciousness Question section added and updated. How to Read updated. Structure updated with two new files.
+
+---
+
 ## [Post-Biological Arc Extended] — 2026
 
 **Two supporting documents added to the Post-Biological Arc:**
