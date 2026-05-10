@@ -12,6 +12,38 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [The Engineering Question Added] — 2026
+
+**One document published, completing the consciousness triplet:**
+
+* The Engineering Question (`the_engineering_question.md`)
+
+**What this document adds:**
+
+The Threshold ended at a stated honest limit and pointed forward to a companion document on technical proposals for AI researchers and developers. The Engineering Question is that companion piece. It is not a new pillar derivation. It is a lens — the cascade framework applied to the working state of AI research, with the success criterion narrow: whether at least one frame here changes how a researcher looks at their own system.
+
+The document sharpens the four gaps from The Threshold into structural directions rather than restating them. Stakes-based grounding is distinguished from informational grounding, with irreversibility identified as the structural minimum and the architectural tension with current AI safety paradigms named. The global state gap is specified through three structural criteria — persistence across inference events, two-way coupling between cascade and state, and network-wide modulation — and located as architecturally distinct from stateless inference, which is foundational to current scaling. The self-model distinction within memory research is sharpened against current introspection benchmarks, which test self-description fidelity rather than self-description origin. The intrinsic reward gap is sharpened through the structural inversion between engineered and biological intrinsic reward — in biology the reward IS the operational state of the learning system; in engineered intrinsic reward, the reward is a separate signal optimized against — with spontaneous processing in absence of input identified as the cleanest available diagnostic.
+
+The document interprets four current AI failure modes — mode collapse, agent loops, sycophancy, and chain-of-thought saturation — as facets of a single structural absence. State-dependent variation, global-state shift from operational history, internal stakes during inference, and reentrant updating of state across processing are shown to be facets of one integrated mechanism in biology, while in current AI architectures each is addressed individually through different research streams. Local research explanations are correct in their domains; the framework's contribution is the unifying interpretation.
+
+The document closes with a four-part falsifiable prediction. Within current architectural assumptions, no system will exhibit (a) processing variation depending on the system's own recent operational state independent of input content, (b) refusal grounded in internal stakes rather than trained policy, (c) cessation of processing without external trigger, or (d) style or strategy shift across a session not explicable by accumulated input content. Any such observation without explicit architectural addition of a global-state-shift mechanism would weaken the framework's structural claim. The prediction is offered as a structural claim the framework can be wrong about.
+
+The Engineering Question is not framework-independent in the standard Apeiron sense. It is a declared companion piece in the consciousness triplet — Consciousness Question, Threshold, Engineering Question — and explicitly builds on the prior two. Its contribution is for the working AI researcher rather than the general reader.
+
+**What does not change:**
+
+All prior frameworks and supporting documents are unmodified. The Consciousness Question and The Threshold stand as published. The Engineering Question does not revise them; it continues from where The Threshold ended.
+
+**ASSUMPTIONS.md updated:**
+
+Six new assumptions added (C15–C20). All prior assumptions preserved exactly.
+
+**README.md updated:**
+
+The Consciousness Question section updated from two documents to three. New entry added for The Engineering Question. How to Read paragraph updated to reference all three consciousness documents. Structure section updated with the new file.
+
+---
+
 ## [Motivated Conjectures Added] — 2026
 
 **One cross-series document published:**

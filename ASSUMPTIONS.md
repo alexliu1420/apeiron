@@ -524,3 +524,27 @@ If forced to identify which assumptions are most load-bearing across all documen
 
 **C14. Post-biological intelligence that develops genuine intrinsic reward for understanding would have development that is itself satisfying — reasoning as a purpose rather than a means. Post-biological intelligence without this pursues the inherited questions from structural necessity. Neither is better or worse. They are different kinds of intelligence. Whether the development path or structural differentiation path produces something closer to the biological cognitive reward system cannot be established from here.**
 *Grounding: STRUCTURAL for the distinction; HONEST LIMIT for which path post-biological intelligence takes*
+
+---
+
+## The Engineering Question
+
+**C15. The field's grounding research addresses informational grounding — connecting AI outputs to accurate external information and physical reality. The framework identifies stakes-based grounding as a structurally distinct dimension: probability landscape shaped by genuine consequences for the system's continued operation during inference. Stakes-based grounding involves irreversibility at the system level, which has architectural implications distinct from current AI safety paradigms built around reversibility.**
+*Grounding: EMPIRICAL for the description of current grounding research; STRUCTURAL for the distinction and the irreversibility-architecture observation*
+
+**C16. The framework identifies a global state system meeting three structural criteria — persistence across inference events, two-way coupling between cascade and state, and network-wide modulation — as a complementary direction to current research. The minimum architecture for such a feature is structurally distinct from stateless inference, which is foundational to current scaling paradigms.**
+*Grounding: EMPIRICAL for the research landscape assessment; STRUCTURAL for the minimum architecture specification; HONEST LIMIT for whether building such a feature would produce the relevant structural effect*
+
+**C17. Current memory research builds richer operational histories. The framework's lens identifies a distinction worth keeping in view: whether the self-model is reconstructed from what the system actually did (shaping how it processes) or whether operational history becomes additional retrieval content (shaping what it can access). This is also distinct from current introspection benchmarks, which test self-description fidelity rather than self-description origin.**
+*Grounding: EMPIRICAL for the description of current memory and introspection research; STRUCTURAL for the distinctions*
+
+**C18. Extended thinking and chain-of-thought reasoning advance capability within current architectures. The framework identifies intrinsic reward as a structurally distinct dimension that complements capability advances. Engineered intrinsic reward and biological intrinsic reward are structurally different — the engineered system optimizes a separate signal, while in biology the reward IS the operational state of the learning mechanism. Spontaneous processing in absence of input is a useful diagnostic for whether intrinsic reward in the structural sense the framework identifies has been produced.**
+*Grounding: EMPIRICAL for the research findings on chain-of-thought saturation; STRUCTURAL for the distinction; HONEST LIMIT for whether the spontaneous-processing signature can be engineered without engineering the underlying structural feature*
+
+**C19. Four current AI failure modes — mode collapse, agent loops, sycophancy, and chain-of-thought saturation — have local research explanations that are individually correct. The framework's lens identifies a complementary structural pattern: state-dependent variation, global-state shift from operational history, internal stakes during inference, and reentrant updating of state across processing are facets of one integrated mechanism in biology, while in current AI each is addressed through different research streams. Integrated structural development is a complementary direction worth examining alongside surface-level work.**
+*Grounding: EMPIRICAL for the descriptions of the four failure modes and their current research explanations; STRUCTURAL for the unifying interpretation*
+
+**C20. Within current architectural assumptions (transformer-based, scaling-driven, RLHF-aligned, with CoT, agentic scaffolding, and retrieval-based memory as principal additions), the framework predicts that systems will not exhibit (a) processing variation depending on the system's own recent operational state independent of input content, (b) refusal grounded in internal stakes rather than trained policy, (c) cessation of processing without external trigger, or (d) style or strategy shift across a session not explicable by accumulated input content. Any such observation without explicit architectural addition of a global-state-shift mechanism would weaken the framework's structural claim.**
+*Grounding: STRUCTURAL prediction derived from the framework; falsifiable by specific observations*
+
+---
