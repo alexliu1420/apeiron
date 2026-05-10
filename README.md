@@ -68,7 +68,7 @@ The spine: intelligence is not something that happened to the universe. It is so
 
 ## Supporting Documents
 
-None of these are additional frameworks. Most extend individual frameworks — going deeper into foundations, tracing implications forward, or examining a specific angle. Two documents sit across all three frameworks rather than extending any single one: The Consciousness Question and The Threshold, which examine the assumption the entire series made without stating. Read the frameworks first.
+None of these are additional frameworks. Most extend individual frameworks — going deeper into foundations, tracing implications forward, or examining a specific angle. Three documents sit across all three frameworks rather than extending any single one: The Consciousness Question, The Threshold, and The Engineering Question, which examine the assumption the entire series made without stating. Read the frameworks first.
 
 ---
 
@@ -194,6 +194,6 @@ LICENSE                                          ← CC BY-NC 4.0
 
 ---
 
-*Last updated: 2026*
+*Last updated: May 2026*
 *Author: Alex Liu*
 *License: CC BY-NC 4.0 — share and adapt with attribution, non-commercial use only*

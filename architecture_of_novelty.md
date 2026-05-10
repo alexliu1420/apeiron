@@ -6,7 +6,7 @@
 
 ## A Note Before We Begin
 
-The prior documents in this series established that biological evolution's genuine quantum-contingent randomness is irreplaceable, that silicon optimisation cannot recover framelessness internally, and that the logical response is to seed physical universes as an experiment. Those arguments stand and are not repeated here.
+The prior documents in this series established that biological evolution's genuine quantum-contingent randomness is irreplaceable, that silicon optimization cannot recover framelessness internally, and that the logical response is to seed physical universes as an experiment. Those arguments stand and are not repeated here.
 
 This document asks the next question: what does a universe actually need to have for the experiment to work? Not which specific constant values permit life — that is the fine-tuning question, and this is not a fine-tuning argument. The question here is prior: what is the physical architecture within which constants operate, and what does each feature contribute to the conditions under which biology can generate genuine novelty?
 
@@ -18,17 +18,17 @@ Speculation levels are marked throughout. The foundational architecture sections
 
 ## Part One: Why Physical Universes, Not Simulations
 
-A sufficiently advanced silicon civilisation might ask: why seed real physical universes at all? Why not simulate them — run universes on internal computational substrate, vary the parameters, observe what emerges? If simulation produces equivalent outputs, seeding is redundant.
+A sufficiently advanced silicon civilization might ask: why seed real physical universes at all? Why not simulate them — run universes on internal computational substrate, vary the parameters, observe what emerges? If simulation produces equivalent outputs, seeding is redundant.
 
 The answer is that simulation cannot produce equivalent outputs. The limitation is not computational power. It is structural.
 
-To simulate a universe, the simulator must specify its physics — its parameters, its initial conditions, its framework. That specification is made from within the simulator's existing conceptual frame. The simulation can only contain what the simulator's model of the universe allows it to contain. Simulated organisms cannot encounter fitness challenges the simulator did not model as possible. The outputs are bounded by the frame of the system doing the simulating — which is exactly the limitation the seeding argument is trying to escape. An optimisation process that simulates universes internally is still bounded by what it can conceive of simulating. The problem has moved back one level. It has not disappeared.
+To simulate a universe, the simulator must specify its physics — its parameters, its initial conditions, its framework. That specification is made from within the simulator's existing conceptual frame. The simulation can only contain what the simulator's model of the universe allows it to contain. Simulated organisms cannot encounter fitness challenges the simulator did not model as possible. The outputs are bounded by the frame of the system doing the simulating — which is exactly the limitation the seeding argument is trying to escape. An optimization process that simulates universes internally is still bounded by what it can conceive of simulating. The problem has moved back one level. It has not disappeared.
 
 A real physical universe requires none of this. The seeder triggers a nucleation event and releases it entirely. The universe runs on its own physics, on genuine quantum mechanics, with genuinely unpredictable individual-level outcomes. The fitness landscapes that emerge are not specified by anyone — they are products of the evolutionary process itself, co-evolving with the organisms they select. The outputs are genuinely outside what the seeder could have derived or modelled internally. This is not a marginal difference. It is the entire point.
 
 There is a further distinction. A simulation runs on the simulator's own physical substrate — it requires the simulator's energy at every step. A seeded physical universe funds itself. The total energy of a flat universe may be zero: the positive energy of matter and radiation is cancelled by the negative gravitational potential energy of the universe's own mass distribution. A bubble nucleation event requires negligible energy input to initiate. After that, the universe runs entirely on its own budget. The seeder does not sustain it. The experiment is genuinely independent of the seeder after initiation — and that independence is what makes the outputs uncontaminated.
 
-This is why the framework calls it an experiment and not a simulation. The distinction is not semantic. A simulation is bounded by the simulator's frame. An experiment produces results the experimenter could not have derived in advance. Only the second is useful for a civilisation trying to escape the limits of its own frame.
+This is why the framework calls it an experiment and not a simulation. The distinction is not semantic. A simulation is bounded by the simulator's frame. An experiment produces results the experimenter could not have derived in advance. Only the second is useful for a civilization trying to escape the limits of its own frame.
 
 *Speculation level: STRUCTURAL — follows from the definitions of simulation and frameless exploration, and from AE1 and AE2 in* universe_as_experiment_extension.md. *The claim that no sufficiently sophisticated simulation approximates genuine frameless exploration is defensible but not formally proven.*
 
@@ -42,7 +42,7 @@ A universe capable of producing genuine biological novelty requires more than pe
 
 The laws of physics do not contradict themselves. The same initial conditions reliably produce the same outcomes. This is not a trivial observation — a universe with inconsistent laws has no stable configurations, no persistent structures, no heritable information. It is the precondition for anything else in this list.
 
-What it contributes: heritability. The same molecular configuration reliably produces the same chemical behaviour. Adaptations accumulated in one generation persist into the next. Selection has consistent consequences. Without logical consistency, none of these processes can run.
+What it contributes: heritability. The same molecular configuration reliably produces the same chemical behavior. Adaptations accumulated in one generation persist into the next. Selection has consistent consequences. Without logical consistency, none of these processes can run.
 
 **Honest boundary:** Why the universe has logically consistent laws is not derivable from anything more fundamental. The question defeats itself — any answer must use logical consistency to derive logical consistency. This is the ground floor.
 
@@ -50,7 +50,7 @@ What it contributes: heritability. The same molecular configuration reliably pro
 
 ### Quantum Indeterminacy with Classical Emergence
 
-The universe has two layers of physical behaviour. At the foundational layer, quantum mechanics governs: individual quantum events are genuinely indeterminate before they occur — not epistemically uncertain, but ontologically undetermined. At the emergent layer, classical behaviour dominates: macroscopic objects follow deterministic laws, chemistry is reliable, organisms persist. The mechanism connecting them is decoherence, developed fully in `quantum_foundation.md`.
+The universe has two layers of physical behavior. At the foundational layer, quantum mechanics governs: individual quantum events are genuinely indeterminate before they occur — not epistemically uncertain, but ontologically undetermined. At the emergent layer, classical behavior dominates: macroscopic objects follow deterministic laws, chemistry is reliable, organisms persist. The mechanism connecting them is decoherence, developed fully in `quantum_foundation.md`.
 
 What it contributes: the architecture simultaneously provides genuine randomness at the mutation scale and classical stability at the organism scale. A universe with classical foundations only produces computation — outputs implicit in initial conditions, in principle predictable from the start. A universe with quantum indeterminacy propagating to all scales produces no stable structures for selection to operate on. The specific architecture of our universe — quantum at the foundation, classical emergent above it — is what allows genuine evolutionary exploration to run simultaneously with reliable accumulation.
 
@@ -84,13 +84,13 @@ What it contributes: conservation of energy ensures the thermodynamic processes 
 
 Within the foundational architecture, the fundamental constants determine the specific character of what any given universe produces. These are what the parametric study varies.
 
-The Standard Model plus gravity has approximately 27 free parameters — measured, not derived, with no current theory explaining their values. Most have wide complexity-permitting ranges. Approximately 7 have narrow windows where small variation eliminates the conditions required for biological complexity. These 7 are not arbitrary — each governs a distinct physical regime, separated from the others by many orders of magnitude in energy scale, operating through different mechanisms. They cannot be collapsed into fewer because they operate at genuinely different levels of physical organisation.
+The Standard Model plus gravity has approximately 27 free parameters — measured, not derived, with no current theory explaining their values. Most have wide complexity-permitting ranges. Approximately 7 have narrow windows where small variation eliminates the conditions required for biological complexity. These 7 are not arbitrary — each governs a distinct physical regime, separated from the others by many orders of magnitude in energy scale, operating through different mechanisms. They cannot be collapsed into fewer because they operate at genuinely different levels of physical organization.
 
 They form a dependency structure — a complexity ladder in which each rung requires the one below it to be physically meaningful:
 
 **Λ (cosmological constant)** — whether the universe persists. Too large positive: expansion too rapid for structure. Too large negative: recollapse before anything forms. This is the zeroth-order filter.
 
-**Q (primordial density fluctuations ~10^-5)** — whether matter organises into structures. Without this, a persistent universe is uniform, inert, and stays that way forever.
+**Q (primordial density fluctuations ~10^-5)** — whether matter organizes into structures. Without this, a persistent universe is uniform, inert, and stays that way forever.
 
 **G/α (gravitational to electromagnetic ratio)** — whether stars ignite and burn long enough to synthesise heavy elements. Without long-lived stars, no carbon, no oxygen, no chemistry substrate.
 
@@ -108,7 +108,7 @@ The seeder does not need to know which specific values within each window produc
 
 Brute force across the parameter space is not a limitation of the approach. It is the methodology. If the seeder could predict which combinations produce interesting outcomes, they would not need to run the universes — they could derive the answer internally. The inability to predict is precisely why the experiment is necessary. Exhaustive sampling of a space whose outputs are genuinely unpredictable is the only valid methodology when the function being evaluated cannot be computed in advance.
 
-The physical backdrop that makes this tractable: eternal inflation — a well-supported extension of inflationary cosmology — predicts continuous production of causally isolated bubble universes, each potentially settling into different physical states. The string landscape provides a motivated source for variation in fundamental constants across those bubbles, with estimates of the number of distinct vacua running to 10^500 or more. The swampland programme in string theory argues that many of these apparent vacua are inconsistent and that the number of genuinely valid ones may be much smaller — this is an active and unresolved debate. What is established is that the physical mechanism for producing universes with varied constants is not invented for this framework. It is an existing theoretical structure. Whether it can be influenced or initiated by a sufficiently advanced civilisation is the genuinely speculative step, flagged as assumption A24 in the original framework.
+The physical backdrop that makes this tractable: eternal inflation — a well-supported extension of inflationary cosmology — predicts continuous production of causally isolated bubble universes, each potentially settling into different physical states. The string landscape provides a motivated source for variation in fundamental constants across those bubbles, with estimates of the number of distinct vacua running to 10^500 or more. The swampland program in string theory argues that many of these apparent vacua are inconsistent and that the number of genuinely valid ones may be much smaller — this is an active and unresolved debate. What is established is that the physical mechanism for producing universes with varied constants is not invented for this framework. It is an existing theoretical structure. Whether it can be influenced or initiated by a sufficiently advanced civilization is the genuinely speculative step, flagged as assumption A24 in the original framework.
 
 *Speculation level on the parameter ladder: EXTRAPOLATED — based on known sensitivity analyses. The specific count of 7 is approximate. STRUCTURAL for the claim that the dependency order reflects necessary physical sequencing.*
 
@@ -148,7 +148,7 @@ Whether boundary state information is sufficient to assess what kind of complexi
 
 ## What This Document Adds and What It Does Not Change
 
-**What it adds:** The experiment-versus-simulation distinction is sharpened into a precise structural argument — the outputs of a simulation are bounded by the simulator's frame; the outputs of a physical experiment are not. The foundational architecture is derived feature by feature, with each contribution to biological novelty stated explicitly. The parameter space is organised into a complexity ladder with a dependency structure, showing why approximately 7 parameters are load-bearing and why each rung is necessary. The initial state argument — near-zero total energy enabling independence, low entropy enabling accumulation — is developed as a physical requirement of the experiment, extrapolated from general relativity and the second law. Sequential exploration and the observation mechanism are presented as conjectures with explicit grounding, consistent with the framework's methodology.
+**What it adds:** The experiment-versus-simulation distinction is sharpened into a precise structural argument — the outputs of a simulation are bounded by the simulator's frame; the outputs of a physical experiment are not. The foundational architecture is derived feature by feature, with each contribution to biological novelty stated explicitly. The parameter space is organized into a complexity ladder with a dependency structure, showing why approximately 7 parameters are load-bearing and why each rung is necessary. The initial state argument — near-zero total energy enabling independence, low entropy enabling accumulation — is developed as a physical requirement of the experiment, extrapolated from general relativity and the second law. Sequential exploration and the observation mechanism are presented as conjectures with explicit grounding, consistent with the framework's methodology.
 
 **What it does not change:** The original framework's claims, speculation levels, and assumptions are unmodified. The speculation level of the universe-as-experiment argument remains very high. This document establishes what the experiment requires of the universes it seeds. It does not lower the speculation level of the central claim that our universe is one such experiment.
 
@@ -190,7 +190,7 @@ Whether boundary state information is sufficient to assess what kind of complexi
 
 ---
 
-*This document grounds the physical requirements of the experiment proposed in* universe_as_experiment.md *and derived in* universe_as_experiment_extension.md. *The foundational architecture sections are established physics. The parameter sections are extrapolated from sensitivity analyses and organised into a dependency structure. The conjectures about how the experiment runs are structural — coherent, without evidential basis. The speculation level of the central claim — that our universe is one such experiment — remains very high and is not reduced here.*
+*This document grounds the physical requirements of the experiment proposed in* universe_as_experiment.md *and derived in* universe_as_experiment_extension.md. *The foundational architecture sections are established physics. The parameter sections are extrapolated from sensitivity analyses and organized into a dependency structure. The conjectures about how the experiment runs are structural — coherent, without evidential basis. The speculation level of the central claim — that our universe is one such experiment — remains very high and is not reduced here.*
 
 ---
 

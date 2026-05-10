@@ -12,7 +12,13 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
-## [The Engineering Question Added] — 2026
+## [Minor Edits] — May 2026
+
+Minor cosmetic edits across a small number of documents. No structural or substantive changes.
+
+---
+
+## [The Engineering Question Added] — May 2026
 
 **One document published, completing the consciousness triplet:**
 
@@ -44,7 +50,7 @@ The Consciousness Question section updated from two documents to three. New entr
 
 ---
 
-## [Motivated Conjectures Added] — 2026
+## [Motivated Conjectures Added] — May 2026
 
 **One cross-series document published:**
 
@@ -68,7 +74,7 @@ Motivated Conjectures added to Foundations and Extensions section and Structure 
 
 ---
 
-## [The Consciousness Question Added] — 2026
+## [The Consciousness Question Added] — May 2026
 
 **Two documents published, sitting across all three frameworks:**
 
@@ -97,7 +103,7 @@ New Consciousness Question section added and updated. How to Read updated. Struc
 
 ---
 
-## [Post-Biological Arc Extended] — 2026
+## [Post-Biological Arc Extended] — May 2026
 
 **Two supporting documents added to the Post-Biological Arc:**
 
@@ -130,7 +136,7 @@ Two new documents added to the Post-Biological Arc section. Structure section up
 
 ---
 
-## [Post-Biological Arc Added] — 2026
+## [Post-Biological Arc Added] — April 2026
 
 **Four supporting documents published under the Fermi framework:**
 
@@ -177,7 +183,7 @@ Post-Biological Arc section added under Supporting Documents. How to Read update
 
 ---
 
-## [The Last Biological Governance Added] — 2026
+## [The Last Biological Governance Added] — April 2026
 
 **One supporting document published:**
 
@@ -208,7 +214,7 @@ The Last Biological Governance added to the AI Transition Path section of Suppor
 
 ---
 
-## [AI Transition Path Added] — 2026
+## [AI Transition Path Added] — April 2026
 
 **Four path documents published:**
 
@@ -241,7 +247,7 @@ AI Transition Path section added between the Three Frameworks and Supporting Doc
 
 ---
 
-## [Architecture of Novelty Added] — 2026
+## [Architecture of Novelty Added] — April 2026
 
 **One supporting document published:**
 
@@ -275,7 +281,7 @@ Architecture of Novelty added to the Supporting Documents section. How The Three
 
 ---
 
-## [Supporting Documents Added] — 2026
+## [Supporting Documents Added] — April 2026
 
 **Two supporting documents published:**
 
@@ -300,7 +306,7 @@ Ten new assumptions added across the two supporting documents (AQ1–AQ5 for the
 
 ---
 
-## [Initial Release] — 2026
+## [Initial Release] — March 2026
 
 **Three frameworks published:**
 
