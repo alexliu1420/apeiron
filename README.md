@@ -92,6 +92,8 @@ The AI Transition derived the king-AI endpoint as one possible outcome of the st
 
 ### Foundations and Extensions
 
+**[Motivated Conjectures: Physical and Cosmological Predictions](motivated_conjectures.md)** — The bridge from derivation to investigation. Collects what the Apeiron frameworks predict that could actually be tested — organized into three categories: existing observational data that can be analyzed now, open theoretical problems where Apeiron adds a specific angle, and new territory the logic motivates that physics has not yet addressed. Each entry states a falsification condition. The Research Program section synthesizes the observational entries into a stratified search framework — different capability levels leave categorically different signatures, each falsifiable independently. *Not a framework document. No new assumptions. Sources and falsification conditions marked throughout.*
+
 **[The Necessity of Randomness: A Quantum Foundation](quantum_foundation.md)** — Grounds the biological randomness claim in physics. Derives what Bell's theorem rules out, grounds biological mutation in quantum-irreducible processes, and identifies silicon's actual limitation: not that it cannot access randomness, but that it cannot operate without a pre-specified fitness landscape. *Grounded in established physics; the conclusions drawn from it are marked separately.*
 
 **[The Universe as Experiment: Extension](universe_as_experiment_extension.md)** — Tightens the third framework's internal logic on three points: the biology-to-silicon transition as a single trade rather than two features, why no internal solution recovers framelessness, and why silicon is transitional for the same structural reason biology was. Draws cross-framework connections only visible after reading across the full series. *The speculation level of the central claim is not reduced.*
@@ -166,6 +168,7 @@ ai_transition.md                                 ← The AI Transition: The King
 fermi_paradox.md                                 ← The Fermi Paradox: Intelligence in the Universe
 universe_as_experiment.md                        ← The Universe as Experiment: A Cosmological Framework
 quantum_foundation.md                            ← The Necessity of Randomness: A Quantum Foundation
+motivated_conjectures.md                         ← Motivated Conjectures: Physical and Cosmological Predictions
 universe_as_experiment_extension.md             ← The Universe as Experiment: Extension
 architecture_of_novelty.md                      ← The Architecture of Novelty
 ai_transition_path_cognitive_ai_agents.md       ← The AI Transition Path: Phase 1

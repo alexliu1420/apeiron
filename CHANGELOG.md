@@ -12,6 +12,30 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Motivated Conjectures Added] — 2026
+
+**One cross-series document published:**
+
+* Motivated Conjectures: Physical and Cosmological Predictions (`motivated_conjectures.md`)
+
+**What this document adds:**
+
+The framework documents derive from assumptions and mark where reasoning ends. Motivated Conjectures is where the series makes contact with empirical reality — collecting what the Apeiron logic predicts that could actually be tested, organized by the kind of investigation required.
+
+Three categories: Category 1 covers conjectures where observational data exists now or is forthcoming on a known timeline (Tabby's Star population analysis, FRB periodicity, stellar abundance anomalies, Vera Rubin interstellar objects, LISA gravitational wave background, JWST biosignature rates). Category 2 covers open theoretical problems where Apeiron adds a specific angle (quantum biology mutation mechanisms, decoherence boundary placement, constants positioned within the complexity-permitting region, dark matter small-scale structure, grand unification as minimal seeding input, swampland selection via the complexity ladder, initial entropy coupling). Category 3 covers new territory the logic motivates that physics has not yet addressed (correlated internal structure of the complexity-permitting region).
+
+Each entry states a precise falsification condition. The Research Program section synthesizes the observational entries into a stratified search framework: L1 cold asymmetric stellar dimming, L2 FRB periodicity correlated to orbital mechanics, L3 interstellar objects with anomalous properties, L4 non-random dark matter substructure. This replaces the single-signature SETI search with level-specific tests, each independently falsifiable.
+
+**What does not change:**
+
+All prior frameworks and supporting documents are unmodified. This document has no new assumptions — it references assumptions from existing documents.
+
+**README.md updated:**
+
+Motivated Conjectures added to Foundations and Extensions section and Structure block.
+
+---
+
 ## [The Consciousness Question Added] — 2026
 
 **Two documents published, sitting across all three frameworks:**
