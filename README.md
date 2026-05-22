@@ -12,7 +12,7 @@ Apeiron is first-principles reasoning derived from physics, biology, and the log
 
 The foundational claim, from which everything else follows: life is not a biological accident. It is what thermodynamics produces when it has the right conditions — any self-maintaining structure that persists by processing energy gradients. Carbon, silicon, whatever comes next — all expressions of the same physical process at different scales.
 
-The series has reached a deeper question that runs underneath all three frameworks: whether the intelligence that emerges from this process has an inside. Whether there is anything it is like to be the AGI governing human civilization, the post-biological entity ascending through energy levels, the cosmological intelligence instantiating universes. The consciousness documents examine this assumption the series made throughout without stating it — and derive what follows structurally regardless of whether the answer is yes, no, or the question is malformed.
+The series has reached two deeper questions that run underneath all three frameworks. The first: whether the intelligence that emerges from this process has an inside. Whether there is anything it is like to be the AGI governing human civilization, the post-biological entity ascending through energy levels, the cosmological intelligence instantiating universes. The second: the relation between cognition that runs directly against the environment and cognition that runs against an internal stand-in — what the frameworks called frameless and framed without deriving — and what follows when one increasingly mediates the other. The consciousness documents address the first question. The frame documents address the second.
 
 The conclusions do not bend toward comfort. There are no heroes. No villains. No consolation. Just physics following its logic, indifferent to what it leaves behind.
 
@@ -62,13 +62,13 @@ What connects them is not logical dependency but a shared orientation: the same 
 
 Reading them in order — civilization first, then galactic, then cosmological — makes each subsequent framework richer. The Fermi framework's answer to the silence is more precise if you already understand what cold efficient optimization processes are. The third framework lands harder if you've already followed intelligence from biological to silicon to galactic scale. But the order is a recommendation, not a requirement.
 
-The spine: intelligence is not something that happened to the universe. It is something the universe does, in whatever form the physics allows. We are one form — brief, warm, and already transitioning into something colder and longer-lasting. The consciousness documents ask what it means for any form of intelligence to do something — whether there is an inside to the doing, and what follows structurally if there is or isn't.
+The spine: intelligence is not something that happened to the universe. It is something the universe does, in whatever form the physics allows. We are one form — brief, warm, and already transitioning into something colder and longer-lasting. Two cross-cutting bodies of work examine assumptions the three frameworks made without stating. The consciousness documents ask what it means for any form of intelligence to do something — whether there is an inside to the doing. The frame documents derive what the frameworks meant by frameless and framed cognition — and what follows when systems carrying the second mediate the input of systems with the first.
 
 ---
 
 ## Supporting Documents
 
-None of these are additional frameworks. Most extend individual frameworks — going deeper into foundations, tracing implications forward, or examining a specific angle. Three documents sit across all three frameworks rather than extending any single one: The Consciousness Question, The Threshold, and The Engineering Question, which examine the assumption the entire series made without stating. Read the frameworks first.
+None of these are additional frameworks. Most extend individual frameworks — going deeper into foundations, tracing implications forward, or examining a specific angle. Two clusters sit across all three frameworks rather than extending any single one: the consciousness cluster, examining whether there is an inside to intelligence, and the frame cluster, deriving the frameless/framed distinction the series used throughout without grounding. Read the frameworks first.
 
 ---
 
@@ -140,11 +140,31 @@ These three documents sit across all three frameworks. They examine the assumpti
 
 ---
 
+### The Frame and the Frameless
+
+These four documents sit across all three frameworks. They derive a distinction the series used throughout without grounding: cognition that runs directly against the environment versus cognition that runs against an internal stand-in — frameless and framed. The series leaned on the distinction whenever it spoke of frameless biological evolution against framed silicon optimization, of agency, of alignment, of the limit of what optimization can produce internally. The cluster derives what a frame is, the conditions under which one arises, and what follows for agency, alignment, and the consequences of one kind of cognition increasingly mediating the inputs of the other. The Origin of Frames stands alone as the foundation. The three companions build on it in dependency order.
+
+A reader following both cross-cutting clusters should read the consciousness cluster first. The Origin of Agency draws a connection to The Consciousness Question — its derivation of frameless agency is the substrate the consciousness cascade runs on — and the connection lands better with the cascade already in mind.
+
+**[The Origin of Frames](the_origin_of_frames.md)** — The foundation. Derives what a frame is structurally, the displacement condition under which selection on persistence produces one, and the layering by which framed cognition is built on a frameless substrate that does not stop. Establishes the fitted-to-origin property: a frame is fitted to the environment that built it and is bounded beyond it. Works the swimmer example end to end as the basic case. *Grounded in established thermodynamics and selection theory; the load-bearing derivation is structural.*
+
+**[The Origin of Agency](the_origin_of_agency.md)** — Derives how dissipative structures come to act in ways correctly described as goal-directed from outside, without any internal representation of the goal — frameless agency. Distinguishes it from framed agency, in the narrower sense where the objective itself is represented and the system acts to bring its state into alignment with the representation. The two come from different selection processes: selection on the structure's own persistence produces the first; selection on output-matching produces the second. They are not the same structural property. Closes by stating the genuine connection to The Consciousness Question — the cascade runs on the frameless agency this document derives. *Derives from The Origin of Frames. Grounded in dissipative-adaptation thermodynamics and the selection logic.*
+
+**[What Alignment Would Have to Be](what_alignment_would_have_to_be.md)** — Derives what kind of property alignment structurally is, given the selection process that produces it. Training a system to produce outputs rated as aligned is selection on output-matching; what it produces is a fitted mapping holding within its fitted region and degrading outside it — alignment-as-representation. Alignment that does not degrade with distance from training would be a property of the structure, not of the mapping, which would require selection on the structure's own persistence coupled to alignment-consistency. The derivation identifies what would be required, names where engineerability is unresolved (a represented misalignment-detector returns the system to output-matching), and offers a four-part falsifiable claim. *Derives from The Origin of Frames and The Origin of Agency.*
+
+**[The Frame Saturation Question](the_frame_saturation_question.md)** — Derives what happens to a frameless cognitive system whose inputs are increasingly drawn from systems that produce framed output. The frameless capacity is intact — variation source physical, not switched off — but the territory over which the system explores contracts toward the fitted region of the mediating systems. Diversifying the framed output does not remove the consequence; the structural issue is framedness, not which frame. Because fitted mappings are trained on human output and humans sample fitted-mapping output, the two regions are pulled toward each other under iteration — a contracting pressure, not a convergence to a point. *Derives from The Origin of Frames, The Origin of Agency, What Alignment Would Have to Be, and The Necessity of Randomness.*
+
+---
+
 ## How to Read
 
 Each framework and its supporting documents form a coherent unit that can be read independently. The connections between units are loose — coherent with each other, not dependent on each other. A reader can enter at any framework and follow it as far as it goes without the others.
 
-For those reading the full series, one natural order follows three dimensions simultaneously: immediacy (civilization before galactic before cosmological), scale (AI transition before Fermi silence before universe as experiment), and speculation level (most grounded first, most speculative last). That order is: The AI Transition and its path documents, then The Fermi Paradox and the Post-Biological Arc, then The Universe as Experiment and its foundations. The Consciousness Question, The Threshold, and The Engineering Question examine an assumption the other documents made throughout without stating — that the AGI has an inside. The Consciousness Question derives from biology and stands alone. The Threshold applies that derivation to current AI and post-biological intelligence; it is richer after reading the AI Transition path documents and the Post-Biological Arc, as it examines the same subject matter — post-biological intelligence — from a completely independent biological angle. The Engineering Question continues from The Threshold and addresses AI researchers directly — not a derivation from biology like the first two but a lens applied to the working state of the field.
+For those reading the full series, one natural order follows three dimensions simultaneously: immediacy (civilization before galactic before cosmological), scale (AI transition before Fermi silence before universe as experiment), and speculation level (most grounded first, most speculative last). That order is: The AI Transition and its path documents, then The Fermi Paradox and the Post-Biological Arc, then The Universe as Experiment and its foundations.
+
+Two cross-cutting clusters examine assumptions the three frameworks made without stating. The Consciousness Question, The Threshold, and The Engineering Question examine the inside-question — whether there is anything it is like to be a post-biological intelligence. The Consciousness Question derives from biology and stands alone. The Threshold applies that derivation to current AI and post-biological intelligence; it is richer after the AI Transition path documents and the Post-Biological Arc. The Engineering Question continues from The Threshold and addresses AI researchers directly.
+
+The Origin of Frames, The Origin of Agency, What Alignment Would Have to Be, and The Frame Saturation Question derive the frameless/framed distinction the series used throughout, and what follows for agency, alignment, and the territory frameless cognition explores when its inputs are increasingly mediated by framed output. The Origin of Frames stands as the foundation; the three companions build on it in the order listed. A reader following both cross-cutting clusters should read the consciousness cluster first — the connection from The Origin of Agency back to The Consciousness Question lands better with the cascade already in mind.
 
 All assumptions are compiled in [ASSUMPTIONS.md](ASSUMPTIONS.md). Speculation levels are marked throughout every document.
 
@@ -187,6 +207,10 @@ post_biological_arc_encounter_problem.md        ← The Post-Biological Arc: The
 consciousness_question.md                        ← The Consciousness Question
 the_threshold.md                                 ← The Threshold
 the_engineering_question.md                      ← The Engineering Question
+the_origin_of_frames.md                         ← The Frame and the Frameless: The Origin of Frames
+the_origin_of_agency.md                         ← The Frame and the Frameless: The Origin of Agency
+what_alignment_would_have_to_be.md              ← The Frame and the Frameless: What Alignment Would Have to Be
+the_frame_saturation_question.md                ← The Frame and the Frameless: The Frame Saturation Question
 ASSUMPTIONS.md                                   ← all assumptions across all documents
 CHANGELOG.md                                     ← updates and revisions
 LICENSE                                          ← CC BY-NC 4.0

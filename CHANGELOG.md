@@ -18,6 +18,47 @@ Minor cosmetic edits across a small number of documents. No structural or substa
 
 ---
 
+## [The Frame and the Frameless Added] — May 2026
+
+**Four documents published, forming a cross-cutting cluster:**
+
+* The Origin of Frames (`the_origin_of_frames.md`)
+* The Origin of Agency (`the_origin_of_agency.md`)
+* What Alignment Would Have to Be (`what_alignment_would_have_to_be.md`)
+* The Frame Saturation Question (`the_frame_saturation_question.md`)
+
+**What this cluster adds:**
+
+The Apeiron series used the distinction between frameless and framed cognition throughout — frameless biological evolution as against framed silicon optimization in the Universe as Experiment framework and its Extension, frameless novelty as the resource a framed optimizer cannot self-supply in What Persists, the operation of frames in the consciousness cluster's discussion of how cognition runs. The distinction was load-bearing across the corpus and was never derived. This cluster derives it, and what follows from the derivation.
+
+**The Origin of Frames** is the foundation. It derives what a frame is structurally — an internal structure whose states correspond to environmental features, dynamics run against the structure rather than directly against the environment. It identifies the condition under which selection on persistence produces one: a frame arises where a persistence-relevant feature is displaced from the point of action in time, space, or accessibility, and the system pays the construction cost only when such displacement makes the frame net-positive. Frame-acquisition is layering, not switching: a frame is built on a frameless substrate that does not stop, because the frame covers only the displaced portion of the environment while direct coupling continues to handle what is present. The document derives the fitted-to-origin property: a frame is bounded and fitted to the environment that built it. The swimmer is worked end to end as the basic case.
+
+**The Origin of Agency** derives how dissipative structures come to act in ways correctly described as goal-directed without any internal representation of the goal — frameless agency. The derivation runs from dissipative adaptation, inheritance, variation, and selection on persistence to the result that surviving lineages are biased toward persistence-supporting response-tendencies without any internal representation of "what helps." The document then distinguishes frameless agency from framed agency in the narrower sense where the objective itself is represented and the system acts to bring its state into alignment with the representation. The two come from different selection processes: frameless agency from selection on the structure's own persistence, framed agency from selection on output-matching. They share formal properties and are not the same structural property. The document closes by stating the genuine connection to The Consciousness Question — the cascade derived there runs on the frameless agency derived here.
+
+**What Alignment Would Have to Be** applies the agency derivation to alignment. Training a system to produce outputs rated as aligned is selection on output-matching; what it produces is a fitted mapping holding within its fitted region and degrading outside it — alignment-as-representation, with the observed out-of-distribution signature explained as the fitted-to-origin property of the frame met in a trained system. Alignment that does not degrade with distance from training would be a property of the structure's dynamics, not of a fitted mapping, which would require selection on the structure's own persistence coupled to alignment-consistency. The document derives what would be required, names where engineerability is unresolved — a represented misalignment-detector returns the selection to output-matching, with the consequence relocated to shutdown — and offers a four-part claim about what improvements to output-matching training methods will and will not change.
+
+**The Frame Saturation Question** derives what happens to a frameless cognitive system whose inputs are increasingly drawn from systems that produce framed output. The frameless capacity is intact — the intrinsic variation source is physical and is not switched off by the character of the inputs. What changes is the territory: frameless exploration ranges over available material, and when available material is increasingly drawn from the fitted region of mediating systems, the territory contracts toward that region. The genuinely unprestatable — what is not in any fitted region — becomes systematically underrepresented in what the frameless system encounters. Diversifying the framed output does not remove the consequence; diversity within a fitted region is variation within the frame, not framelessness. Because fitted mappings are trained on human output and humans sample fitted-mapping output, the two regions are pulled toward each other under iteration — a contracting pressure, not a convergence to a point, with the floor set by the ratio of mediated to non-mediated input.
+
+**Structure of the cluster:**
+
+The Origin of Frames is the foundation. The three companions build on it in dependency order: The Origin of Agency depends on the foundation; What Alignment Would Have to Be depends on the foundation and the agency document; The Frame Saturation Question depends on all three of the above and on The Necessity of Randomness. The dependency chain is genuine — each companion uses the conclusions of the one before — and is the order in which the documents should be read.
+
+A reader following both cross-cutting clusters — consciousness and frame — should read the consciousness cluster first. The Origin of Agency carries a section connecting frameless agency to the consciousness cascade derived in The Consciousness Question, and the connection lands better with the cascade already in mind.
+
+**What does not change:**
+
+All prior frameworks and supporting documents are unmodified. The consciousness cluster stands as published. The frame cluster derives what the prior documents asserted; it does not revise any of them. The Universe as Experiment framework's speculation level is not reduced by deriving the frameless/framed distinction the framework relied on.
+
+**ASSUMPTIONS.md updated:**
+
+Twenty-eight new assumptions added (FF1–FF28) as one continuous series across the four documents — FF1–FF8 for The Origin of Frames, FF9–FF15 for The Origin of Agency, FF16–FF21 for What Alignment Would Have to Be, FF22–FF28 for The Frame Saturation Question. All prior assumptions preserved exactly.
+
+**README.md updated:**
+
+The introductory framing of the series's cross-cutting questions extended from one (the inside-question) to two (the inside-question, and the frameless/framed relation). How The Three Connect updated to reference both cross-cutting bodies of work. Supporting Documents lead paragraph updated to name both clusters. New section "The Frame and the Frameless" added as the final subsection, parallel in structure to "The Consciousness Question." How to Read updated with the frame cluster's read order and the recommendation that the consciousness cluster be read first when reading both. Structure section updated with the four new files.
+
+---
+
 ## [The Engineering Question Added] — May 2026
 
 **One document published, completing the consciousness triplet:**

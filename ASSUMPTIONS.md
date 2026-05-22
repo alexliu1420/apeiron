@@ -548,3 +548,103 @@ If forced to identify which assumptions are most load-bearing across all documen
 *Grounding: STRUCTURAL prediction derived from the framework; falsifiable by specific observations*
 
 ---
+
+## The Frame and the Frameless: The Origin of Frames
+
+**FF1. A frame is an internal structure whose states correspond to features of the environment, such that the system's dynamics run against the internal structure rather than against the environment directly. A frameless system runs its dynamics directly against the environment, with no internal stand-in.**
+*Grounding: STRUCTURAL — a definition, with the frameless contrast established empirically by direct-coupling systems such as chemotactic bacteria*
+
+**FF2. Frames exist in systems that began without them. Genomes, nervous systems, and trained systems carry frames, and in each case the lineage or system existed in a frameless form before the frame.**
+*Grounding: EMPIRICAL — follows from comparative biology and from the existence of untrained precursors to trained systems*
+
+**FF3. A frame is a physical structure that must be built, maintained, and updated, each of which costs free energy. Selection on persistence therefore does not produce a frame by default; a frame exists only where the persistence it buys exceeds the persistence its cost subtracts.**
+*Grounding: STRUCTURAL — follows from frames being physical structures and the thermodynamics of maintaining organization*
+
+**FF4. A frame pays for itself under one condition: when a persistence-relevant feature of the environment is displaced from the point of action — in time, in space, or in accessibility. A structure bridging the displacement improves persistence; where the improvement exceeds the cost, selection on persistence produces the structure.**
+*Grounding: STRUCTURAL — the core derivation; the underlying observation that internal structure has value under displacement is established in the study of anticipation and is not claimed as novel*
+
+**FF5. A frame — an internal stand-in for a displaced feature — is produced by selection on persistence meeting displacement, with no objective ever represented. The narrower case of a framed objective, where the system's goal is itself represented, requires selection on output-matching, which acts directly on whether output matches a target. The frame derived here is produced entirely within selection on persistence.**
+*Grounding: STRUCTURAL — follows from FF4; selection on output-matching is named as the contrasting process, not derived*
+
+**FF6. When a frame arises, the frameless dynamics do not stop. The frame covers the displaced portion of the environment; the present portion is still handled by direct coupling, which remains cheaper. Every framed system is layered: frameless with respect to what is locally present, framed with respect to what is displaced. A physically embodied system always has immediate, undisplaced physical stakes, and so always retains some frameless substrate, however thick its frame.**
+*Grounding: STRUCTURAL — follows from FF4 and FF3; the embodiment clause follows from physical stakes being undisplaced by definition*
+
+**FF7. The depth of framing is a gradient set by the environment, not the system: it tracks the ratio of displaced to present persistence-relevant structure in the environment the system was selected in. The selection principle remains binary; the gradient is the depth of layering that one principle produces.**
+*Grounding: STRUCTURAL — follows from FF4 and FF6*
+
+**FF8. A frame is bounded — it stands in for some features and not others — and fitted to its origin: its inside is the environment that built it, its outside includes whatever postdates or exceeds that environment. Fitted-to-origin entails bounded-ness and adds the account of what the bound is. A frame is blind, by construction, beyond the environment that built it.**
+*Grounding: STRUCTURAL — follows from FF4 and FF5*
+
+---
+
+## The Frame and the Frameless: The Origin of Agency
+
+**FF9. Dissipative structures driven by external energy gradients self-organize into configurations that dissipate efficiently (England 2013, 2015).**
+*Grounding: EMPIRICAL for the result; EXTRAPOLATED for full generalization across all dissipative regimes*
+
+**FF10. Among dissipative structures, a subset produce additional dissipative structures with related configurations — inheritance. Cellular reproduction is the established case; the broader class is less precisely characterized but the derivation requires only that the case exists.**
+*Grounding: EMPIRICAL for cellular reproduction; EXTRAPOLATED for broader classes*
+
+**FF11. Inheritance is imperfect — reproduced structures vary in configuration. The source of variation may be quantum-irreducible, thermal, or due to copying mechanism imprecision. For this derivation only the existence of variation matters.**
+*Grounding: EMPIRICAL*
+
+**FF12. Selection on persistence: the set of dissipative structures present at any time is the set that has not been eliminated, given inheritance and variation. This is structural and tautological once inheritance and variation are present, not a normative claim about the universe. It is taken as a primitive, established in The Origin of Frames.**
+*Grounding: STRUCTURAL — tautological under FF10-FF11*
+
+**FF13. Selection on dissipative variation under inheritance produces lineages whose response-tendencies are biased toward conditions that support their persistence. This bias does not require internal representation of the persistence-condition. It follows from the filtering structure of selection: response-tendencies pointing elsewhere have been eliminated with their lineages.**
+*Grounding: STRUCTURAL — follows from FF10-FF12*
+
+**FF14. The agency produced by FF13 — "frameless agency" — is dynamics biased toward persistence-conditions through selection rather than through any internal model. It is distinct from "framed agency" — dynamics that act on an internal representation of the objective. Both are correctly described as goal-directed from outside; they are not the same structural property.**
+*Grounding: STRUCTURAL — follows from FF13 and from the frame/frameless distinction derived in The Origin of Frames; the structural reality of the distinction is the load-bearing edge of the derivation*
+
+**FF15. Frameless agency is produced specifically by selection on persistence of the structure. Framed agency in the strict sense — where the objective itself is represented — requires selection on output-matching, which acts on whether output matches a represented target rather than on the structure's continued existence. The two selection processes share formal properties but produce structurally different dynamics.**
+*Grounding: STRUCTURAL — follows from the specific role of persistence-selection in FF13*
+
+---
+
+## The Frame and the Frameless: What Alignment Would Have to Be
+
+**FF16. Training a system for alignment adjusts its configuration so that its outputs, given training inputs, match outputs rated as aligned. The selection criterion is output-match against rated targets. This is selection on output-matching.**
+*Grounding: EMPIRICAL for the description of training; STRUCTURAL for the classification as output-matching selection*
+
+**FF17. Selection on output-matching produces a structure that holds a fitted input-output mapping — alignment present as a property of the mapping, within the region of input space the training covered. This is alignment-as-representation.**
+*Grounding: STRUCTURAL — follows from FF16 together with the result that selection on output-matching produces structures optimized for the selection criterion*
+
+**FF18. A fitted mapping holds within the region it was fitted and has no structural property carrying it beyond that region. Alignment-as-representation therefore holds where inputs resemble the training distribution and degrades as inputs move away from it.**
+*Grounding: STRUCTURAL — follows from FF17, and is the fitted-to-origin property of a frame met in a trained system*
+
+**FF19. Alignment-as-structural-property would require alignment to be a property of the system's dynamics rather than of a fitted mapping. Structural properties of a system are produced by selection on the structure's persistence. Alignment-as-structural-property would therefore require selection on persistence coupled to alignment-consistency.**
+*Grounding: STRUCTURAL — follows from the agency derivation applied to alignment*
+
+**FF20. Improving output-matching training extends and refines the fitted mapping but does not change the kind of property produced. Capability scaling of an output-matching-trained system widens the fitted region but does not change the kind of property. Alignment-as-representation with a larger fitted region remains alignment-as-representation.**
+*Grounding: STRUCTURAL — follows from FF17-FF18*
+
+**FF21. Genuine selection on persistence has no represented criterion: what filters the structure is its own dynamics failing to maintain it, and persistence and filtering are the same physical fact. Coupling an engineered system's persistence to alignment-consistency through a misalignment-detector introduces a represented criterion doing the evaluation, which is structurally output-matching with the consequence relocated to shutdown. Whether a genuine persistence-coupling — one with no represented criterion — can be constructed for engineered systems is unresolved.**
+*Grounding: HONEST LIMIT — names where the derivation reaches its edge*
+
+---
+
+## The Frame and the Frameless: The Frame Saturation Question
+
+**FF22. A human cognitive system is frameless: its exploration is not bounded by a pre-specified frame, and its variation source is intrinsic and ultimately quantum-irreducible.**
+*Grounding: EMPIRICAL for the cognition, STRUCTURAL for the framelessness*
+
+**FF23. AI output produced by training is framed — a fitted mapping bounded by its fitted region. The training data being frameless-origin (human text) does not change this. Both the elements a fitted mapping recombines and the recombination operation itself are bounded by the fitted region; frameless cognition's recombination is bounded by neither. The fitted region is constitutively the already-produced, so the genuinely unprestatable is by construction not within it, however large the region grows.**
+*Grounding: STRUCTURAL — follows from the alignment derivation and from a frame being fitted to its origin; the bounded-recombination distinction and the already-produced point are the load-bearing steps*
+
+**FF24. A frameless cognitive system increasingly sampling its inputs from framed output explores over increasingly frame-bounded material.**
+*Grounding: STRUCTURAL — follows from FF23*
+
+**FF25. The structural consequence is not that frameless cognition becomes framed — the capacity and the intrinsic variation source are intact. The consequence is that the exploratory territory contracts toward the fitted region of the mediating systems; the genuinely unprestatable becomes systematically underrepresented in what the frameless system encounters.**
+*Grounding: STRUCTURAL — the core claim, follows from FF22 and FF24*
+
+**FF26. Diversifying or debiasing the framed output does not remove the consequence. Diversity within a fitted region is variation within the frame, not framelessness. The structural issue is framedness, not which frame.**
+*Grounding: STRUCTURAL — follows from FF23 and FF25*
+
+**FF27. Because fitted mappings are trained on human output and humans sample fitted-mapping output, the fitted region and the territory human cognition ranges over are pulled toward each other over iterations. This is a contracting pressure, not a convergence to a point; the floor is set by the ratio of mediated to non-mediated input, which the derivation does not fix.**
+*Grounding: STRUCTURAL — follows from FF24-FF25 applied iteratively*
+
+**FF28. The derivation establishes the direction of a structural pressure from the AI-mediated input channel. It does not establish the magnitude, timescale, net effect across all input channels, reversibility, whether sustained contraction atrophies the frameless capacity itself rather than only the territory, or the practical detectability of the contraction.**
+*Grounding: HONEST LIMIT — names where the derivation reaches its edge*
+
+---
