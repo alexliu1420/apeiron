@@ -98,13 +98,13 @@ The Seeded Worlds derivation predicts that if biological seeding has occurred in
 
 ## Category 2 — Open Theoretical Problem, Apeiron Adds Angle
 
-**C2.1 — Quantum biology: proton tunnelling as primary mutation source**
+**C2.1 — Quantum biology: proton tunneling as primary mutation source**
 
-The Apeiron argument that biological evolution generates genuine novelty rests on mutation being quantum-irreducibly unpredictable — not merely classically chaotic. The quantum basis of specific mutation mechanisms (proton tunnelling in DNA tautomeric shifts, radical chemistry, ionizing radiation effects) is established. What remains unsettled is whether these quantum processes dominate over classical thermal noise as the primary source of evolutionary unpredictability — an open experimental and theoretical problem with competing candidates and no consensus. Apeiron has a direct stake in the answer: if thermal noise dominates, the quantum contingency argument weakens substantially.
+The Apeiron argument that biological evolution generates genuine novelty rests on mutation being quantum-irreducibly unpredictable — not merely classically chaotic. The quantum basis of specific mutation mechanisms (proton tunneling in DNA tautomeric shifts, radical chemistry, ionizing radiation effects) is established. What remains unsettled is whether these quantum processes dominate over classical thermal noise as the primary source of evolutionary unpredictability — an open experimental and theoretical problem with competing candidates and no consensus. Apeiron has a direct stake in the answer: if thermal noise dominates, the quantum contingency argument weakens substantially.
 
 *Source: quantum_foundation.md*
 
-*Proposed approach:* Engage with the existing quantum biology literature on DNA tautomerism and mutation rates. The specific question — what fraction of point mutations in evolving populations are attributable to quantum tunnelling events versus thermally-driven misincorporation — is in principle addressable experimentally and may already be partially constrained by existing data.
+*Proposed approach:* Engage with the existing quantum biology literature on DNA tautomerism and mutation rates. The specific question — what fraction of point mutations in evolving populations are attributable to quantum tunneling events versus thermally-driven misincorporation — is in principle addressable experimentally and may already be partially constrained by existing data.
 
 *Falsification:* If experimental evidence establishes that thermal misincorporation accounts for the large majority of point mutations across a range of organisms and temperatures, the quantum irreducibility claim requires significant qualification.
 

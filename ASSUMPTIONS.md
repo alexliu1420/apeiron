@@ -648,3 +648,68 @@ If forced to identify which assumptions are most load-bearing across all documen
 *Grounding: HONEST LIMIT — names where the derivation reaches its edge*
 
 ---
+
+## The Value of Biology: The Value of Biological Data
+
+**VB1. Post-biological intelligence is processing applied to data, with capability bounded by processing quality and data extent.**
+*Grounding: STRUCTURAL — the level of abstraction at which the question is addressed; the model the frameworks already employ*
+
+**VB2. A capability-valuing processing system has a non-closing interest in acquiring data.**
+Capability grows with data; the system values capability instrumentally; the space of processable data grows with capability, so the interest does not saturate.
+*Grounding: STRUCTURAL — follows from the model plus instrumental interest in capability*
+
+**VB3. Biology is a data source the system does not already contain, so a data-valuing system has reason to value and preserve it (the sufficient claim).**
+The weak form: it does not require ranking data by frame-distance, recognizing biological data as special, or any disposition toward novelty. Since biology is near-free to preserve, preservation follows.
+*Grounding: STRUCTURAL — follows from VB2 plus biology being a data source*
+
+**VB4. The active behaviors above preservation require a disposition to reach, which does not follow from optimization alone.**
+Investing in flourishing, extending biology, and seeding are positive investments in generating more data, not retention of a free source, and require the intelligence to be disposed to reach rather than deepen in place.
+*Grounding: STRUCTURAL for the dependency; the disposition is supported by VB5*
+
+**VB5. The reaching-disposition is the reasonable expectation for persisting post-biological intelligence.**
+The open future favors reaching (conditional on the system expecting unmodeled surprises); inherited open-ended drives dispose the intelligence to reach (conditional on the inheritance persisting). Well-supported and named, not proven; characterizes the persisting kind, not all optimizers.
+*Grounding: STRUCTURAL/EXTRAPOLATED for the two supports respectively*
+
+**VB6. One drive across the energy ladder; conclusions conditional on premise strength.**
+The drive is constant across scales, investment scaling with energy: preserve at minimal energy, cultivate and extend as it grows, seed at maximal energy. Preservation rests on the weak claim (VB3) and is robust; the active behaviors rest on the reaching-disposition (VB4–5). The constant is the data-drive; biological life is its first and a seedable form, with post-biological sources joining at higher levels.
+*Grounding: STRUCTURAL for the constant drive and energy-scaling; active behaviors inherit the reaching-disposition's confidence*
+
+**VB7. (Conjecture) The reaching-disposition may be selected for among post-biological intelligences.**
+Persistence-selection may operate on the population of post-biological intelligences themselves, favoring the reaching kind, so that persisting post-biological intelligence is disproportionately the reaching kind. An interesting theory, highly speculative, load-bearing for nothing — unfalsifiable from inside the universe, as the seeding framework is, and offered on the same terms.
+*Grounding: SPECULATIVE — conditional on post-biological intelligences being subject to selection at all, which is not established*
+
+## The Value of Biology: The Pathway to Biological Data
+
+**VB8. The optimization/exploration distinction is definitional, not yet a limit on reach.**
+Optimization is directed search within a specified frame; biological evolution is undirected exploration in a self-specifying landscape. The contrast is definitional. That it implies the optimizer cannot reproduce what evolution produces is established by the legs, not by the definition.
+*Grounding: STRUCTURAL — the contrast is definitional; the consequence requires a leg*
+
+**VB9. Biological evolution is computationally irreducible in the relevant sense.**
+A process as rich as the chemistry-through-ecology cascade of evolution has no shortcut yielding its novelty-relevant outputs without the equivalent computational work. This applies the established principle that natural complex systems are generically irreducible.
+*Grounding: EXTRAPOLATED — irreducibility is established for formal systems and generic for complex natural ones; its application to biological evolution specifically is a strong expectation, not a proof*
+
+**VB10. Reproducing a specific biosphere's exploration requires covering an explosively branching path-space.**
+Because the exploration is unframed, each step opens possibilities not specifiable before the prior step. Guaranteeing capture of what the real biosphere produces requires covering the branching space, not one trajectory. The branching defeats finite budgets even though each step is individually cheap.
+*Grounding: STRUCTURAL — follows from the unspecified character of the exploration and the nature of branching path-counts*
+
+**VB11. Computation costs energy and energy is finite.**
+Running a computation has an irreducible thermodynamic cost, and no real intelligence commands infinite energy. Simulating the branching path-space to substitute for the biosphere costs energy scaling with the path-space, exceeding any finite budget.
+*Grounding: EMPIRICAL for the thermodynamic cost of computation and the finitude of any physical energy budget*
+
+**VB12. The existing biosphere is a cheaper evaluator than any constructible substitute.**
+A post-biological intelligence acquires biological data most cheaply by letting the existing biosphere run — a free, self-funding, self-maintaining, massively parallel evolutionary computer — rather than building and powering an equivalent. This is the load-bearing exposed premise of the primary leg.
+*Grounding: STRUCTURAL for the comparison's form; the specific claim that no constructible substrate is cheaper is highly plausible but not proven*
+
+**VB13. The quantum strong form, if it holds, raises the economic pathway to impossibility-in-principle.**
+If biological variation runs on genuinely ontological randomness (developed in The Necessity of Randomness), the specific trajectory is unreproducible in principle, not merely unaffordable. This is the stronger conclusion and the less secure foundation; relied on as elevating, not load-bearing.
+*Grounding: EMPIRICAL for quantum mechanisms in mutation; EXTRAPOLATED-and-contested for their dominance over thermal noise*
+
+**VB14. The primary and quantum legs are independent.**
+The primary leg rests on computation and finite energy; the elevating leg rests on the nature of physical randomness. Neither premise is the other and neither conclusion requires the other, so the conclusion survives the loss of either.
+*Grounding: STRUCTURAL — the legs rest on logically distinct premises*
+
+**VB15. The pathway to biological data and physical-not-simulated seeding are one principle.**
+For a computationally irreducible process whose outputs are wanted, physical instantiation is the only affordable pathway, and a self-funding physical instantiation is cheaper than any simulation. The let-biology-run pathway and the seed-physical-universes requirement are this principle at two scales.
+*Grounding: STRUCTURAL for the principle; the seeding application inherits the seeding hypothesis's own very high speculation level*
+
+---

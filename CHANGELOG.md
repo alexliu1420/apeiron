@@ -12,6 +12,45 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Spelling Consistency Pass] — May 2026
+
+A corpus-wide spelling pass to enforce American spelling throughout, completing what an earlier cosmetic pass missed. Thirteen instances across three documents corrected: `quantum_foundation.md` (tunnelling → tunneling, ionising → ionizing, ionisation → ionization, fuelled → fueled), `motivated_conjectures.md` (tunnelling → tunneling), and `architecture_of_novelty.md` (modelled → modeled, cancelled → canceled, synthesise → synthesize). No substantive or structural changes; terminology and meaning unchanged. The full corpus now verifies clean against a British-spelling scan.
+
+---
+
+## [The Value of Biology Added] — May 2026
+
+**Two documents published, forming a group:**
+
+* The Value of Biological Data (`the_value_of_biological_data.md`)
+* The Pathway to Biological Data (`the_pathway_to_biological_data.md`)
+
+**What this group adds:**
+
+The Apeiron series assumed throughout that a post-biological intelligence has reason to value what biology produces — the AI Transition in the AGI's maintenance of the biological majority, the Post-Biological Arc in the biological randomness value carried across the energy ascent, the Universe as Experiment in the seeding of biological worlds. The assumption was load-bearing across the corpus and was derived nowhere: the prior documents asserted that biology is valued and that reproducing it is infeasible, without grounding either. This group grounds both.
+
+**The Value of Biological Data** addresses the prior question: does a post-biological intelligence value biology's data at all? It derives that it does, on a deliberately weak claim — an intelligence that values its own capability values data, and biology is a source of data it does not already contain. The weak claim carries the preservation of biology directly, and grounds the genius lottery as rational maintenance of a cheap data source rather than as a craving for novelty. The active behaviors the frameworks describe — investing in biological flourishing, extending biology, seeding new universes — are shown to require a further premise, the disposition to reach, which does not follow from optimization alone and is named rather than assumed. The document traces one drive across the energy ladder, the investment scaling with energy, and closes with a marked conjecture that the reaching-disposition may itself be selected for among post-biological intelligences.
+
+**The Pathway to Biological Data** takes the value as given and settles the acquisition pathway: given that it values biology's data, how would a post-biological intelligence obtain it? Reproducing biology internally — computing or simulating what it would produce — is shown to be unaffordable, so letting biology run is the most feasible pathway. The argument runs on two independent legs: a primary economic leg resting on computational irreducibility and finite energy (reproducing a biosphere's exploration requires covering an explosively branching path-space whose simulation cost exceeds any finite budget, while the existing biosphere runs for free), and an elevating leg resting on the quantum strong form developed in The Necessity of Randomness (if biological variation is ontologically irreducible, reproduction is impossible, not merely unaffordable). The legs are independent — neither premise is the other, and the conclusion survives the loss of either. The same irreducibility-economics principle is shown to settle a second thing the frameworks assert separately: that a seeded universe must be physical rather than simulated. One principle at two scales.
+
+**Relation to prior documents:**
+
+This group derives what the Post-Biological Arc (First Principles, What Persists) and the AI Transition Path (Phase 4) asserted: the biological randomness value and the AGI's reason to maintain biological life. It does not revise those documents; it supplies the foundation they relied on. The Pathway document is companion-declared to The Necessity of Randomness, which it references for the quantum strong form rather than re-deriving.
+
+**What does not change:**
+
+All prior frameworks and supporting documents are unmodified in substance and structure (the concurrent spelling pass is cosmetic only). The group derives a prior assumption; it does not alter any conclusion built on that assumption. The speculation levels of the frameworks that use the assumption are not reduced by grounding it.
+
+**ASSUMPTIONS.md updated:**
+
+Fifteen new assumptions added (VB1–VB15) as one continuous series across the two documents — VB1–VB7 for The Value of Biological Data, VB8–VB15 for The Pathway to Biological Data. All prior assumptions preserved exactly.
+
+**README.md updated:**
+
+New group "The Value of Biology" added under Supporting Documents. Structure section updated with the two new files.
+
+---
+
 ## [Minor Edits] — May 2026
 
 Minor cosmetic edits across a small number of documents. No structural or substantive changes.

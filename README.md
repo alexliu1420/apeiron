@@ -156,6 +156,16 @@ A reader following both cross-cutting clusters should read the consciousness clu
 
 ---
 
+### The Value of Biology
+
+The series assumed throughout that a post-biological intelligence has reason to value what biology produces — in the AGI's maintenance of the biological majority, the biological randomness value carried across the energy ascent, and the seeding of biological worlds. The assumption was load-bearing and was never derived. This group derives it, in two steps.
+
+**[The Value of Biological Data](the_value_of_biological_data.md)** — Addresses the prior question the frameworks assumed: does a post-biological intelligence value what biology produces? Derives that it does, on a deliberately weak claim — an intelligence that values its capability values data, and biology is a data source it does not already contain — which carries preservation directly and grounds the genius lottery without appeal to novelty-seeking. The active behaviors (flourishing, extension, seeding) are shown to require a named further premise, the disposition to reach, which does not follow from optimization alone. One drive across the energy ladder, investment scaling with energy. Closes with a marked conjecture that the reaching-disposition may be selected for among post-biological intelligences. *Speculation level: STRUCTURAL for the weak claim and preservation; conditional for the active behaviors; SPECULATIVE for the closing conjecture.*
+
+**[The Pathway to Biological Data](the_pathway_to_biological_data.md)** — Takes the value as given and settles how the data would be acquired. Reproducing biology internally is unaffordable, so letting biology run is the most feasible pathway. Two independent legs: a primary economic leg on computational irreducibility and finite energy, and an elevating leg on the quantum strong form developed in The Necessity of Randomness. The same irreducibility-economics principle is shown to require that seeded universes be physical rather than simulated — one principle at two scales. *Companion to The Value of Biological Data and to The Necessity of Randomness. Speculation level: STRUCTURAL for the primary leg; EXTRAPOLATED-and-contested for the elevating leg.*
+
+---
+
 ## How to Read
 
 Each framework and its supporting documents form a coherent unit that can be read independently. The connections between units are loose — coherent with each other, not dependent on each other. A reader can enter at any framework and follow it as far as it goes without the others.
@@ -211,6 +221,8 @@ the_origin_of_frames.md                         ← The Frame and the Frameless:
 the_origin_of_agency.md                         ← The Frame and the Frameless: The Origin of Agency
 what_alignment_would_have_to_be.md              ← The Frame and the Frameless: What Alignment Would Have to Be
 the_frame_saturation_question.md                ← The Frame and the Frameless: The Frame Saturation Question
+the_value_of_biological_data.md                 ← The Value of Biology: The Value of Biological Data
+the_pathway_to_biological_data.md               ← The Value of Biology: The Pathway to Biological Data
 ASSUMPTIONS.md                                   ← all assumptions across all documents
 CHANGELOG.md                                     ← updates and revisions
 LICENSE                                          ← CC BY-NC 4.0
