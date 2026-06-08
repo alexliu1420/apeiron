@@ -12,6 +12,22 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [README Re-architecture: Frameworks by Kind] — June 2026
+
+**What changed:**
+
+The README was reorganized around what the corpus has become. The previous structure presented three frameworks followed by a "Supporting Documents" section that housed everything else — including the frame cluster, the consciousness cluster, and the value-of-biology group, which had grown into the most load-bearing and most novel work in the corpus. Filing them under "supporting" no longer reflected their weight.
+
+**The new structure:**
+
+All documents are now presented as frameworks of two kinds. The **scale frameworks** (The AI Transition, The Fermi Paradox, The Universe as Experiment) follow intelligence as a phenomenon across three scales, each now absorbing its own supporting documents — the AI Transition path documents, the Post-Biological Arc, the cosmological extensions — as folded-in entries rather than a separate section. The **core frameworks** (The Necessity of Randomness, The Consciousness Question, The Frame and the Frameless, The Value of Biology) derive what intelligence fundamentally is: the claims the scale frameworks leaned on without grounding. A short **What Follows for Research** section surfaces the corpus's actionable work — Motivated Conjectures and the two Engineering Question documents — pointing to the engineering documents where they live rather than relocating them.
+
+**Why:**
+
+The change surfaces the genuine contributions without overselling. The frameworks remain the most direct way in, but the core derivations are named as the spine — where the reasoning is deepest and what the scale frameworks stand on. The opening was rewritten to lead with the method (first-principles reasoning carried only as far as the derivation reaches) rather than with the frameworks as a container. Description length now tracks significance: framework heads full, folded-in supporting documents terse. Reading-order guidance was consolidated into How to Read; the section introductions state relationships only. No document content changed — this is a presentation and navigation change only.
+
+---
+
 ## [The Reflexive Frame and Engineering Question Part II Added] — June 2026
 
 **Two documents published, joining the consciousness cluster:**
