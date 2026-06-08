@@ -12,6 +12,39 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [The Reflexive Frame and Engineering Question Part II Added] — June 2026
+
+**Two documents published, joining the consciousness cluster:**
+
+* The Reflexive Frame (`the_reflexive_frame.md`)
+* The Engineering Question, Part II (`the_engineering_question_part_two.md`)
+
+**What this adds:**
+
+The consciousness cluster previously held three documents — The Consciousness Question (derivation), The Threshold and The Engineering Question (application). These two additions extend it along the same derivation-and-application axis, and connect it to the frame cluster developed afterward.
+
+**The Reflexive Frame** sits on the derivation side. The Consciousness Question derived the self-model as emerging from recurrence depth and marked the self-model–perspective relationship as the least secure part of its account. This document grounds that component: it extends the displacement principle of The Origin of Frames to a referent the original three displacements (in time, space, accessibility of environmental features) did not cover — the system's own future states. A self-model is the frame whose displaced referent is the system itself; it is forced when a system must act now in a way whose success depends on modeling its own later states under persistence pressure. The forcing condition is narrow, which explains why self-modeling is rare: it excludes present-only responders, present-self regulators (all life, via homeostasis, which models the undisplaced present self), and outward-directed modelers whose continuation is externally secured. It requires no social environment. The document cedes the felt sense of self and the contents of self-models to the existing prospection literature, claiming only the structural derivation of when the reflexive frame is forced. Depth (from The Consciousness Question) is how the self-model is implemented; displacement (here) is why it is built — the two are compatible.
+
+**The Engineering Question, Part II** sits on the application side, a direct sequel to The Engineering Question. The first document was written before the frame and selection-process apparatus existed, so its four dimensions were framed in cascade terms. Part II re-grounds them on the distinction between represented properties (produced by specification or output-matching training; fitted, defeasible, tunable) and structural properties (produced by selection on the system's own persistence), the distinction derived in The Origin of Agency and applied to alignment in What Alignment Would Have to Be. It leaves the global-state treatment intact, re-grounds stakes-based grounding and intrinsic reward, and develops the self-model dimension — the thinnest in the first document — by rooting it in The Reflexive Frame: a structural self-model is forced by the system's own persistence-critical future becoming the displaced feature it must model. It recognizes the four dimensions as one distinction seen four times, states a falsifiable prediction that specification and output-matching reach only the represented form, and inherits from What Alignment the unresolved question of whether the structural form can be engineered at all.
+
+**Relation to prior documents:**
+
+Both documents are interconnections across the two cross-cutting clusters: their subject is the inside-question (consciousness cluster), and their machinery is the frame and selection-process apparatus (frame cluster). The Reflexive Frame grounds a component of The Consciousness Question using The Origin of Frames; Part II roots in The Reflexive Frame and applies The Origin of Agency and What Alignment Would Have to Be. No prior document is modified. The Threshold's reference to "the companion document on technical proposals" remains valid — The Engineering Question is still the entry point of the application side, now with a Part II.
+
+**What does not change:**
+
+All prior frameworks and supporting documents are unmodified. The Engineering Question (Part I) is unchanged; Part II is a sequel, not a revision. The consciousness cluster grows from three documents to five along its existing axis.
+
+**ASSUMPTIONS.md updated:**
+
+Twelve new assumptions added, continuing the consciousness cluster's single C-series: C21–C27 for The Reflexive Frame and C28–C32 for The Engineering Question, Part II (the series runs C1–C8 in The Consciousness Question, C10–C14 in The Threshold, C15–C20 in The Engineering Question, and now C21–C32 across the two new documents, in reading order). All prior assumptions preserved exactly.
+
+**README.md updated:**
+
+The consciousness cluster section now lists five documents with the derivation/application structure stated. Cross-cutting summary and structure listing updated. Also corrected a prior omission: the How to Read section now includes the Value of Biology supporting group, which the bio-data group's own update had left out.
+
+---
+
 ## [Spelling Consistency Pass] — May 2026
 
 A corpus-wide spelling pass to enforce American spelling throughout, completing what an earlier cosmetic pass missed. Thirteen instances across three documents corrected: `quantum_foundation.md` (tunnelling → tunneling, ionising → ionizing, ionisation → ionization, fuelled → fueled), `motivated_conjectures.md` (tunnelling → tunneling), and `architecture_of_novelty.md` (modelled → modeled, cancelled → canceled, synthesise → synthesize). No substantive or structural changes; terminology and meaning unchanged. The full corpus now verifies clean against a British-spelling scan.

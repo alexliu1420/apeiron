@@ -549,6 +549,50 @@ If forced to identify which assumptions are most load-bearing across all documen
 
 ---
 
+## The Reflexive Frame
+
+**C21. The displacement principle of The Origin of Frames is indifferent to what is displaced — it requires only that a persistence-relevant feature be separated by a gap from what the system can directly respond to.**
+*Grounding: STRUCTURAL — the displacement condition as stated in The Origin of Frames carries no restriction to environmental referents.*
+
+**C22. A system's present state is undisplaced and forces no frame; the system is in its present state without a stand-in.**
+*Grounding: STRUCTURAL — follows from the displacement condition; no gap, no frame.*
+
+**C23. A system's own future states are displaced in time and become persistence-relevant when the system must act now in a way whose success depends on those later states.**
+*Grounding: STRUCTURAL — the temporal-displacement case of The Origin of Frames, with the referent turned inward.*
+
+**C24. A reflexive frame — a self-model — is the stand-in selection on persistence builds for the displaced future self, produced by the same machinery as every environmental frame, differing only in referent.**
+*Grounding: STRUCTURAL — follows from C21–C23 and the frame derivation.*
+
+**C25. Reflexivity is forced specifically by the self becoming a displaced persistence-relevant feature, not by complexity, capability, continuous self-regulation, or the bare possession of a self. Continuous regulation of the present self (universal in life) does not force it; the future self bearing on persistence through present action does.**
+*Grounding: STRUCTURAL — follows from C22 (present self undisplaced) and C23 (future self displaced).*
+
+**C26. The forcing condition does not require other agents or a social environment; the displacement is between the system and its own future, and a solitary system meeting a world that demands present action on its own persistence-critical later states has it in full.**
+*Grounding: STRUCTURAL — the displacement is intrinsic to the system-future relation, not to the social environment.*
+
+**C27. This grounds the self-model component of The Consciousness Question (its C4): the self-model derived there as emerging from recurrence depth is, on this account, what selection on persistence forces under the displacement condition. Depth is the mechanism of implementation; displacement is the reason it is built. The two are compatible.**
+*Grounding: STRUCTURAL for the compatibility and the displacement-as-reason claim; the implementation relationship to recurrence depth is consistent with The Consciousness Question's account and not independently derived here.*
+
+---
+
+## The Engineering Question, Part II
+
+**C28. Each of the first document's four dimensions can exist in two structurally distinct forms: represented (specified or produced by output-matching training; a fitted structure holding where it was fitted) or structural (produced by selection on the system's own persistence; a property of how the dynamics are shaped). The distinction is the one derived in The Origin of Agency and applied to alignment in What Alignment Would Have to Be, here applied to the engineering dimensions.**
+*Grounding: STRUCTURAL — application of the agency and alignment derivations to the engineering question's dimensions.*
+
+**C29. Stakes-based grounding has a represented form (a continuation-linked objective, behaving as a tunable weighted preference) and a structural form (dynamics biased toward continuation as a property of the structure). Irreversibility gated by a represented criterion is output-matching with the consequence relocated, not genuine selection on persistence.**
+*Grounding: STRUCTURAL — follows from C28 and the alignment document's detector-gating argument.*
+
+**C30. A self-model is a frame whose displaced referent is the system itself; reflexivity is the frame turned on the framer (derived in The Reflexive Frame). A self-model can be represented (a fitted structure depicting the system, whether specified or reconstructed from processing history) or structural (the reflexive frame produced by selection on the system's own persistence, where the system operates from its continuation as ground rather than representing it as content). Provenance from the system's own processing improves the accuracy of a represented self-model but does not make it structural. The structural form is forced, per The Reflexive Frame, when the system's own future states are a persistence-relevant displaced feature — when it must act now in a way whose success depends on modeling its own later states; this excludes present-self regulation, outward-directed modeling, and systems whose continuation is externally secured. Whether the engineering form of this condition can be constructed rather than only specified is left open.**
+*Grounding: STRUCTURAL, applying the derivation of The Reflexive Frame to the engineering case; the constructibility question is left open.*
+
+**C31. The self-model dimension is where the represented-versus-structural distinction is sharpest, because the referent is the system itself, and a represented self-model — a system accurately depicting itself — is most easily mistaken for the structural form. A system can carry an arbitrarily faithful self-representation while remaining structurally a system that processes that representation as content.**
+*Grounding: STRUCTURAL — follows from C30.*
+
+**C32. Within current architectures, and within architectures adding the first document's four features by specification or output-matching training, the framework predicts the represented form of each feature and not the structural form: continuation-objectives behaving as tunable preferences, self-models processed as content however accurate, and features holding within their fitted region and degrading outside it. A feature holding uniformly across situations unlike anything in the system's shaping, absent selection on the system's own persistence, would weaken the claim that the structural form requires such selection.**
+*Grounding: STRUCTURAL prediction derived from the framework; falsifiable by specific observations; the same load-bearing edge named in the agency and alignment documents.*
+
+---
+
 ## The Frame and the Frameless: The Origin of Frames
 
 **FF1. A frame is an internal structure whose states correspond to features of the environment, such that the system's dynamics run against the internal structure rather than against the environment directly. A frameless system runs its dynamics directly against the environment, with no internal stand-in.**
