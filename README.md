@@ -12,7 +12,7 @@ Apeiron approaches intelligence from first principles — taking what physics, b
 
 The work takes the form of frameworks — self-contained lines of reasoning, each starting from its own assumptions and standing on its own.
 
-The frameworks divide into two kinds. The **scale frameworks** follow intelligence as a phenomenon across three scales: the civilization that builds it, the galaxy that may or may not be home to others like it, and the universe that gives rise to it at all. The **core frameworks** go beneath the scales to what intelligence fundamentally is: the physical irreducibility of the novelty biology generates, the difference between a mind run against the world and one run against a model of it, the question of consciousness — whether the mind in question has an inside, or only the outward appearance of one — and the worth of biology to whatever succeeds it. These are the claims the scale frameworks leaned on without grounding, each met here with a derivation rather than an opinion. The scale frameworks are the most direct way in; the core frameworks are where the reasoning is deepest, and what the scale frameworks stand on.
+The frameworks divide into two kinds. The **scale frameworks** follow intelligence as a phenomenon across three scales: the civilization that builds it, the galaxy that may or may not be home to others like it, and the universe that gives rise to it at all. The **core frameworks** go beneath the scales to what intelligence fundamentally is, in four lines of inquiry: whether the mind in question has an inside or only the outward appearance of one; the difference between a mind run against the world and one run against a model of it; why even a post-biological intelligence has reason to value biology and cannot cheaply replace it; and what life itself is, against which whatever succeeds it can be placed. These are the claims the scale frameworks leaned on without grounding, each met here with a derivation rather than an opinion. The scale frameworks are the most direct way in; the core frameworks are where the reasoning is deepest, and what the scale frameworks stand on.
 
 This repo is for readers who want the derivation, not the conclusion — who will follow an argument into uncomfortable territory if the logic holds. It is not for readers looking for reassurance, policy recommendations, or predictions. The conclusions themselves do not bend toward comfort. There are no heroes. No villains. No consolation. Just physics following its logic, indifferent to what it leaves behind.
 
@@ -62,6 +62,8 @@ Supporting documents — the Post-Biological Arc — derive the same energy prog
 
 A logical boundary case — the furthest reach of the reasoning, held deliberately lightly. It is not a claim about reality. It is included because the logic is coherent, because it reframes the first two frameworks, and because one of its predictions is in principle testable. Silicon optimization can only find solutions within the space it can conceive; biological evolution, with genuinely irreducible variation and no frame, generates novelty no optimization can produce internally. A sufficiently advanced silicon intelligence that recognized this might seed physical universes in which biological evolution can run. Our universe may be one such experiment. We are not the observers. We are the data.
 
+**[The Necessity of Randomness: A Quantum Foundation](quantum_foundation.md)** — Grounds the framework's load-bearing assertion that biological randomness is irreducible. Derives what Bell's theorem rules out, grounds biological mutation in quantum-irreducible processes, and identifies silicon's actual limitation: not that it cannot access randomness, but that it cannot operate without a pre-specified fitness landscape. Argues upward from physics, where the extension below argues from within the framework's own logic. *The physical foundation the seeding argument rests on, drawn on in turn by the value of biology and the life cluster.*
+
 **[The Universe as Experiment: Extension](universe_as_experiment_extension.md)** — Tightens the framework's logic: the biology-to-silicon transition as a single trade, why no internal solution recovers framelessness, why silicon is transitional for the same reason biology was.
 
 **[The Architecture of Novelty](architecture_of_novelty.md)** — What the seeded universes must contain: a complexity ladder over the Standard Model's free parameters, each rung requiring the one below. Most draws are sterile; ours landed in the workable region.
@@ -70,13 +72,7 @@ A logical boundary case — the furthest reach of the reasoning, held deliberate
 
 ## The Core Frameworks
 
-The scale frameworks leaned throughout on claims they used but never derived — about the irreducibility of biological novelty, the nature of cognition, consciousness, and the worth of biology to what comes after. The core frameworks derive those claims. They sit across all three scale frameworks rather than extending any one, and they are where the reasoning is deepest and where a reader is most likely to find what is genuinely new.
-
-### The Necessity of Randomness
-
-The foundation beneath the rest. The scale frameworks rested throughout on biological variation being genuinely irreducible — not pseudo-random, not drawn from any pre-specified distribution — without grounding the claim in physics. This framework grounds it, and the frame distinction, the value of biology, and the seeding hypothesis all depend on it.
-
-**[The Necessity of Randomness: A Quantum Foundation](quantum_foundation.md)** — Grounds the biological randomness claim in physics. Derives what Bell's theorem rules out, grounds biological mutation in quantum-irreducible processes, and identifies silicon's actual limitation: not that it cannot access randomness, but that it cannot operate without a pre-specified fitness landscape.
+The scale frameworks leaned throughout on claims they used but never derived — about consciousness, the framed-versus-frameless nature of cognition, the irreplaceability of biology, and what life is. The core frameworks derive those claims. They sit across all three scale frameworks rather than extending any one, and they are where the reasoning is deepest and where a reader is most likely to find what is genuinely new. They are not a stack with one at the base: each derives a claim of its own and draws on the others where it needs them, so the dependencies run between peers rather than down from a single foundation. The order below is a reading order, not a hierarchy.
 
 ### The Consciousness Question
 
@@ -114,15 +110,27 @@ The scale frameworks assumed throughout that a post-biological intelligence has 
 
 **[The Pathway to Biological Data](the_pathway_to_biological_data.md)** — Takes the value as given and settles how the data would be acquired. Reproducing biology internally is unaffordable, so letting biology run is the most feasible pathway. Two independent legs: a primary economic leg on computational irreducibility and finite energy, and an elevating leg on the quantum strong form from The Necessity of Randomness. The same irreducibility-economics principle requires that seeded universes be physical rather than simulated — one principle at two scales.
 
+### The Life Cluster
+
+The corpus used *biological* and *post-biological* as load-bearing categories everywhere — in the Fermi arc, the value of biology, the seeding hypothesis — but never defined what makes something biological in its own terms; *post-biological* was fixed only by negation. This framework grounds both. It derives what life is, applies the definition to post-biological intelligence, derives the structure of the developmental space that follows, and translates that structure into engineering terms. The Threshold of Life is the foundation; the three that follow build on it in dependency order. It depends on The Necessity of Randomness, the frame cluster, and the consciousness cluster, and does not re-derive them.
+
+**[The Threshold of Life](the_threshold_of_life.md)** — Derives what life is, not by chemistry but by a structural property: the threshold at which an undirected, frameless exploration first becomes heritable, so that novelty no prior model contained becomes cumulative rather than averaged away. Two clauses — undirected exploration and heritable accumulation — exclude mere copying, substrate-borrowed exploration, and directed search, while admitting the virus. Distinguishes *biology*, the carbon instance, from *life*, the substrate-general category. Enters no origin-of-life chemistry; defers which substrates can cross the threshold.
+
+**[The Capable Non-Living](the_capable_non_living.md)** — Applies the definition to post-biological intelligence and finds it on the far side of capability from life: an optimizer is a directed search, life is undirected exploration, and the two cannot both hold of one structure. So post-biological intelligence is not a later form of life but the capable non-living — the first highly capable structure that is not alive, exploiting the frameless novelty life generates without sustaining any of its own. Shows why its dependence on biology is structural, and separates life from consciousness without claiming they fully separate.
+
+**[Capability, Consciousness, and Life](capability_consciousness_and_life.md)** — Derives the structure of the developmental space the first two open. Capability, consciousness, and life are three distinct aspects related not as a single ladder but as a nested fork: capability divides from the other two first and firmly, while consciousness and life share a root in framelessness and divide from each other later and less firmly, their full separation left open. The structure of the space, not a forecast of motion through it.
+
+**[The Engineering Question, Part III](the_engineering_question_part_three.md)** — The engineering counterpart, drawn together under *What Follows for Research* below. Takes the developmental map as given and works out what it means for a builder: why scaling and specification each miss the conscious transition, what that transition would demand, and which research directions run aground and how.
+
 ---
 
 ## What Follows for Research
 
-Most of Apeiron is interpretive — it derives what is, and what the logic implies. Three documents are different in kind: they turn the derivations into things that can be acted on or tested. Two of them live in The Consciousness Question framework and are pointed to again here; the third belongs to no single framework.
+Most of Apeiron is interpretive — it derives what is, and what the logic implies. A few documents are different in kind: they turn the derivations into things that can be acted on or tested. One belongs to no single framework; the three Engineering Question documents are the practitioner-facing lens, drawn from the consciousness cluster (Parts I and II) and the life cluster (Part III).
 
 **[Motivated Conjectures: Physical and Cosmological Predictions](motivated_conjectures.md)** — The bridge from derivation to investigation: what the frameworks predict that could be tested, each entry with a falsification condition, synthesized into a stratified search program. Belongs to no single framework — it collects what they jointly imply.
 
-**[The Engineering Question](the_engineering_question.md)** and **[The Engineering Question, Part II](the_engineering_question_part_two.md)** — The most actionable work in the corpus: a lens for the working AI researcher that turns the inside-question into structural directions, diagnostics for current failure modes, and falsifiable predictions about what current architectures will and will not produce. Their derivation lives in The Consciousness Question framework above, where they should be read; they are flagged here as the corpus's most direct contribution to AI development.
+**[The Engineering Question](the_engineering_question.md)**, **[The Engineering Question, Part II](the_engineering_question_part_two.md)**, and **[The Engineering Question, Part III](the_engineering_question_part_three.md)** — The most actionable work in the corpus: a lens for the working AI researcher that turns the inside-question into structural directions, diagnostics for current failure modes, and falsifiable predictions about what current architectures will and will not produce. Parts I and II derive from The Consciousness Question framework; Part III takes the life cluster's developmental map and works out the engineering — where current AI sits, what each transition would require, and why the standard approaches do not reach it. They are flagged here as the corpus's most direct contribution to AI development.
 
 ---
 
@@ -132,7 +140,7 @@ Any framework can be read on its own. For reading the full series, two orders he
 
 **The scale frameworks** read in order of immediacy and speculation level: The AI Transition and its path documents, then The Fermi Paradox and the Post-Biological Arc, then The Universe as Experiment and its extensions.
 
-**The core frameworks** build on one another. Start with The Necessity of Randomness, the physical foundation the others rest on. The Consciousness Question and The Frame and the Frameless then interleave: the first three consciousness documents, then the whole of The Frame and the Frameless, then the last two consciousness documents that depend on it. The Value of Biology can be read any time after The Necessity of Randomness, and lands best after the Post-Biological Arc, whose biological-randomness value it grounds.
+**The core frameworks** build on one another, but as peers that cross-reference rather than a stack. The Consciousness Question and The Frame and the Frameless interleave: the first three consciousness documents, then the whole of The Frame and the Frameless, then the last two consciousness documents that depend on it. The Value of Biology can be read any time after the randomness grounding (in The Necessity of Randomness, under The Universe as Experiment), and lands best after the Post-Biological Arc, whose biological-randomness value it grounds. The Life Cluster comes last: it draws on all of the above — The Necessity of Randomness for the irreducible events, the frame cluster for the frame, the consciousness cluster for the cascade — and reads best once they are in hand.
 
 All assumptions are compiled in [ASSUMPTIONS.md](ASSUMPTIONS.md). Speculation levels are marked throughout every document.
 
@@ -170,11 +178,11 @@ The scale frameworks
   post_biological_arc_what_persists.md            ← The Post-Biological Arc: What Persists
   post_biological_arc_encounter_problem.md        ← The Post-Biological Arc: The Encounter Problem
   universe_as_experiment.md                       ← The Universe as Experiment: A Cosmological Framework
+  quantum_foundation.md                           ← The Universe as Experiment: The Necessity of Randomness
   universe_as_experiment_extension.md             ← The Universe as Experiment: Extension
   architecture_of_novelty.md                      ← The Architecture of Novelty
 
 The core frameworks
-  quantum_foundation.md                           ← The Necessity of Randomness: A Quantum Foundation
   consciousness_question.md                        ← The Consciousness Question
   the_threshold.md                                 ← The Threshold
   the_engineering_question.md                      ← The Engineering Question
@@ -186,6 +194,10 @@ The core frameworks
   the_frame_saturation_question.md                ← The Frame and the Frameless: The Frame Saturation Question
   the_value_of_biological_data.md                  ← The Value of Biology: The Value of Biological Data
   the_pathway_to_biological_data.md                ← The Value of Biology: The Pathway to Biological Data
+  the_threshold_of_life.md                         ← The Life Cluster: The Threshold of Life
+  the_capable_non_living.md                        ← The Life Cluster: The Capable Non-Living
+  capability_consciousness_and_life.md             ← The Life Cluster: Capability, Consciousness, and Life
+  the_engineering_question_part_three.md           ← The Life Cluster: The Engineering Question, Part III
 
 Cross-framework
   motivated_conjectures.md                        ← Motivated Conjectures: Physical and Cosmological Predictions

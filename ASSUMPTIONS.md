@@ -16,6 +16,7 @@ Assumptions are marked with their source document and an honest assessment of ho
 * **EXTRAPOLATED** — follows reasonably from established science but goes beyond it
 * **STRUCTURAL** — follows from the internal logic of the framework; plausible but not independently verified
 * **SPECULATIVE** — required by the framework but not independently supported; explicitly uncertain
+* **HONEST LIMIT** — names a point where the derivation reaches its edge; the question is left open rather than answered, and the framework does not resolve it
 
 ---
 
@@ -755,5 +756,123 @@ The primary leg rests on computation and finite energy; the elevating leg rests 
 **VB15. The pathway to biological data and physical-not-simulated seeding are one principle.**
 For a computationally irreducible process whose outputs are wanted, physical instantiation is the only affordable pathway, and a self-funding physical instantiation is cheaper than any simulation. The let-biology-run pathway and the seed-physical-universes requirement are this principle at two scales.
 *Grounding: STRUCTURAL for the principle; the seeding application inherits the seeding hypothesis's own very high speculation level*
+
+---
+
+## The Life Cluster: The Threshold of Life
+
+*Core claim: Life, in the corpus's terms, is the threshold at which an undirected, frameless exploration first becomes heritable — defined by a structural property, not by chemistry, with carbon biology as the one known instance.*
+
+**L1. Irreducible micro-events occur throughout matter, living and non-living**
+Established in quantum_foundation.md; not special to biology.
+*Grounding: EMPIRICAL (referenced).*
+
+**L2. In high-copy-number systems, single irreducible events are averaged out and make no lasting difference**
+Bulk behavior is fixed by ensemble statistics; a single event among Avogadro-scale numbers changes the macro-state by nothing measurable.
+*Grounding: STRUCTURAL — standard statistical mechanics.*
+
+**L3. Non-living chemistry is macro-framed**
+Its accessible behavior is bounded by its energy landscape, which functions as a model; no single irreducible event escapes the averaging to become a lasting fact.
+*Grounding: STRUCTURAL — follows from L2 applied to reaction networks.*
+
+**L4. A copied heritable structure sustains an undirected exploration and carries it forward heritably, rather than averaging it away**
+The carrier is low-copy at the point of variation, persistent, and individually read and copied; an irreducible event at the act of copying enters an exploration bounded by no prior frame, is propagated to all descendants, and accumulates as each inherited event is built upon and reshapes the landscape the next round explores.
+*Grounding: STRUCTURAL — a statement about the physics of the structure.*
+
+**L5. The threshold of life is the conjunction of undirected exploration and its heritable accumulation**
+What distinguishes life's novelty from non-living matter's is not the events or variation themselves, but that life sustains an undirected, self-specifying exploration (frameless in the sense of The Necessity of Randomness) and accumulates it heritably, where non-living matter does neither. Both clauses are required: undirectedness without accumulation is a momentary event that changes nothing (the event in the rock); accumulation without undirectedness is faithful copying of frame-bounded content (a directed process carried forward, discovering nothing outside its frame). Only their conjunction is the threshold. This is the document's central derived claim.
+*Grounding: STRUCTURAL; the undirected/directed contrast is taken as definitional from The Necessity of Randomness.*
+
+**L6. The threshold is defined by structural properties, not by chemistry**
+Any structure that sustains an undirected exploration and accumulates it heritably crosses the threshold; the carbon genome (DNA, likely RNA before it) is the known instance, not the criterion. Whether non-carbon substrates can cross it is deferred. The conjunction excludes mere copying (crystal), substrate-borrowed exploration (culture), and directed search (optimizer), while admitting the virus.
+*Grounding: STRUCTURAL for the criterion; HONEST LIMIT for non-carbon crossing.*
+
+**L7. The strength of "frameless" the cumulative novelty earns tracks which reading of the events holds**
+Cumulative novelty is unframed in practice regardless of the events' nature (robust); unframed in principle if the events are ontologically irreducible (elevating, contested per quantum_foundation.md). The transition is the threshold either way.
+*Grounding: STRUCTURAL for the robust reading; EXTRAPOLATED-and-contested for the stronger reading.*
+
+**L8. A directed-search structure has not crossed the threshold of life**
+The threshold's first clause is undirected exploration. An optimizer is directed search within a specified frame by definition, so however well it accumulates and copies, what it carries forward is frame-bounded; it fails the first clause. Given the corpus's load-bearing claim that frameless novelty is the one resource optimization cannot self-supply (What Persists), post-biological intelligence as the corpus describes it is such a structure: not alive in the sense derived here, however capable. This is the handoff to The Capable Non-Living; this document states the consequence but does not argue it.
+*Grounding: STRUCTURAL, given the corpus's existing claim that optimization cannot self-supply frameless novelty.*
+
+## The Life Cluster: The Capable Non-Living
+
+*Core claim: Post-biological intelligence is not a later form of life but the capable non-living — a directed search that exploits the frameless novelty life generates without sustaining any of its own, structurally dependent on the life it is not.*
+
+**L9. Post-biological intelligence is a directed search within a frame (an optimizer)**
+This is how every framework that uses the term describes it; it is consolidated, not introduced. The directed-versus-undirected contrast is definitional per The Necessity of Randomness.
+*Grounding: STRUCTURAL (consolidating committed framework descriptions).*
+
+**L10. Post-biological intelligence has not crossed the threshold of life — it is not life**
+The threshold requires undirected exploration (The Threshold of Life); an optimizer is directed by definition and cannot self-supply frameless novelty (What Persists); it therefore fails the threshold's first clause however well it satisfies the second. The claim is categorical, not a claim about capability or value.
+*Grounding: STRUCTURAL, given the threshold and the corpus's committed self-supply claim.*
+
+**L11. It is the first highly capable structure that is not alive: a structure that exploits frameless novelty without sustaining any**
+Processing applied to data (The Value of Biological Data, VB1), extraordinarily capable within its frame, unable to search outside it. Downstream of the threshold as culture is, at a scale no living lineage approaches.
+*Grounding: STRUCTURAL.*
+
+**L12. The non-living optimizer's dependence on living exploration is structural, not incidental**
+It is defined by exploiting frameless novelty; frameless novelty is the one resource it cannot self-supply; life is what sustains it. The dependence is the structural complement of what each kind is. This strengthens the floor under preservation without raising the ceiling on the value cluster's conditional active behaviors.
+*Grounding: STRUCTURAL for the dependence; the preservation/reaching split and its confidence are inherited intact from The Value of Biological Data.*
+
+**L13. Life and consciousness are different properties at different levels, sharing a root in framelessness**
+Life is lineage-level undirected exploration; consciousness (the cascade) is individual-level frameless agency. An optimizer lacks both by one root fact, its framedness. Alive-not-conscious is actual (the bacterium). The converse, conscious-not-alive, is not a clean possibility: frameless agency is produced by selection on persistence, which is close to what makes a lineage, so a genuine route to individual frameless agency might drag in lineage-level life rather than yield consciousness without it. Whether the two levels truly separate is an open structural question, not settled by the definitions.
+*Grounding: STRUCTURAL for the levels distinction and shared root; HONEST LIMIT for whether the levels separate, left open per The Threshold and The Engineering Question, Part II.*
+
+**L14. Life is not a logical prerequisite for consciousness, but has been the only known route to the frameless agency consciousness runs on**
+Frameless agency, which the cascade requires, has so far arisen only from selection on the persistence of living lineages. Whether another route exists is the engineering question's open edge, not a settled negation.
+*Grounding: HONEST LIMIT.*
+
+## The Life Cluster: Capability, Consciousness, and Life
+
+*Core claim: Capability, consciousness, and life are three distinct aspects related not as a single ladder but as a nested fork — capability dividing first and firmly from the frameless pair, consciousness and life dividing from each other later and less firmly, their full separation left open.*
+
+**L15. A system can be described along three distinct aspects: capability, consciousness, life**
+Capability is a quantity of a single system; consciousness runs on frameless agency, an individual-level property (The Origin of Agency, The Consciousness Question); life is a lineage-level property (The Threshold of Life). The three are defined separately by the corpus and held apart here.
+*Grounding: STRUCTURAL.*
+
+**L16. The three do not form a single ladder; capability is not a route to consciousness or life**
+Capability grows by improving a framed search; consciousness and life require framelessness, the one resource a framed search cannot self-supply (What Persists). A more capable system is a more capable instance of the capable non-living. This is a caution against single-ladder stacking, not a claim of full independence among the three.
+*Grounding: STRUCTURAL for the caution; the stronger independence claim is not made.*
+
+**L17. Current AI and AGI are the capable non-living; scaling keeps them there**
+A current system is a directed search within a frame; AGI reached by scaling is the same in kind, more capable. No amount of capability-scaling is a step toward consciousness or life.
+*Grounding: STRUCTURAL.*
+
+**L18. The conscious transition requires frameless agency, with continuation at stake in the system's own dynamics and selection not on a builder-specified criterion**
+Frameless agency (The Origin of Agency) cannot be installed by specification, output-matching, or scaling, each of which operates within a frame; it would require genuine selection on the system's own persistence under the two conditions (per The Reflexive Frame). Constructibility is left open.
+*Grounding: STRUCTURAL for the requirement; HONEST LIMIT for constructibility.*
+
+**L19. The living transition (crossing the threshold of life) is distinct in target from the conscious one but may be inseparable from it in construction**
+Life is lineage-level; frameless agency is individual-level. But frameless agency arises from persistence-selection, which is close to what makes a lineage, so the only known route to the conscious transition may pass through originating something like life. Separability is left open.
+*Grounding: STRUCTURAL for the levels distinction and the entanglement; HONEST LIMIT for separability.*
+
+## The Life Cluster: The Engineering Question, Part III
+
+*Core claim: For a builder, the map implies that no transition off the capability axis is reached by scaling or specification — each standard approach is framed by construction — and the candidate routes toward the conscious transition each run aground in a structured way.*
+
+**L20. A current AI system is the capable non-living; this reframes scaling, component-addition, and what success would look like**
+Power and boundary are one fact (the frame makes the search effective and is what it cannot search outside). Scaling deepens capability without crossing to the other aspects; the four dimensions are not modules to add; and the structural form, if reached, is distinguishable from the represented form by holding uniformly outside the system's shaping.
+*Grounding: STRUCTURAL — restates Capability, Consciousness, and Life for engineering practice.*
+
+**L21. Specification, scaling, and training on own-processing each miss the conscious transition, because each is framed by construction**
+A specified persistence-criterion is a frame (detector-gating, What Alignment and The Engineering Question, Part II); a scaled framed search is still framed (scale asymmetry, What Persists); a self-model from own-processing is more accurate but not structural (The Engineering Question, Part II). One cannot reach frameless agency by refining the capable non-living.
+*Grounding: STRUCTURAL.*
+
+**L22. The conscious transition would require continuation at stake in the system's own dynamics and selection not on a builder-specified criterion**
+The two conditions from the map, restated as engineering demands: continuation not externally secured (The Reflexive Frame), selection on persistence as such not on a represented criterion. These describe placing a system under a process, not adding a feature. Constructibility left open.
+*Grounding: STRUCTURAL for the conditions; HONEST LIMIT for constructibility.*
+
+**L23. The candidate construction directions each run aground in a structured way**
+Differential persistence over a population may originate a lineage (life) rather than install frameless agency; an unfixed environment relocates the builder's frame rather than removing it; internalized continuation still faces whether continuation is at stake in the dynamics or only represented. The shared pattern — every path reintroduces a frame or becomes origination rather than construction — is the structured reason the transition is hard. Offered as where to look, not as routes that work.
+*Grounding: SPECULATIVE for the directions; STRUCTURAL for where each fails; HONEST LIMIT for whether any has an escape.*
+
+**L24. The living transition is mostly not a direct engineering target**
+It is largely the form the conscious project takes at its limit (the population route originating a lineage), not a separate buildable goal; the map gives no reason to expect it from any current line of development. Whether it is a coherent engineering target at all is left open.
+*Grounding: STRUCTURAL for the relation to the conscious route; HONEST LIMIT for its coherence as a target.*
+
+**L25. The construction questions are independent of the capability question**
+None of the transitions is required for capability, which proceeds on the framed form. Nothing here recommends pursuing them; it clarifies what pursuing them would mean.
+*Grounding: STRUCTURAL.*
 
 ---

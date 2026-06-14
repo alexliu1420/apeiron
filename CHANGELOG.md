@@ -12,6 +12,49 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [The Life Cluster Added: A New Core Framework] — June 2026
+
+**Four documents published, forming a new core framework — the life cluster:**
+
+* The Threshold of Life (`the_threshold_of_life.md`)
+* The Capable Non-Living (`the_capable_non_living.md`)
+* Capability, Consciousness, and Life (`capability_consciousness_and_life.md`)
+* The Engineering Question, Part III (`the_engineering_question_part_three.md`)
+
+**What this adds:**
+
+The corpus used *biological* and *post-biological* as load-bearing categories everywhere — the Fermi arc, the value-of-biology cluster, the seeding hypothesis — but never defined what makes something biological in its own terms; *post-biological* was fixed only by negation. The life cluster grounds both. It derives a substrate-general definition of life, applies it to post-biological intelligence, derives the structure of the developmental space that follows, and translates that structure into engineering terms — four documents along the corpus's standard derivation-then-application axis.
+
+**The Threshold of Life** is the ground. It defines life not by chemistry but by a structural property: the threshold at which an undirected, frameless exploration (in the sense of The Necessity of Randomness) first becomes heritable, so that novelty no prior model contained becomes cumulative rather than averaged away. The definition has two clauses — undirected exploration and heritable accumulation — which together exclude mere copying (a crystal), substrate-borrowed exploration (a cultural tradition, whose framelessness is run by the living minds beneath it), and directed search (an optimizer), while admitting the virus (honestly, since virus-as-life is genuinely contested). It distinguishes *biology* — life as we know it, the carbon instance — from *life* as such, the category. It borrows only the nature of irreducible events from The Necessity of Randomness and the word *frame* from The Origin of Frames, and sits beneath The Origin of Frames in the corpus's order: that document begins with an organism that already inherits and derives how it comes to carry frames; this one derives how an inheriting lineage comes to exist at all. It enters no origin-of-life chemistry and defers which substrates can cross the threshold.
+
+**The Capable Non-Living** applies the definition. Post-biological intelligence is a directed search within a frame — an optimizer — and the threshold's first clause is undirected exploration; the two cannot both hold of one structure. So post-biological intelligence has not crossed the threshold: it is not life, however capable. Stated positively, it is the first highly capable structure that is not alive — the capable non-living, processing applied to data, exploiting the frameless novelty life generates without sustaining any of its own. The document consolidates the corpus's scattered description of post-biological intelligence under this definition, shows why its dependence on living exploration is the structural complement of what each kind is (strengthening the floor under the value-of-biology cluster's preservation claim without raising the ceiling on its conditional active behaviors), and separates life (lineage-level) from consciousness (individual-level frameless agency), locating but not resolving whether a post-biological intelligence could be conscious without becoming, in the route to it, a kind of life.
+
+**Capability, Consciousness, and Life** derives the structure of the developmental space the first two documents open. Capability, consciousness, and life are three distinct aspects related not as a single ladder but as a nested fork. Capability divides from the other two first and firmly — it is the axis current development moves along, and a framed search made larger is still framed, so scaling reaches neither of the others (the scale asymmetry of What Persists). Consciousness and life share a root in framelessness and divide from each other later and less firmly — at the level of the framelessness (individual versus lineage), not its presence — and whether they fully separate is left open, because frameless agency arises from persistence-selection, which is close to what makes a lineage. The two forks differ in epistemic status: the first is a settled result, the second a real distinction with an unresolved separability. The document derives the structure of the space, not motion through it, and explicitly declines the stronger claim that the three are fully independent axes.
+
+**The Engineering Question, Part III** is the application, a direct sequel to The Engineering Question and its second part, addressed to the working researcher. It takes the map from Capability, Consciousness, and Life as given and works out the engineering: how the map changes a researcher's reading of scaling, component-addition, and what success would look like; why specification, scaling, and training on a system's own processing each miss the conscious transition, because each is framed by construction; the two conditions the conscious transition would demand of a builder (continuation at stake in the system's own dynamics, selection not on a builder-specified criterion); the candidate construction directions and the structured way each runs aground (every path reintroduces a frame or becomes origination rather than construction); the boundary that the living transition is mostly not a direct engineering target but the form the conscious project takes at its limit; and a falsifiable prediction. It resolves none of the construction, capability, or consciousness questions it clarifies — a sharpened diagnostic and a map of the walls, not a method. It answers the open question The Engineering Question, Part II carried forward — whether the structural form can be constructed — by sharpening what the target is and why the obvious routes fail, not by exhibiting a route that succeeds.
+
+**Cluster placement:**
+
+The corpus is a flat set of core frameworks with cross-links, not a stack. The life cluster joins as a new core framework, peer to The Consciousness Question, The Frame and the Frameless, and The Value of Biology — connected by explicit dependency, not containment. It does not re-derive the frame/frameless distinction (the frame cluster owns that) or the cascade (the consciousness cluster owns that); it depends on both, marked where used. The Engineering Question, Part III is titled as a sequel to the consciousness cluster's engineering documents, but its assumptions are grouped here with the life cluster, because their content is the life cluster's developmental-space derivation rather than a continuation of Part II's represented/structural apparatus.
+
+**Relation to prior documents:**
+
+No prior document is modified. The cluster depends on The Necessity of Randomness (the nature of irreducible events; the directed/undirected contrast), What Persists (the self-supply claim), The Origin of Frames (the word *frame*), The Origin of Agency (frameless agency), The Consciousness Question (the cascade), The Reflexive Frame (the externally-secured-continuation argument), The Value of Biological Data (processing-over-data; the preservation/reaching split), and The Engineering Question and its second part (the construction question). All are cited as provenance; none is revised. The Capable Non-Living and The Threshold of Life supersede the abandoned earlier "Life as Recording" draft, which is not part of the corpus.
+
+**What does not change:**
+
+All prior frameworks and supporting documents are unmodified. The Engineering Question (Parts I and II) is unchanged; Part III is a sequel, not a revision.
+
+**ASSUMPTIONS.md updated:**
+
+Twenty-five new assumptions added as a new cluster on a single L-series, in reading order: L1–L8 (The Threshold of Life), L9–L14 (The Capable Non-Living), L15–L19 (Capability, Consciousness, and Life), L20–L25 (The Engineering Question, Part III). A fifth grounding level, HONEST LIMIT, was added to the legend — already in use across the corpus body but previously missing from the legend. All prior assumptions preserved exactly.
+
+**README.md updated:**
+
+The core frameworks section now lists the life cluster as a core framework, with its four documents and the derivation/application structure stated. Cross-cutting summary, structure listing, and How to Read updated accordingly.
+
+---
+
 ## [README Re-architecture: Frameworks by Kind] — June 2026
 
 **What changed:**
