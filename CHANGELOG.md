@@ -12,6 +12,41 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Interpretation Selection: The Seeding Lens and Objective Collapse] — July 2026
+
+**What changed:**
+
+The extension's parametric-study argument (AE4) is examined for what it requires of quantum-mechanical interpretation. A new Part Four is added to `universe_as_experiment_extension.md`, with associated corrections to `quantum_foundation.md` and `architecture_of_novelty.md`. Corrections are recorded first.
+
+**Corrections:**
+
+* *AQ1 rewritten.* The prior AQ1 dismissed the superdeterminism loophole by assertion ("not taken seriously as a physical proposal") and omitted retrocausality. AQ1 now states the observational content as established, names the live interpretations without dismissing any by fiat, keeps `quantum_foundation.md` agnostic at its own level, and points to Part Four where the seeding framework's *strong form* forces a selection. The observational content — load-bearing for the biology argument — is unchanged. Rewritten identically in `quantum_foundation.md` and `ASSUMPTIONS.md`.
+* *Part Five de-leaned.* One paragraph of Part Five described the apeiron parallel in no-collapse language ("never collapses — it spreads," "the indefinite ground persists") — the many-worlds picture, which gives the weakest reading of novelty and sat in tension with Part One. It is rewritten to locate the apeiron in the pre-measurement superposition as indefinite ground, without endorsing an interpretation.
+* *Part One over-claim softened.* Part One stated the universe-as-experiment architecture "requires ontological uncertainty to be real." By the corpus's own robust reading — the optimizer's limit is pre-specification, not randomness (that document's Part Four), and reproduction is computationally irreducible either way (the pathway document, VB9) — the irreplaceability of biological exploration holds even under determinism. Part One is adjusted to say ontological uncertainty *elevates* the claim rather than being required by it.
+* *Architecture of Novelty hedged.* One sentence asserted quantum events are "ontologically undetermined" as established fact while citing AQ1, which leaves the interpretation open. Hedged to the strong-form reading, with the interpretation question deferred to `quantum_foundation.md`.
+
+**What Part Four adds:**
+
+Part Four separates two readings of AE4's "beyond the architect's frame." On the weaker reading — beyond the architect's *reach* — the framework stands under **any** interpretation: computational irreducibility (VB9) and the specification limit (quantum_foundation Part Four) mean the architect must instantiate and run a physical universe to obtain the output, whether the dynamics are deterministic (Bohmian mechanics, many-worlds) or not. Objective collapse (GRW / Continuous Spontaneous Localization / Diósi–Penrose) is required only for the **stronger** reading — that the harvested novelty is ontologically new rather than merely unreproducible in practice — because under determinism the output is entailed by the setup though inaccessible, and superdeterminism restores computability outright. The collapse commitment is therefore *elevating, not load-bearing*, matching VB13/VB14 and The Threshold of Life (L7). The honest limit (finite-c reconciliation with objective collapse, unsolved) falls on the elevating form alone; the framework's robust form is untouched.
+
+**Relation to Motivated Conjectures:**
+
+Two entries added to `motivated_conjectures.md`: C1.7 (objective-collapse localization parameters at the molecular scale — Category 1, archival test against existing detector and free-fall data) and C2.9 (admissible collapse variant under the framework's joint constraints — Category 2). Both cite Part Four; both frame the collapse commitment as the strong form's, with falsification scoped accordingly.
+
+**What does not change:**
+
+The three original frameworks are unmodified in substance. The observational content of the quantum foundation is unchanged. The robust form of the seeding framework — resting on computational irreducibility and the specification argument — stands under any interpretation, so no conclusion built on prior assumptions is revised. The speculation level of the universe-as-experiment claim remains VERY HIGH.
+
+**ASSUMPTIONS.md updated:**
+
+Two new assumptions in the extension's series: AE6 (objective collapse required for the strong form; the robust form survives without it) and AE7 (finite-c / objective-collapse reconciliation, HONEST LIMIT, bearing on the strong form only). AQ1 rewritten identically in `quantum_foundation.md` and `ASSUMPTIONS.md`. The Most Critical Assumptions note updated. All other assumptions preserved exactly.
+
+**README.md updated:**
+
+The extension's one-line description extended to note the interpretation result. No structural change.
+
+---
+
 ## [The Life Cluster Added: A New Core Framework] — June 2026
 
 **Four documents published, forming a new core framework — the life cluster:**

@@ -96,6 +96,18 @@ The Seeded Worlds derivation predicts that if biological seeding has occurred in
 
 ---
 
+**C1.7 — Objective-collapse localization parameters positioned at the molecular scale** *(data available now)*
+
+The extension's Part Four takes single-world objective collapse (the GRW/CSL family) as the reading the seeding argument's strong, ontological-novelty form requires — the framework itself survives on computational irreducibility under any interpretation. If the framework additionally requires the quantum-classical boundary to sit where indeterminism couples into heritable molecular structure — the requirement behind AN3 and C2.2 — then the collapse model's phenomenological parameters are not free. The localization length r_C should track the scale at which chemistry becomes classical (biomolecular, roughly the nanometre-to-100-nanometre range), and the collapse rate should sit near the low end that leaves molecular and chemical coherence intact — the original GRW-scale floor rather than the enhanced values now being squeezed by heating and spontaneous-radiation bounds. This is sharper than C2.2: not that the environmental decoherence boundary is derived, but that if objective collapse is physically real, its own parameters are pinned by the same complexity requirement. Honest limit: at the single-particle and molecular scale, environmental decoherence dominates spontaneous collapse by many orders of magnitude, so biology does not directly exhibit the collapse boundary. The prediction is about the collapse parameters and is tested at controlled mesoscopic isolation, not read off biomolecular behavior.
+
+*Source: universe_as_experiment_extension.md, quantum_foundation.md, architecture_of_novelty.md*
+
+*Proposed approach:* Existing archives constrain the collapse parameter space now, none of them collected for this purpose. Underground rare-event detectors recorded the spontaneous-radiation channel as a byproduct of dark-matter and double-beta-decay searches; ultra-quiet free-fall missions recorded the momentum-diffusion channel as instrument noise. A pre-registered reanalysis — collapse-variant set and discrimination thresholds fixed before the archives are touched — can test whether the surviving parameter region is consistent with the low-rate, molecular-length corner the framework predicts, and whether the localization length lands near the chemistry-classical scale. Structure it as two arms in the manner of the population searches above: a pre-specified test against a fixed variant set, and an adaptive screen for anomalous low-energy excess across detectors. As with the FRB and stellar-population searches, the empirical deposit should stand as a collapse-phenomenology result on its own, with the framework motivation kept external to it.
+
+*Falsification:* If the collapse rate is pinned well above the molecular-coherence-preserving ceiling, or the localization length is constrained to a scale unrelated to where chemistry becomes classical, the boundary-placement prediction fails. If the entire admissible corridor is excluded down through the GRW-scale floor with no detection, or a fully satisfactory no-collapse account is established, the strong (ontological-novelty) form of the seeding claim loses its support — the framework's robust form, resting on computational irreducibility, is unaffected.
+
+---
+
 ## Category 2 — Open Theoretical Problem, Apeiron Adds Angle
 
 **C2.1 — Quantum biology: proton tunneling as primary mutation source**
@@ -193,6 +205,18 @@ Low initial entropy is necessary for the thermodynamic arrow that makes biologic
 *Proposed approach:* Examine inflationary cosmology and string compactification models for whether the initial entropy of a bubble universe is determined by the same vacuum structure that sets the coupling constants, or whether it is a genuinely independent degree of freedom. The seeding argument makes this question salient in a way standard cosmology has not needed to prioritize.
 
 *Falsification:* If initial entropy is demonstrably independent of vacuum structure, most otherwise complexity-permitting universes are sterile and the seeder faces a much harder problem than the 7-parameter analysis suggests.
+
+---
+
+**C2.9 — Admissible collapse variant under joint framework constraints**
+
+Physics recognizes an open problem here: multiple objective-collapse variants remain live — white-noise CSL, colored-noise and non-Markovian CSL, dissipative variants, and the gravity-related Diósi–Penrose family — with the parameter-free Diósi–Penrose version already excluded by underground radiation experiments and colored-noise variants surviving current bounds. The framework adds a selection criterion no collapse theorist currently applies: Apeiron's requirements jointly constrain which variant is admissible — molecular and chemical coherence preserved, single macroscopic outcomes enforced, the boundary at the molecular scale (C1.7, C2.2), and, from the extension's interpretation selection, compatibility with a finite-c Lorentzian causal structure. The last constraint is the binding one: the same finite light cone the seeding argument needs for causal isolation is in tension with objective collapse, whose relativistic formulations remain an open and hard problem. The framework does not derive a specific variant and does not claim to; it selects among candidates by which can satisfy all four constraints at once, and flags that the relativistic-compatibility constraint is where most of the discrimination happens.
+
+*Source: universe_as_experiment_extension.md, quantum_foundation.md*
+
+*Proposed approach:* Two tracks. Empirically, the surviving variants predict different spectral shapes for the spontaneous-radiation channel — a frequency cutoff bends the predicted emission spectrum — so an archival reanalysis that discriminates variants by spectral shape, rather than setting a single rate ceiling, is a question the existing detector data can address and that has not been posed this way. Theoretically, survey existing relativistic-collapse constructions for whether any is simultaneously Lorentz-compatible and consistent with the low-rate molecular-scale corner of C1.7; the joint requirement may select a much smaller admissible set than either constraint alone.
+
+*Falsification:* If no collapse variant can satisfy the joint constraints — in particular if fully Lorentz-invariant objective collapse proves impossible in principle — the ontological-novelty form of the seeding claim is not physically realizable, and its commitment to single-world objective collapse fails on theoretical rather than observational grounds — while the framework's robust form is unaffected. This is the edge carried as an honest limit in the extension (AE7); stated here as a falsification condition.
 
 ---
 
