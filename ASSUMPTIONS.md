@@ -246,6 +246,30 @@ The strong form requires both a finite-c Lorentzian causal structure (for post-n
 
 ---
 
+## The Constants Question
+
+*Core claim: The constants of mathematics form a thin, structured set; each marks the structural transition that forces it into existence, and their epistemic statuses degrade in the same order as the depth of those transitions — from π (fully derivable) through γ (not provably irrational) to Ω (provably unknowable). The gradient is data; whether it is ontological (necessity is layered) or merely epistemic (necessity is flat, access is stratified) is engaged as a contested question and left open, with one anchor proven: necessity and knowability separate by theorem at the computability boundary.*
+
+**AM1. Relative to any fixed formal language, only countably many reals are definable, and the constants of mathematical practice concentrate further inside the countable period class of Kontsevich–Zagier (2001). The numbers mathematics encounters are a measure-zero, structured set.**
+*Grounding: EMPIRICAL — elementary countability plus the period observation from the literature*
+
+**AM2. The ladder of structural transitions is defined by construction order and expressibility — which structures must exist before a constant is definable — with no reference to proof difficulty. This is what keeps the gradient correlation non-circular. The L6 (discrete–continuous seam) and L7 (renormalization universality) rungs are the weakest instances: identified by their scars more than by an independent forcing argument.**
+*Grounding: STRUCTURAL — argued transition by transition in Part Two; the L6/L7 weakness is flagged in the document*
+
+**AM3. Every epistemic-status entry in the taxonomy table is a correct report of current theorem-level knowledge, including: γ is formally conjectured not to be a Kontsevich–Zagier period (Lagarias 2013); whether ζ(3)/π³ is rational is open; ζ(3) remains the only individual odd zeta value proven irrational (Apéry 1978; Rivoal 2000; Zudilin 2001); δ's existence is proven (Lanford 1982, computer-assisted; Lyubich 1999, non-numerical) with its arithmetic nature entirely open; K₀'s arithmetic nature is open and no explicit real number has been proven Khinchin-typical, while e is provably atypical.**
+*Grounding: EMPIRICAL — each entry individually checkable against cited sources*
+
+**AM4. The separation of necessity from knowability at the computability boundary uses only the standard theorems about Ω (uncomputability, algorithmic randomness, the finitely-many-provable-bits theorem), not the contested strong interpretation of those theorems. The strong reading is engaged in Part Four and relied on nowhere.**
+*Grounding: EMPIRICAL — the theorems; the interpretive dispute is named and set aside*
+
+**AM5. The ordered correlation between construction depth and epistemic resistance is a real pattern requiring explanation, not an artifact of selection or problem age. The φ control (a constant of an infinite recursive process, fully resolved) supports this; the proof-technology counter-argument (Apéry as precedent) is acknowledged as unrebutted below the computability boundary.**
+*Grounding: STRUCTURAL — supported by construction-order independence and the control specimen; HONEST LIMIT for the rungs between L5 and L7*
+
+**AM6. If necessity is layered, a third modal status becomes available for contingent-seeming quantities: derivable in principle, underivable from within any fixed system. This is conditional on Position 2, which the document does not establish.**
+*Grounding: SPECULATIVE — explicitly conditional; quarantined to one paragraph and load-bearing for nothing*
+
+---
+
 ## The Most Critical Assumptions
 
 If forced to identify which assumptions are most load-bearing across all documents:

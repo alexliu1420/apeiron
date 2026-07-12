@@ -68,6 +68,8 @@ A logical boundary case — the furthest reach of the reasoning, held deliberate
 
 **[The Architecture of Novelty](architecture_of_novelty.md)** — What the seeded universes must contain: a complexity ladder over the Standard Model's free parameters, each rung requiring the one below. Most draws are sterile; ours landed in the workable region.
 
+**[The Constants Question](the_constants_question.md)** — The mathematical floor beneath the parameter space: treats the constants of mathematics as specimens, each marking the structural transition that forces it into existence, and reads their ordered gradient of knowability — from π's full derivability to Ω's proven unknowability — as evidence on whether mathematical necessity is layered rather than flat. What a parametric study varies is bounded from below by what no draw can vary. *Grouped here by relevance, not dependency: it uses no other document as a premise and stands under any view of the cosmological framework.*
+
 ---
 
 ## The Core Frameworks
@@ -181,6 +183,7 @@ The scale frameworks
   quantum_foundation.md                           ← The Universe as Experiment: The Necessity of Randomness
   universe_as_experiment_extension.md             ← The Universe as Experiment: Extension
   architecture_of_novelty.md                      ← The Architecture of Novelty
+  the_constants_question.md                       ← The Constants Question: The Layered Structure of Mathematical Necessity
 
 The core frameworks
   consciousness_question.md                        ← The Consciousness Question

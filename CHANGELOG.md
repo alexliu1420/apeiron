@@ -12,6 +12,30 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [The Constants Question Added: The Mathematical Floor of the Parameter Space] — July 2026
+
+**What changed:**
+
+A new document, `the_constants_question.md`, is added under The Universe as Experiment framework. It treats the constants of mathematics as specimens — each marking the structural transition that forces it into existence (ratios failing at √2, algebra closing at i, completion admitting e, the completion–closure junction producing π as the period of the exponential, the discrete–continuous seam leaving γ, odd arithmetic depth at ζ(3), renormalization universality at δ, the provability boundary at Ω) — and reads their ordered gradient of knowability as evidence bearing on whether mathematical necessity is layered rather than flat. Assumptions AM1–AM6 are added to `ASSUMPTIONS.md`; the README framework section and structure tree are updated.
+
+**Why:**
+
+The Architecture of Novelty derives the parameter space a seeder varies and marks "why these laws, why this architecture" as honest boundaries. Beneath both sits a floor the corpus had used without stating: what no draw can vary. π-type constants are theorems of any consistent structure rich enough to state them; only contingent dimensionless quantities are available as dials. The new document derives that floor from pure mathematics, independently of the seeding framework.
+
+**What the document establishes and what it does not:**
+
+Established: the thinness of the constants of practice (measure-zero, period-concentrated); a construction-ordered ladder of forced transitions with each constant as its scar; the epistemic gradient as theorem-level data; and one proven anchor — necessity and knowability separate at the computability boundary (Ω), by theorem, not interpretation. Left open, explicitly: whether the gradient below that boundary is ontological (Position 2, layered necessity) or epistemic (Position 1, flat necessity with stratified access). The flat position's strongest argument — proof technology is young, and Apéry is the standing precedent that centuries of resistance can end in ten pages — is stated and acknowledged as unrebutted below the boundary. The taxonomy's commitments column states which live conjectures (γ's period status, ζ(3)/π³, a closed form for δ, e's period status) would move which rows in which direction.
+
+**Placement and independence:**
+
+The document sits in The Universe as Experiment cluster by relevance, not by dependency. It is not a companion piece: it uses no framework conclusion as a premise, and the single connection to The Architecture of Novelty is an illustrative remark that crosses none of that document's stated honest boundaries. A reader who rejects the cosmological framework entirely loses nothing of the derivation.
+
+**README.md updated:**
+
+Framework entry added under The Universe as Experiment; structure tree updated. No structural change to the framework descriptions.
+
+---
+
 ## [Interpretation Selection: The Seeding Lens and Objective Collapse] — July 2026
 
 **What changed:**
