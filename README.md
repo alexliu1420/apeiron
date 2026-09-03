@@ -104,6 +104,8 @@ Derives a distinction the scale frameworks used throughout without grounding —
 
 **[The Frame Saturation Question](the_frame_saturation_question.md)** — Derives what happens to a frameless system whose inputs increasingly come from systems producing framed output: the capacity stays intact, but the territory it explores contracts toward the fitted region of the mediating systems. The issue is framedness, not which frame — so diversifying the output does not remove it.
 
+**[The Persistence-Coupling Question](persistence_coupling.md)** — Companion piece. Separates two forms an installed persistence coupling can take: evaluative, where a step maps the behavior to a verdict that triggers the consequence, and constitutive, where the behavior and the consequence are one physical event. The adaptive immune system is the strongest installed case and lands evaluative, showing the criterion-gaming the form predicts. Derives which properties a constitutive coupling can be built to, and why multiply-realizable behavioral properties are not among them.
+
 ### The Value of Biology
 
 The scale frameworks assumed throughout that a post-biological intelligence has reason to value what biology produces — in the AGI's maintenance of the biological majority, the biological randomness value carried across the energy ascent, the seeding of biological worlds. The assumption was load-bearing and never derived. This framework derives it, in two steps. Its pathway document draws on The Necessity of Randomness (under The Universe as Experiment) for the quantum strong form of the irreducibility it turns on, and does not re-derive it.
@@ -195,6 +197,7 @@ The core frameworks
   the_origin_of_agency.md                         ← The Frame and the Frameless: The Origin of Agency
   what_alignment_would_have_to_be.md              ← The Frame and the Frameless: What Alignment Would Have to Be
   the_frame_saturation_question.md                ← The Frame and the Frameless: The Frame Saturation Question
+  persistence_coupling.md                         ← The Frame and the Frameless: The Persistence-Coupling Question
   the_value_of_biological_data.md                  ← The Value of Biology: The Value of Biological Data
   the_pathway_to_biological_data.md                ← The Value of Biology: The Pathway to Biological Data
   the_threshold_of_life.md                         ← The Life Cluster: The Threshold of Life

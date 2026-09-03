@@ -698,6 +698,7 @@ If forced to identify which assumptions are most load-bearing across all documen
 
 **FF21. Genuine selection on persistence has no represented criterion: what filters the structure is its own dynamics failing to maintain it, and persistence and filtering are the same physical fact. Coupling an engineered system's persistence to alignment-consistency through a misalignment-detector introduces a represented criterion doing the evaluation, which is structurally output-matching with the consequence relocated to shutdown. Whether a genuine persistence-coupling — one with no represented criterion — can be constructed for engineered systems is unresolved.**
 *Grounding: HONEST LIMIT — names where the derivation reaches its edge*
+*Refined by FF30: the operative condition is that a step stands between the behavior and the consequence, not that the criterion is represented. A criterion can be represented nowhere and the coupling still be output-matching relocated. FF21's second clause — persistence and filtering being the same physical fact — is the condition that does the work.*
 
 ---
 
@@ -722,6 +723,31 @@ If forced to identify which assumptions are most load-bearing across all documen
 *Grounding: STRUCTURAL — follows from FF24-FF25 applied iteratively*
 
 **FF28. The derivation establishes the direction of a structural pressure from the AI-mediated input channel. It does not establish the magnitude, timescale, net effect across all input channels, reversibility, whether sustained contraction atrophies the frameless capacity itself rather than only the territory, or the practical detectability of the contraction.**
+*Grounding: HONEST LIMIT — names where the derivation reaches its edge*
+
+---
+
+## The Frame and the Frameless: The Persistence-Coupling Question
+
+**FF29. A persistence coupling can be constructed in two structurally distinct forms. In an evaluative coupling, a structure separate from the behavior maps the behavior to a verdict and the verdict triggers the persistence-consequence. In a constitutive coupling, the behavior and the persistence-consequence are the same physical event, with no mapping between them.**
+*Grounding: STRUCTURAL — follows from what a persistence coupling is together with the two available arrangements*
+
+**FF30. The prior documents' argument against detector-gating applies to the evaluative form only. The behavior-to-verdict mapping is the fitted structure, and everything derived about fitted mappings applies to it. The constitutive form has no such mapping and is not output-matching with the consequence relocated. The distinction is not biological versus built, and not whether the criterion is symbolically represented — the immune criterion is represented nowhere — but whether a step stands between the behavior and the consequence.**
+*Grounding: STRUCTURAL — follows from FF29 together with FF17–FF21*
+
+**FF31. The adaptive immune system is an evaluative persistence coupling installed by evolution, not a constitutive one. Antigen binding is the criterion and apoptosis machinery imposes the consequence, so a step stands between the behavior and the outcome even though the criterion is molecular. The coupling exhibits the criterion-gaming signature the evaluative form predicts: variants that sustain the survival signal without satisfying the criterion, and raised self-reactivity suppressed rather than eliminated.**
+*Grounding: EMPIRICAL for the mechanism (V(D)J recombination, AID-driven hypermutation blind to binding outcome, germinal-center selection) and for the failure modes (CD79A/CD79B signaling-subunit mutations; antigen-independent self-aggregating receptors in chronic lymphocytic leukemia; chronic active receptor signaling in activated B-cell diffuse large B-cell lymphoma; germinal-center-associated self-reactivity and tolerance failure); STRUCTURAL for the classification as evaluative*
+
+**FF32. A constitutive coupling is available only for properties that are already physical conditions of the running structure. The consequence is a physical event, so the behavior identified with it must be a physical process of the same structure. The available criteria are the ways the structure can physically fail. Installing a coupling into a standing system is the addition of a step between behavior and consequence, which is what makes installed couplings evaluative; FF31 is the strongest case available and does not escape this.**
+*Grounding: STRUCTURAL — follows from FF29; FF31 is the supporting case*
+
+**FF33. Multiply-realizable behavioral properties admit no constitutive coupling. The same input-output behavior is producible by physically unimpaired structures, so no physical failure is identical to the behavior having the property. Manufacturing the identity requires a mechanism that recognizes the property, which is the evaluation step, so the attempt collapses into the evaluative form. Alignment-consistency is such a property.**
+*Grounding: EXTRAPOLATED — carries multiple realizability from its origin as a claim about computational description and physical implementation into a claim about what can be constructed. This is the cross-scale step and the document's most fragile point*
+
+**FF34. Of the engineering dimensions, self-model accuracy is the one that admits a constitutive coupling, under the forcing condition derived in The Reflexive Frame: where a system allocates a genuinely depletable resource on the basis of a prediction about its own later state, the resource running out is a physical condition of the structure and no recognizer stands between the prediction and the shortfall. Stakes admit the constitutive form over physical quantities only. Alignment-consistency does not admit it.**
+*Grounding: STRUCTURAL — follows from FF32–FF33 applied to the dimensions, together with The Reflexive Frame's forcing condition; the depletable-resource case is the sole instance and has not been built*
+
+**FF35. The derivation does not settle whether programmed cell death is correctly classified as a step between behavior and consequence rather than as maintenance failing, whether the immune system is representative of installed couplings generally, whether a chain of constitutive couplings to physical conditions reaches behavioral properties indirectly, or whether a builder-specified state space counts as a representation for the purpose of classifying maximum-occupancy agents.**
 *Grounding: HONEST LIMIT — names where the derivation reaches its edge*
 
 ---

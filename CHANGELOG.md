@@ -12,6 +12,34 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [The Persistence-Coupling Question Added: Two Forms of an Installed Coupling] — September 2026
+
+**What changed:**
+
+A new document, `persistence_coupling.md`, is added under The Frame and the Frameless as a declared companion to `what_alignment_would_have_to_be.md`, `the_engineering_question_part_two.md`, `the_engineering_question_part_three.md`, and `the_reflexive_frame.md`. It examines what those documents' phrase "gated by a detector" actually distinguishes, and finds it distinguishes two things they treat as one. Assumptions FF29–FF35 are added to `ASSUMPTIONS.md`; the README framework section and structure tree are updated.
+
+**Why:**
+
+The alignment document left the constructibility of a genuine persistence coupling unresolved, and Part Three mapped three routes that each ran aground on it. The question had never been examined against the strongest case biology offers: the adaptive immune system, which produces open-ended novelty under a criterion evolution installed. That case had to be either a counterexample or an illustration, and neither had been checked.
+
+**What the document establishes and what it does not:**
+
+Established: that persistence couplings take two structurally distinct forms, separable by a physical test rather than by whether a criterion appears represented; that the strongest installed biological coupling takes the evaluative form and shows the criterion-gaming that form predicts; that a constitutive coupling is available only for properties already physical conditions of the running structure; and that self-model accuracy is the one engineering dimension for which the constitutive construction is specifiable. Left open, explicitly: whether programmed cell death is correctly read as a step rather than as maintenance failing; whether the immune case is representative of installed couplings generally; whether a chain of couplings reaches behavioral properties indirectly; and whether a builder-specified state space is a representation for the purpose of classifying maximum-occupancy agents.
+
+**Course correction during drafting:**
+
+The document was drafted on the reading that the immune system is a constitutive coupling and therefore a counterexample to the companion documents' pessimism. Stress testing found this wrong on the document's own Part Two criterion — apoptosis is evolved machinery imposing a consequence, not a physical failure — and the criterion-gaming evidence settled it against the original reading. The finding is recorded because the reversal is the substance: the immune case now supports the companion documents rather than correcting them, and supports them from a direction that could have refuted them. No committed document required revision as a result.
+
+**Refinement to FF21:**
+
+FF21 characterizes genuine selection on persistence as having no represented criterion, and characterizes detector-gating as introducing one. The immune case shows the two conditions come apart: its criterion is represented nowhere, and the coupling is nonetheless output-matching with the consequence relocated. FF30 states the operative condition — a step standing between the behavior and the consequence — and a note to that effect is added under FF21. FF21's second clause, that persistence and filtering are the same physical fact, is the clause that does the work and stands unchanged. This is a refinement of which condition is load-bearing, not a reversal: the conclusion FF21 reaches is unaffected.
+
+**What does not change:**
+
+`what_alignment_would_have_to_be.md`, `the_engineering_question_part_two.md`, and `the_engineering_question_part_three.md` stand as written; the FF21 refinement is recorded in `ASSUMPTIONS.md` and does not alter any body text. FF21's statement that constructibility is unresolved remains accurate: the new document narrows what is unresolved rather than closing it, and its one positive construction result has not been built.
+
+---
+
 ## [The Constants Question Added: The Mathematical Floor of the Parameter Space] — July 2026
 
 **What changed:**
