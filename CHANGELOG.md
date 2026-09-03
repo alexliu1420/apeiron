@@ -12,6 +12,26 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Threshold of Life: Digital-Evolution Boundary Case Added] — September 2026
+
+**What changed:**
+
+A fifth boundary case is added to Part Three of `the_threshold_of_life.md`: digital evolution systems (Avida, Tierra). The discriminator paragraph and the Part Three speculation line are updated. L6 is updated in the document and in `ASSUMPTIONS.md` to narrow the non-carbon deferral to a requirement.
+
+**Why:**
+
+Digital evolution is the case a reader brings as the obvious non-carbon candidate, and the document did not place it. The placement follows from clause one as already written — the criterion requires both the search and the landscape to be unspecified — but the document did not say so, and the open-endedness literature's finding that these systems plateau is the criterion's prediction stated in another vocabulary.
+
+**What this establishes and what it does not:**
+
+Established: digital evolution fails clause one on the landscape half, not the search half — undirected variation against a specified criterion is search in a fixed landscape. The plateau is predicted. The non-carbon deferral is narrowed to a requirement: a substrate whose criterion is not specified in advance. Left open: whether a co-evolving population layer over a specified base criterion — host–parasite coevolution in digital systems — meets that requirement. The criterion as written does not cleanly decide it.
+
+**What does not change:**
+
+The two-clause criterion, the four existing boundary cases, and the virus admission stand as written. `the_capable_non_living.md` and `capability_consciousness_and_life.md` each reference the non-carbon question as deferred by this document; it remains deferred, now with a stated requirement, so those references stay accurate and are not edited.
+
+---
+
 ## [Frame Saturation Extended: Two Loops, One Correction Term] — September 2026
 
 **What changed:**

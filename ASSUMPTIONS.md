@@ -845,7 +845,7 @@ What distinguishes life's novelty from non-living matter's is not the events or 
 *Grounding: STRUCTURAL; the undirected/directed contrast is taken as definitional from The Necessity of Randomness.*
 
 **L6. The threshold is defined by structural properties, not by chemistry**
-Any structure that sustains an undirected exploration and accumulates it heritably crosses the threshold; the carbon genome (DNA, likely RNA before it) is the known instance, not the criterion. Whether non-carbon substrates can cross it is deferred. The conjunction excludes mere copying (crystal), substrate-borrowed exploration (culture), and directed search (optimizer), while admitting the virus.
+Any structure that sustains an undirected exploration and accumulates it heritably crosses the threshold; the carbon genome (DNA, likely RNA before it) is the known instance, not the criterion. Whether non-carbon substrates can cross it is deferred, narrowed to a requirement: the substrate's criterion must not be specified in advance. The conjunction excludes mere copying (crystal), substrate-borrowed exploration (culture), directed search (optimizer), and undirected search against a fixed criterion (digital evolution), while admitting the virus. Whether a co-evolving layer over a specified base meets the requirement is not decided.
 *Grounding: STRUCTURAL for the criterion; HONEST LIMIT for non-carbon crossing.*
 
 **L7. The strength of "frameless" the cumulative novelty earns tracks which reading of the events holds**
