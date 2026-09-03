@@ -722,8 +722,11 @@ If forced to identify which assumptions are most load-bearing across all documen
 **FF27. Because fitted mappings are trained on human output and humans sample fitted-mapping output, the fitted region and the territory human cognition ranges over are pulled toward each other over iterations. This is a contracting pressure, not a convergence to a point; the floor is set by the ratio of mediated to non-mediated input, which the derivation does not fix.**
 *Grounding: STRUCTURAL — follows from FF24-FF25 applied iteratively*
 
-**FF28. The derivation establishes the direction of a structural pressure from the AI-mediated input channel. It does not establish the magnitude, timescale, net effect across all input channels, reversibility, whether sustained contraction atrophies the frameless capacity itself rather than only the territory, or the practical detectability of the contraction.**
+**FF28. The derivation establishes the direction of a structural pressure from the AI-mediated input channel. It does not establish the magnitude, timescale, net effect across all input channels, whether sustained contraction atrophies the frameless capacity itself rather than only the territory, or a direct observable for the territory layer. Reversibility and detectability are partly derived by FF36: correction is available where a pattern exists to be identified and not at the territory layer, and the territory layer's non-detectability is structural rather than instrumental.**
 *Grounding: HONEST LIMIT — names where the derivation reaches its edge*
+
+**FF36. Correction of the loop's effects requires that a pattern be available to the frameless system as an object — identified, not merely encountered. This partitions the effects into three layers: lexical (salient, corrects once recognizable as AI-associated — listing alone is not sufficient), structural (detectable but not salient, predicted to correct only once recognizable, with onset tracking that point rather than frequency), and unprestatable (an absence of what could not be specified in advance, not detectable by construction, admitting no correcting term). Countermeasures operating on the first two layers reduce the visibility of the third.**
+*Grounding: EMPIRICAL for the selective reversal of named lexical markers; STRUCTURAL for the mechanism and the partition; the structural-layer timing prediction is the falsifiable part*
 
 ---
 

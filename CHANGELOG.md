@@ -12,6 +12,30 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Frame Saturation Extended: Two Loops, One Correction Term] — September 2026
+
+**What changed:**
+
+A new section, "Two Loops, One Correction Term," is added to `the_frame_saturation_question.md` before Honest Limits. Assumption FF36 is added; FF28 is refined. The Reversibility and Practical Detectability limits are rewritten to reflect what is now partly derived. The header speculation line and the README description are updated.
+
+**Why:**
+
+The feedback loop the document derived has since been observed, and the observation had a shape the derivation did not predict: correction happened, and selectively. LLM-favored vocabulary rose after late 2022 and, for the words that became emblematic of AI writing in early 2024, reversed; words that were listed but never became recognizable kept rising. Stylistic convergence partly reversed; thematic convergence did not. The literature attributes the reversal to awareness and stigma. The new section derives the mechanism: correction requires that a pattern be available to the frameless system as an object, so it runs on recognizability rather than on exposure or on mere listing.
+
+**What the extension establishes and what it does not:**
+
+Established: that the loop's effects partition into three layers by their availability to correction — lexical, structural, and unprestatable — with different dynamics; that the territory layer admits no correcting term, because an absence of what could not be specified in advance is not a pattern that could be identified; and that this is the same fact that makes territory contraction hard to detect, so the non-detectability is structural rather than instrumental. The structural-layer prediction — correction onset tracks naming date, not frequency — is falsifiable on public data and is the subject of a separate pre-registered study outside the corpus. Left open: a direct observable for the territory layer, and whether reducing mediation re-expands the territory by a route other than correction.
+
+**Refinement to FF28:**
+
+Reversibility and detectability are moved from named limits to partly derived. FF28 now states this and references FF36. The magnitude, timescale, net-effect, and atrophy limits are unchanged.
+
+**What does not change:**
+
+The core derivation (FF22–FF27) stands as written. The extension adds a mechanism to the loop; it does not alter the direction or the grounding of territory contraction, and adds no evidence for it.
+
+---
+
 ## [The Persistence-Coupling Question Added: Two Forms of an Installed Coupling] — September 2026
 
 **What changed:**
