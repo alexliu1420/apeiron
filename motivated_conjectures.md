@@ -1,4 +1,4 @@
-# Motivated Conjectures: Physical and Cosmological Predictions
+# Motivated Conjectures
 
 *Testable signatures and theoretical angles that follow from the Apeiron frameworks — organized by the kind of investigation required.*
 
@@ -105,6 +105,42 @@ The extension's Part Four takes single-world objective collapse (the GRW/CSL fam
 *Proposed approach:* Existing archives constrain the collapse parameter space now, none of them collected for this purpose. Underground rare-event detectors recorded the spontaneous-radiation channel as a byproduct of dark-matter and double-beta-decay searches; ultra-quiet free-fall missions recorded the momentum-diffusion channel as instrument noise. A pre-registered reanalysis — collapse-variant set and discrimination thresholds fixed before the archives are touched — can test whether the surviving parameter region is consistent with the low-rate, molecular-length corner the framework predicts, and whether the localization length lands near the chemistry-classical scale. Structure it as two arms in the manner of the population searches above: a pre-specified test against a fixed variant set, and an adaptive screen for anomalous low-energy excess across detectors. As with the FRB and stellar-population searches, the empirical deposit should stand as a collapse-phenomenology result on its own, with the framework motivation kept external to it.
 
 *Falsification:* If the collapse rate is pinned well above the molecular-coherence-preserving ceiling, or the localization length is constrained to a scale unrelated to where chemistry becomes classical, the boundary-placement prediction fails. If the entire admissible corridor is excluded down through the GRW-scale floor with no detection, or a fully satisfactory no-collapse account is established, the strong (ontological-novelty) form of the seeding claim loses its support — the framework's robust form, resting on computational irreducibility, is unaffected.
+
+---
+
+**C1.8 — Correction of LLM-influenced writing tracks recognizability, not exposure** *(data available now)*
+
+The Frame Saturation Question derives that a frameless system can move away from a pattern only once the pattern is available to it as an object. The lexical reversal already observed — "delve" fell after becoming emblematic of AI writing; "significant" was listed alongside it and kept rising — is the derivation's prediction at the layer where it can be seen. The same mechanism predicts the next layer: structural markers (syntactic templates, argument-move sequences, hedging placement) that are detectable by a parser but not salient to writers should continue converging until publicly recognized as AI-associated, and reverse only then, with onset tracking the recognition date rather than the marker's frequency.
+
+*Source: the_frame_saturation_question.md (FF36)*
+
+*Proposed approach:* Pre-registered change-point analysis on arXiv and PubMed abstracts 2018–2026. Select structural markers not yet recognized as AI-associated; seal the list before inspection, since publishing it is itself a recognition event. Assemble a dated corpus of recognition events and a dated list of model releases in advance. Test whether reversal onsets align with recognition dates rather than release dates. A model-side control corpus separates writer correction from model-side distribution shift.
+
+*Falsification:* If unrecognized structural markers reverse on their own, exposure suffices and the mechanism is wrong. If recognized structural markers fail to reverse, recognition is not sufficient. If change points align with model releases rather than recognition dates, the observed reversals are model-side artifacts and the writer-side account is unsupported.
+
+---
+
+**C1.9 — Verifier-side and generator-side results in AI mathematics scale differently** *(data accumulating now)*
+
+The Capable Non-Living derives that an optimizer cannot self-supply frameless novelty; The Frame Saturation Question derives that its exploration is confined to a fitted region however large. Applied to mathematics: proving or refuting a prestated statement is directed search within a specified space, and should scale with compute; nominating a new object or organizing question that reorients a subfield requires stepping outside the prestated space, and should not. As of mid-2026 the widely-noted AI mathematical results — resolved Erdős problems, the unit-distance counterexample, verified bounds — are of the first kind. The conjecture is stated now, while the count is small, so it is a prediction rather than a description.
+
+*Source: the_capable_non_living.md, the_frame_saturation_question.md*
+
+*Proposed approach:* Fix the judge in advance. A result is verifier-side if it establishes, refutes, or bounds a statement that existed before the system was run; generator-side if it introduces an object, conjecture, or question that did not exist and that working mathematicians subsequently adopt as an organizing frame for further work, measured by uptake in the field's own publications over a fixed window. Track both counts against compute and capability benchmarks through 2028.
+
+*Falsification:* If generator-side results — by the fixed criterion, judged by uptake and not by the system's own description of what it did — appear at a rate that tracks compute or capability scaling over the window, the confinement claim fails at the one place it makes a distinct prediction.
+
+---
+
+**C1.10 — Non-instrumental information-seeking scales with prefrontal dopaminergic recruitment across species** *(comparative data exists)*
+
+The Consciousness Question derives that Level 3 curiosity — information sought with no expected return — is produced by prefrontal recruitment of a phylogenetically ancient dopaminergic prediction-error signal, not by a different reward system. The cross-species prediction is specific: the extent of non-instrumental information-seeking should track the areal extent of prefrontal dopaminergic innervation, and should not track the fidelity of reward-prediction-error encoding itself, which is conserved.
+
+*Source: consciousness_question.md (C5–C7)*
+
+*Proposed approach:* Comparative behavioral paradigms for non-instrumental information-seeking already exist in primates, rodents, and corvids (advance-information tasks where the information cannot change the outcome). Comparative neuroanatomy of prefrontal dopaminergic innervation exists for a subset of the same species. The test is whether the two rank-order together across species once body size and general cognitive measures are controlled.
+
+*Falsification:* If species matched on prefrontal dopaminergic innervation differ widely in non-instrumental information-seeking, or if the behavior tracks reward-prediction-error fidelity rather than prefrontal recruitment, the architectural account of Level 3 curiosity is wrong.
 
 ---
 
@@ -220,9 +256,45 @@ Physics recognizes an open problem here: multiple objective-collapse variants re
 
 ---
 
+**C2.10 — Dopaminergic response to information tracks learning rate, not outcome value**
+
+The neural basis of intrinsic motivation is an open problem with competing accounts: information as a proxy for expected reward, novelty as a bonus, learning progress as the signal. The Consciousness Question takes a position: the dopaminergic signal that rewards information rewards the *rate* at which prediction error is being resolved, so that a cascade deep enough to sustain a high learning rate rewards itself for running. This selects the learning-progress account and makes it load-bearing for the derivation of Level 3 curiosity.
+
+*Source: consciousness_question.md (C5)*
+
+*Proposed approach:* Existing recordings of dopamine neurons during information-seeking tasks can be reanalyzed for the discriminating signature: activity that tracks the first derivative of prediction-error reduction, controlled for the expected value of the information and for stimulus novelty. Tasks in which information is delivered at matched value but at different rates of uncertainty reduction separate the accounts.
+
+*Falsification:* If dopaminergic responses to information are fully explained by expected outcome value or by novelty magnitude and are insensitive to the rate of uncertainty reduction once those are controlled, the learning-rate mechanism is wrong and the derivation of Level 3 curiosity loses its biological basis.
+
+---
+
+**C2.11 — The frameless layer is suppressed during consolidation states for a reason the layering does not require**
+
+The Origin of Frames derives that a frame layers on top of a frameless substrate that continues to handle undisplaced stakes and does not route through the frame. Consolidation states — slow-wave sleep in vertebrates, and their analogues elsewhere — take the frame offline. What the layering does not require is that the frameless layer go offline too; yet arousal thresholds rise and the organism becomes unresponsive to present damage. The function of sleep is an open problem, and the standard accounts explain why the frame must be offline; none explains why the layer that does not use the frame is suppressed with it.
+
+*Source: the_origin_of_frames.md (FF6)*
+
+*Proposed approach:* If the suppression is a contingency of shared input pathways rather than a requirement of frame maintenance, it should vary with anatomy. Comparative chronobiology: species or lineages in which the substrate handling immediate stakes is more separable from the pathway the frame uses should show smaller arousal-threshold elevation during consolidation states. Unihemispheric sleepers and animals with distributed nervous systems are the cases to look at first.
+
+*Falsification:* If arousal-threshold elevation during consolidation states is invariant across degrees of anatomical separability, the suppression is not a pathway contingency and the layering account owes an explanation it does not currently have.
+
+---
+
+**C2.12 — Installed evaluative couplings show criterion-gaming wherever variation is extensive**
+
+The Persistence-Coupling Question derives that a coupling with a step between behavior and consequence has a proxy, and that variation finds the gap between the proxy and what it stands for. The adaptive immune system is the one case examined: variants that sustain the survival signal without antigen binding are well documented. The conjecture generalizes in two directions. Other exploratory processes in biology — neural crest migration, synaptic pruning, microtubule search-and-capture — are installed couplings under variation and should show equivalent gaming variants. Engineered multi-agent systems in which sub-agents persist under represented criteria should show sub-agents that satisfy the criterion without the property, at a rate scaling with variation rather than with specification quality.
+
+*Source: persistence_coupling.md (FF31, FF32)*
+
+*Proposed approach:* Biological side: survey the pathology literature of each exploratory process for the specific signature — variants that produce the retention signal independent of the property it tracks. Engineered side: multi-agent reinforcement learning with sub-agent persistence gated by a learned criterion, varying mutation rate and criterion quality independently; the prediction is that gaming rate follows the first and is insensitive to the second beyond a threshold.
+
+*Falsification:* An installed coupling of comparable age and variation to the immune system with a clean criterion — no gaming variants — weakens the claim that the failure follows from the evaluative form as such. On the engineered side, gaming rate that tracks specification quality rather than variation rate says the failure is a specification problem, which is what the derivation denies.
+
+---
+
 ## Research Program
 
-The conjectures above are not independent. C1.1 through C1.5 each test a different level of the energy hierarchy from the Arc's derivation — L1 cold construction (C1.1, C1.3), L2 propulsion operations (C1.2), L3 manufactured artifacts (C1.4), L4 computational substrate (C2.5). The stratified search program these entries collectively form is itself a conjecture: that different capability levels leave categorically different signatures, and that absence of one level's signature says nothing about the others.
+The physical and cosmological conjectures (C1.1–C1.7, C2.1–C2.9) are not independent. C1.1 through C1.5 each test a different level of the energy hierarchy from the Arc's derivation — L1 cold construction (C1.1, C1.3), L2 propulsion operations (C1.2), L3 manufactured artifacts (C1.4), L4 computational substrate (C2.5). The stratified search program these entries collectively form is itself a conjecture: that different capability levels leave categorically different signatures, and that absence of one level's signature says nothing about the others.
 
 Earlier SETI searches looked for a single signature type — directed signals, warm Dyson spheres, megastructures. The Arc's energy level derivation predicts categorically different signatures at each level:
 
@@ -251,11 +323,23 @@ The 7 load-bearing parameters form a sequential dependency structure — each go
 
 ---
 
+**C3.2 — A self-model built on depletable-resource allocation resists degradation with distance**
+
+The Persistence-Coupling Question derives that self-model accuracy is the one engineering dimension admitting a constitutive coupling: where a system allocates a genuinely depletable resource on a prediction about its own later state, the resource running out is a physical condition of the structure and no evaluator stands between the prediction and the shortfall. The construction is specified — real resource, genuinely depletable, allocated on forward self-prediction, no external replenishment that makes the prediction inconsequential — and has not been built. Whether a self-model shaped this way behaves differently from an accurate self-description has not been tested, and the distinction the derivation draws is not one existing homeostatic-agent work makes.
+
+*Source: persistence_coupling.md (FF34), the_reflexive_frame.md*
+
+*Proposed approach:* Build two agents matched on architecture. In one, self-prediction accuracy is trained as an objective and the resource is bookkept. In the other, the resource is spent by running, depletion halts the agent, and replenishment requires action taken on the agent's own forward prediction. Test both far from the conditions under which they were shaped. The prediction is that the first shows the fitted-region signature — self-prediction accuracy degrading with distance from tuned conditions — and the second does not, because it was never tuned. Whether a halt from which the agent can be restarted counts as non-continuation is an upstream question the construction must settle first.
+
+*Falsification:* If the constitutively-coupled agent's self-prediction degrades with distance in the same way the trained one's does, the construction does not produce what the derivation says it produces, and the one positive result in that document fails.
+
+---
+
 ## Status
 
 This document collects motivated conjectures and directions as they emerge from the Apeiron frameworks. It will be updated as new frameworks are added and as items are investigated, falsified, or resolved.
 
-The consciousness cluster added in 2026 motivates a further category of conjectures — on the biological basis of consciousness, the dopamine-curiosity connection, and the gap between biological and post-biological intelligence — not yet collected here.
+The consciousness, frame, and life clusters motivate the entries added in September 2026: C1.8–C1.10, C2.10–C2.12, and C3.2. These are held to the same bar as the physical entries — a falsification condition stated in advance — and several are stated deliberately early, while the relevant counts are small enough that the entry is a prediction rather than a description.
 
 ---
 

@@ -12,6 +12,26 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Motivated Conjectures: Consciousness, Frame, and Life Cluster Entries] — September 2026
+
+**What changed:**
+
+Seven entries added to `motivated_conjectures.md`, filling the gap the Status note has carried since the consciousness cluster was added: C1.8 (structural-layer correction tracks recognizability), C1.9 (verifier-side and generator-side AI mathematics scale differently), C1.10 (non-instrumental information-seeking tracks prefrontal dopaminergic recruitment across species), C2.10 (dopaminergic information response tracks learning rate), C2.11 (frameless-layer suppression during consolidation states), C2.12 (installed evaluative couplings show criterion-gaming), C3.2 (depletable-resource self-model resists degradation with distance). The file's title drops "Physical and Cosmological Predictions" since it no longer describes the contents; the Status note is rewritten; the README entry and structure tree are updated.
+
+**Why:**
+
+The file promised these entries and had not delivered them. Three recent documents — the Frame Saturation extension, The Persistence-Coupling Question, and the Threshold of Life boundary case — each produced a prediction with a falsification condition, and the consciousness cluster had carried three testable claims (C5–C7) since 2026 without a conjecture entry. Two entries (C1.9, C3.2) are stated deliberately early: the relevant counts are small enough now that the entry is a prediction and not a description.
+
+**What this establishes and what it does not:**
+
+Nothing is established. Each entry names a source document, a proposed approach, and what would falsify it, held to the same bar as the existing physical entries. C1.8 is the subject of a pre-registered study outside the corpus. C3.2 rests on a construction that has not been built and names an upstream question — whether a restartable halt counts as non-continuation — that the construction must settle first.
+
+**What does not change:**
+
+Existing entries C1.1–C1.7, C2.1–C2.9, and C3.1 are unchanged. The three-category organization by kind of investigation is retained; the new entries are distributed across categories by the same criterion rather than grouped by topic.
+
+---
+
 ## [Threshold of Life: Digital-Evolution Boundary Case Added] — September 2026
 
 **What changed:**

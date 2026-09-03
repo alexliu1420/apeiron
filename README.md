@@ -132,7 +132,7 @@ The corpus used *biological* and *post-biological* as load-bearing categories ev
 
 Most of Apeiron is interpretive — it derives what is, and what the logic implies. A few documents are different in kind: they turn the derivations into things that can be acted on or tested. One belongs to no single framework; the three Engineering Question documents are the practitioner-facing lens, drawn from the consciousness cluster (Parts I and II) and the life cluster (Part III).
 
-**[Motivated Conjectures: Physical and Cosmological Predictions](motivated_conjectures.md)** — The bridge from derivation to investigation: what the frameworks predict that could be tested, each entry with a falsification condition, synthesized into a stratified search program. Belongs to no single framework — it collects what they jointly imply.
+**[Motivated Conjectures](motivated_conjectures.md)** — The bridge from derivation to investigation: what the frameworks predict that could be tested, each entry with a falsification condition, synthesized into a stratified search program. Physical and cosmological entries from the seeding and quantum frameworks; since September 2026, entries from the consciousness, frame, and life clusters as well. Belongs to no single framework — it collects what they jointly imply.
 
 **[The Engineering Question](the_engineering_question.md)**, **[The Engineering Question, Part II](the_engineering_question_part_two.md)**, and **[The Engineering Question, Part III](the_engineering_question_part_three.md)** — The most actionable work in the corpus: a lens for the working AI researcher that turns the inside-question into structural directions, diagnostics for current failure modes, and falsifiable predictions about what current architectures will and will not produce. Parts I and II derive from The Consciousness Question framework; Part III takes the life cluster's developmental map and works out the engineering — where current AI sits, what each transition would require, and why the standard approaches do not reach it. They are flagged here as the corpus's most direct contribution to AI development.
 
@@ -206,7 +206,7 @@ The core frameworks
   the_engineering_question_part_three.md           ← The Life Cluster: The Engineering Question, Part III
 
 Cross-framework
-  motivated_conjectures.md                        ← Motivated Conjectures: Physical and Cosmological Predictions
+  motivated_conjectures.md                        ← Motivated Conjectures
 
 ASSUMPTIONS.md                                   ← all assumptions across all documents
 CHANGELOG.md                                     ← updates and revisions
