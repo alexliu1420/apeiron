@@ -12,6 +12,26 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Threshold of Life: Clause Two Given Its Missing Condition] — September 2026
+
+**What changed:**
+
+Part Two of `the_threshold_of_life.md` gains a paragraph stating the condition clause two had left implicit: accumulation requires storage-based inheritance — each irreducible event recorded as a discrete difference in a copied structure — not attractor-based inheritance, where events are blended into a composition that relaxes toward its own steady state. A sixth boundary case, the compositional assembly (lipid-world composomes; metabolism-first autocatalytic networks), is added to Part Three; the discriminator sentence and the boundary-case count are updated. L5 is extended in the document and in `ASSUMPTIONS.md`. The README description is updated.
+
+**Why:**
+
+Attacked deliberately, as the second of the ranked targets. The compositional assembly passes clause one cleanly — undirected variation, a landscape that is physics, no represented criterion — and inherits: composition propagates across splitting. On clause two as first written ("carried forward and built upon") it appeared to cross. The origin-of-life literature has shown formally that it cannot: replication of a composition is too inaccurate for selection to hold fitter compositions, and the system cannot depart from the steady states built into its own dynamics (Vasas, Szathmáry, and Santos 2010). The corpus would have called a composome life; the field agrees it is not evolvable.
+
+**What this establishes and what it does not:**
+
+Established: the case fails clause two, and it fails it for the document's own reason — Part One's averaging mechanism operates at the point of inheritance when the heritable state is a composition rather than a record. The "low-copy at the point of variation" language, which had read as illustration, is the condition. This is the limited/unlimited heredity distinction of Maynard Smith and Szathmáry and the attractor/storage distinction of Hogeweg, reached from the corpus's own mechanism and cited where used. Left unchanged: both clauses, the five existing boundary cases, and the non-carbon deferral.
+
+**What does not change:**
+
+No downstream document restated clause two in the form that needed the condition. `the_capable_non_living.md` relies on clause one only. The claim's conclusion is unchanged; a case that would have been misclassified is now placed.
+
+---
+
 ## [Correction: The Self-Supply Claim Given a Falsifier] — September 2026
 
 **What changed:**
