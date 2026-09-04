@@ -36,7 +36,9 @@ A frame is an internal structure whose states correspond to features of the envi
 
 The definition is thin by intent. It does not require the frame to be a "model" in any rich sense, does not require representation in the philosophical sense, does not require the system to know it has a frame. It requires two things: an internal structure that corresponds to something outside, and dynamics organized around that structure.
 
-The contrast is a system with no frame. A bacterium moving up a chemical gradient runs its dynamics directly against the environment: the gradient is present, the response is to the present gradient, the processing is complete in the response. Nothing stands in for anything; nothing is consulted; system and environment are coupled directly. This is the frameless case, and it is not a deficient one. A frameless system can be a complete, genuine agent — shaped to pursue, by selection on its own persistence, carrying no internal model at all. Frameless is a whole way of being a system. A frame is something added to it, not something it lacks.
+The contrast is a system with no frame. A cell that reads a chemical gradient across its own body — receptor occupancy higher at one end than the other, and motion following the difference — runs its dynamics directly against the environment: the gradient is present across the point of action, the response is to the present difference, the processing is complete in the response. Nothing stands in for anything; nothing is consulted; system and environment are coupled directly. This is the frameless case, and it is not a deficient one. A frameless system can be a complete, genuine agent — shaped to pursue, by selection on its own persistence, carrying no internal model at all. Frameless is a whole way of being a system. A frame is something added to it, not something it lacks.
+
+The swimming bacterium is not this case, and the reason is instructive. *E. coli* is too small, and moves too fast relative to diffusion, to read a gradient across its body; it senses gradients in time, comparing the concentration now against the concentration a few seconds ago, and the comparison runs through a methylation state on its receptors that decays toward baseline (Segall, Block, and Berg 1986). The gradient is not present at the point of action. It is inaccessible there, and an internal state bridges the gap. That is a frame, and it is the smallest one the derivation below predicts: a persistence-relevant feature displaced from the point of action — here, displaced in accessibility — and a structure standing in for it. The frameless contrast is therefore not "the bacterium" but a system whose relevant feature is present where it acts; surface-attached bacteria that read gradients spatially across their length are such a system, and so is any tropism to a stimulus present at the point of response. In the sense used by [The Origin of Agency](the_origin_of_agency.md) — no represented objective — the swimming bacterium remains frameless: a stand-in for a recent concentration is not a goal. The two senses come apart exactly here, and it is the stand-in sense this document derives.
 
 ---
 
@@ -116,6 +118,10 @@ This has two grains, and they must be kept distinct. The first is bounded-ness: 
 
 A frame is bounded, and fitted to its origin, and blind by construction to whatever postdates or exceeds the environment that built it. This is the structural fact a frameless system does not have to contend with and a framed system always does.
 
+Two things this does not say. It does not say the inside is small. A frame is fitted to the regularity that selection was tracking, not to the sample of situations in which it was tracked, and a regularity can hold far beyond the sample: a frame built on the motions of a few bodies holds for bodies its builders never saw, because what it captured was the structure those motions shared. The inside is the domain over which the captured regularity holds, which may vastly exceed the origin observations. What fitted-to-origin says is that the inside has an edge where the regularity fails, and that the frame carries no signal of that edge — it worked, and then it did not, and nothing inside it distinguished the last case where it worked from the first where it failed. That is the blindness. It is a claim about the absence of an internal boundary signal, not about extent.
+
+It also does not say the blindness is absolute. A frame can carry a stand-in for its own boundary — an estimate of where its regularity will fail, derived from the form of the regularity rather than from having met the failure. Such a frame is warned, within the estimate's own range. But the estimate is itself a frame, fitted to whatever built it, with its own edge and no signal of that. The blindness is not removed; it moves up one level. This is the structure [The Reflexive Frame](the_reflexive_frame.md) treats for self-models, met here for the frame's model of its own bound.
+
 ---
 
 ## What Remains Open
@@ -135,7 +141,7 @@ Whether a system can be wholly framed is not resolved. A physically embodied sys
 ## Assumptions
 
 **FF1. A frame is an internal structure whose states correspond to features of the environment, such that the system's dynamics run against the internal structure rather than against the environment directly. A frameless system runs its dynamics directly against the environment, with no internal stand-in.**
-*Grounding: STRUCTURAL — a definition, with the frameless contrast established empirically by direct-coupling systems such as chemotactic bacteria*
+*Grounding: STRUCTURAL — a definition, with the frameless contrast established empirically by direct-coupling systems in which the relevant feature is present at the point of action (spatial gradient reading across a cell body; tropism to a present stimulus). Swimming bacterial chemotaxis is not the contrast: it senses gradients temporally through a receptor methylation state, which is a minimal stand-in*
 
 **FF2. Frames exist in systems that began without them. Genomes, nervous systems, and trained systems carry frames, and in each case the lineage or system existed in a frameless form before the frame.**
 *Grounding: EMPIRICAL — follows from comparative biology and from the existence of untrained precursors to trained systems*
@@ -155,7 +161,7 @@ Whether a system can be wholly framed is not resolved. A physically embodied sys
 **FF7. The depth of framing is a gradient set by the environment, not the system: it tracks the ratio of displaced to present persistence-relevant structure in the environment the system was selected in. The selection principle remains binary; the gradient is the depth of layering that one principle produces.**
 *Grounding: STRUCTURAL — follows from FF4 and FF6*
 
-**FF8. A frame is bounded — it stands in for some features and not others — and fitted to its origin: its inside is the environment that built it, its outside includes whatever postdates or exceeds that environment. Fitted-to-origin entails bounded-ness and adds the account of what the bound is. A frame is blind, by construction, beyond the environment that built it.**
+**FF8. A frame is bounded — it stands in for some features and not others — and fitted to its origin: its inside is the environment that built it, its outside includes whatever postdates or exceeds that environment. Fitted-to-origin entails bounded-ness and adds the account of what the bound is. A frame is blind, by construction, beyond the environment that built it: its inside is the domain over which the regularity it captured holds, which may far exceed the origin observations, and the blindness is the absence of any internal signal at the edge of that domain, not a limit on its extent. A stand-in for the frame's own boundary moves the blindness up a level rather than removing it.**
 *Grounding: STRUCTURAL — follows from FF4 and FF5*
 
 ---

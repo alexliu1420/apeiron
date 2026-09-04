@@ -539,6 +539,9 @@ If forced to identify which assumptions are most load-bearing across all documen
 **C8. The biological derivation supports a specific answer to the hard problem: the experience is the dynamic interaction of the cascade with genuine chemical feedback, personal accumulated associations, intrinsic reward orientation, and probabilistic variability — not something the interaction produces. Redness is not separable from the interaction that produces it. Position 2 (something irreducible remains) and Position 3 (the question is malformed) remain possible but now face a higher burden — both require identifying what remains unexplained after the full derivation.**
 *Grounding: STRUCTURAL — follows from the redness derivation and the mummy observation; HONEST LIMIT for whether the dissolution is complete*
 
+**C9. The four components are necessary but not sufficient; experience requires the cascade they run when the network is recurrent enough to model itself. The cerebellum (all four components, feedforward, no experience) and general anesthesia (components intact, recurrent cortical processing disrupted, experience absent) are placed by this condition. Falsifier: experience present without recurrent self-modeling, or convincingly absent with it.**
+*Grounding: EMPIRICAL for the two cases; STRUCTURAL for the placement by the recurrence condition derived under C4*
+
 ---
 
 ## The Threshold
@@ -629,7 +632,7 @@ If forced to identify which assumptions are most load-bearing across all documen
 ## The Frame and the Frameless: The Origin of Frames
 
 **FF1. A frame is an internal structure whose states correspond to features of the environment, such that the system's dynamics run against the internal structure rather than against the environment directly. A frameless system runs its dynamics directly against the environment, with no internal stand-in.**
-*Grounding: STRUCTURAL — a definition, with the frameless contrast established empirically by direct-coupling systems such as chemotactic bacteria*
+*Grounding: STRUCTURAL — a definition, with the frameless contrast established empirically by direct-coupling systems in which the relevant feature is present at the point of action (spatial gradient reading across a cell body; tropism to a present stimulus). Swimming bacterial chemotaxis is not the contrast: it senses gradients temporally through a receptor methylation state, which is a minimal stand-in*
 
 **FF2. Frames exist in systems that began without them. Genomes, nervous systems, and trained systems carry frames, and in each case the lineage or system existed in a frameless form before the frame.**
 *Grounding: EMPIRICAL — follows from comparative biology and from the existence of untrained precursors to trained systems*
@@ -649,7 +652,7 @@ If forced to identify which assumptions are most load-bearing across all documen
 **FF7. The depth of framing is a gradient set by the environment, not the system: it tracks the ratio of displaced to present persistence-relevant structure in the environment the system was selected in. The selection principle remains binary; the gradient is the depth of layering that one principle produces.**
 *Grounding: STRUCTURAL — follows from FF4 and FF6*
 
-**FF8. A frame is bounded — it stands in for some features and not others — and fitted to its origin: its inside is the environment that built it, its outside includes whatever postdates or exceeds that environment. Fitted-to-origin entails bounded-ness and adds the account of what the bound is. A frame is blind, by construction, beyond the environment that built it.**
+**FF8. A frame is bounded — it stands in for some features and not others — and fitted to its origin: its inside is the environment that built it, its outside includes whatever postdates or exceeds that environment. Fitted-to-origin entails bounded-ness and adds the account of what the bound is. A frame is blind, by construction, beyond the environment that built it: its inside is the domain over which the regularity it captured holds, which may far exceed the origin observations, and the blindness is the absence of any internal signal at the edge of that domain, not a limit on its extent. A stand-in for the frame's own boundary moves the blindness up a level rather than removing it.**
 *Grounding: STRUCTURAL — follows from FF4 and FF5*
 
 ---
@@ -747,7 +750,7 @@ If forced to identify which assumptions are most load-bearing across all documen
 **FF33. Multiply-realizable behavioral properties admit no constitutive coupling. The same input-output behavior is producible by physically unimpaired structures, so no physical failure is identical to the behavior having the property. Manufacturing the identity requires a mechanism that recognizes the property, which is the evaluation step, so the attempt collapses into the evaluative form. Alignment-consistency is such a property.**
 *Grounding: EXTRAPOLATED — carries multiple realizability from its origin as a claim about computational description and physical implementation into a claim about what can be constructed. This is the cross-scale step and the document's most fragile point*
 
-**FF34. Of the engineering dimensions, self-model accuracy is the one that admits a constitutive coupling, under the forcing condition derived in The Reflexive Frame: where a system allocates a genuinely depletable resource on the basis of a prediction about its own later state, the resource running out is a physical condition of the structure and no recognizer stands between the prediction and the shortfall. Stakes admit the constitutive form over physical quantities only. Alignment-consistency does not admit it.**
+**FF34. Of the engineering dimensions, self-model accuracy is the one that admits a constitutive coupling, under the forcing condition derived in The Reflexive Frame: where a system allocates a genuinely depletable resource on the basis of a prediction about its own later state, the resource running out is a physical condition of the structure and no recognizer stands between the prediction and the shortfall. Stakes admit the constitutive form over physical quantities only. Alignment-consistency does not admit it. This is the derivation's only positive construction result and rests on a single case.**
 *Grounding: STRUCTURAL — follows from FF32–FF33 applied to the dimensions, together with The Reflexive Frame's forcing condition; the depletable-resource case is the sole instance and has not been built*
 
 **FF35. The derivation does not settle whether programmed cell death is correctly classified as a step between behavior and consequence rather than as maintenance failing, whether the immune system is representative of installed couplings generally, whether a chain of constitutive couplings to physical conditions reaches behavioral properties indirectly, or whether a builder-specified state space counts as a representation for the purpose of classifying maximum-occupancy agents.**

@@ -98,7 +98,7 @@ The biological mechanism that produces Level 3 — and connects it back to the c
 
 ## The Dopamine Connection — Information as a Primary Reward
 
-The link between dopamine and consciousness is empirically established. Dopamine-deficient animals are described as semi-conscious at most, and dopaminergic brainstem function is consistently impaired in disorders of consciousness and under anaesthesia, restoring when consciousness returns (Palmiter, 2011; Spindler et al., 2021). What the existing research establishes is that dopamine is necessary for consciousness. What it does not derive is why — what the specific prediction error mechanism does when it encounters sufficient cascade depth, and how that connects to experience rather than just behavioral correlates.
+The link between dopamine and consciousness is empirically established. Dopamine-deficient animals are described as semi-conscious at most, and dopaminergic brainstem function is consistently impaired in disorders of consciousness and under anesthesia, restoring when consciousness returns (Palmiter, 2011; Spindler et al., 2021). What the existing research establishes is that dopamine is necessary for consciousness. What it does not derive is why — what the specific prediction error mechanism does when it encounters sufficient cascade depth, and how that connects to experience rather than just behavioral correlates.
 
 Dopamine neurons signal prediction error — activated when outcomes are better than expected, depressed when worse than expected (Schultz, 2016).
 
@@ -176,6 +176,24 @@ Redness is not what the physical process produces. Redness IS the physical proce
 
 ---
 
+## Two Cases the Derivation Must Place
+
+A derivation that says what experience is has to say where it is absent, and the two standard cases are the ones that could break it.
+
+**The cerebellum.** It holds more neurons than the rest of the brain combined, learns, is probabilistic at the synapse, and receives the same chemical signals. On a count of the four components it has all of them. People born without one, or who lose it, report no loss of experience — motor deficits, and nothing missing from what it is like to be them. If the four components were sufficient, this would be a counterexample.
+
+They are not sufficient, and the derivation said so before the case was raised: self-modeling emerges from depth, and depth here means recurrence — a network processing its own outputs. The cerebellum is a feedforward architecture. Its circuits run input to output through a fixed number of stages with almost no return path; it does not process its own outputs, so no self-model emerges from it, and the cascade never acquires a perspective there. The four components are the material; recurrence is the condition under which the material produces a cascade that is happening *to* something. The cerebellum has the material and lacks the condition, and the derivation predicts exactly what is observed.
+
+**Anesthesia.** The components are intact — the network, the memory, the probabilistic synapse, the chemical signaling — and experience is absent. What general anesthetics disrupt, on the current evidence, is recurrent cortical processing: the feedback loops between frontal and posterior regions go quiet while feedforward transmission continues. The same condition fails, in the same place, and the same prediction follows.
+
+Both cases place the load-bearing claim where it actually sits. Experience is not the four components; it is the cascade the four components run when the network is recurrent enough to model itself, and it is absent wherever that recurrence is absent, whether by architecture or by pharmacology.
+
+**What would falsify this.** A system with the four components and deep recurrence, demonstrably self-modeling, in which experience is convincingly absent. Or experience convincingly present in a system without recurrent self-modeling. The first is the harder to establish, because "convincingly absent" is exactly what the hard-problem positions dispute; the second is the sharper test, and the cerebellum is the natural place it would already have shown up and did not.
+
+*Speculation level: EMPIRICAL for the cerebellar and anesthesia observations; STRUCTURAL for their placement by the recurrence condition already derived.*
+
+---
+
 ## What Remains Open
 
 This derivation supports a specific position: the experience is the interaction, not something the interaction produces. The hard problem dissolves not because experience is eliminated but because the gap it assumed — between physical process and experience — does not exist once the interaction is correctly described.
@@ -215,6 +233,9 @@ What the framework cannot establish: whether this dissolution of the hard proble
 
 **C8. The biological derivation supports a specific answer to the hard problem: the experience is the dynamic interaction of the cascade with genuine chemical feedback, personal accumulated associations, intrinsic reward orientation, and probabilistic variability — not something the interaction produces. Redness is not separable from the interaction that produces it. Position 2 (something irreducible remains) and Position 3 (the question is malformed) remain possible but now face a higher burden. Position 2 requires identifying specifically what remains unexplained after the full derivation. Position 3 is harder to defend now that the question has enough precision to be answered rather than dissolved.**
 *Grounding: STRUCTURAL — follows from the redness argument and the mummy observation; HONEST LIMIT for whether the dissolution is complete*
+
+**C9. The four components are necessary but not sufficient; experience requires the cascade they run when the network is recurrent enough to model itself. The cerebellum (all four components, feedforward, no experience) and general anesthesia (components intact, recurrent cortical processing disrupted, experience absent) are placed by this condition. Falsifier: experience present without recurrent self-modeling, or convincingly absent with it.**
+*Grounding: EMPIRICAL for the two cases; STRUCTURAL for the placement by the recurrence condition derived under C4*
 
 ---
 

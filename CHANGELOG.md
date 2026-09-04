@@ -12,6 +12,28 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Correction Pass: Three Load-Bearing Claims Tested Against Their Strongest Cases] — September 2026
+
+**What changed:**
+
+Three committed claims were each read against the case most likely to break them. One was wrong on its example, one was underspecified in a way its strongest counter-case exposed, and one lacked the placing cases and falsifier it needed. Edits: `the_origin_of_frames.md` (the frameless contrast rewritten; a paragraph added after the two-grains passage; FF1 grounding and FF8 revised), `consciousness_question.md` (new section "Two Cases the Derivation Must Place" before What Remains Open; C9 added; one spelling), `ASSUMPTIONS.md` (FF1 grounding, FF8, C9 mirrored).
+
+**FF4 / FF1 — the bacterium was the wrong example.** The Origin of Frames used a bacterium moving up a chemical gradient as its canonical frameless case: "the gradient is present, the response is to the present gradient." It is not. A swimming bacterium is too small to read a gradient across its body and senses gradients in time, comparing the present concentration against one a few seconds earlier through a receptor methylation state (Segall, Block, and Berg 1986). The gradient is inaccessible at the point of action and an internal state bridges the gap — which is FF4's own definition of a frame, and the smallest instance of it. The frameless contrast is now a system whose relevant feature is present where it acts: spatial gradient reading across a cell body, or tropism to a present stimulus. The bacterium becomes the minimal framed case and confirms the derivation from below. The document notes that in The Origin of Agency's sense — no represented objective — the bacterium remains frameless; the two senses come apart here. FF1's grounding is corrected in both files.
+
+**FF8 — extent and blindness were run together.** "Fitted to its origin, blind beyond it" invited the reading that a frame's inside is roughly the origin sample. Physical theories built on a handful of observations and holding across regimes their builders never saw are the counter-case. FF8 now says what it should have: the inside is the domain over which the captured regularity holds, which may vastly exceed the origin observations; the blindness is the absence of any internal signal at the edge of that domain, not a limit on extent. A frame that carries a stand-in for its own boundary is warned within the stand-in's range, but the stand-in is a frame with its own edge — the blindness moves up a level rather than disappearing, the structure The Reflexive Frame treats for self-models.
+
+**C1–C4 — the cascade needed its placing cases.** The Consciousness Question derived four components and a cascade but did not place the two standard cases that could refute it: the cerebellum, which has all four components on a count and produces no experience, and general anesthesia, in which the components are intact and experience is absent. Both are now placed by the recurrence condition the document had already derived for self-modeling — the cerebellum is feedforward; anesthesia disrupts recurrent cortical processing — and the load-bearing claim is restated where it sits: the four components are the material, recurrence is the condition. A falsifier is stated. C9 added.
+
+**Housekeeping found by the same audit:**
+
+FF30, FF31, and FF34 in `persistence_coupling.md` and `ASSUMPTIONS.md` had drifted by a sentence each between the document and the mirror at the time of that document's commit. Aligned; content unchanged, no claim altered.
+
+**What does not change:**
+
+FF4's derivation, FF8's conclusion, and the cascade's structure are unchanged. The Origin of Agency's "frameless agency" (no represented objective) stands; it is a different sense of the word and the two are now distinguished explicitly. No downstream document restated the bacterium example, the small-inside reading, or four-component sufficiency; Frame Saturation's "fitted to the environment that built it, blind beyond it" is consistent with the refined FF8 and is not edited.
+
+---
+
 ## [Threshold of Life: Clause Two Given Its Missing Condition] — September 2026
 
 **What changed:**
