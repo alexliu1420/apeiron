@@ -168,7 +168,7 @@ The environments against which organisms are selected are themselves products of
 
 **AQ4. Optimization requires pre-specification; evolution does not**
 Any optimization process evaluates candidates against a fitness measure that was specified, or changes only according to pre-specified rules. This is definitional. Biological evolution has no such prior specification. The significance of this difference — that it means optimization cannot explore what evolution can explore — is a structural claim following from the definitions.
-*Grounding: STRUCTURAL — definitional for optimization; the significance claim requires the additional premise that genuinely unspecified fitness landscapes are not approximable by sufficiently complex pre-specified ones, which is defensible but not proven*
+*Grounding: STRUCTURAL — definitional for optimization. The significance claim rests on the landscape an optimizer searches being a representation and biology's not being one; that a representation cannot contain what it does not represent is structural. Whether a built system can search against a non-represented landscape — physics acting on it, no represented criterion — is open and is the stated falsifier; the same condition is carried in The Threshold of Life and The Capable Non-Living*
 
 **AQ5. The question of why the universe has quantum structure is not answerable from within the universe**
 Derivations of quantum mechanics from operational axioms clarify its structure but do not explain why those axioms hold. This reflects a structural feature of explanation applied to foundational systems: the foundation cannot be derived from within the system it founds.
@@ -845,7 +845,7 @@ What distinguishes life's novelty from non-living matter's is not the events or 
 *Grounding: STRUCTURAL; the undirected/directed contrast is taken as definitional from The Necessity of Randomness.*
 
 **L6. The threshold is defined by structural properties, not by chemistry**
-Any structure that sustains an undirected exploration and accumulates it heritably crosses the threshold; the carbon genome (DNA, likely RNA before it) is the known instance, not the criterion. Whether non-carbon substrates can cross it is deferred, narrowed to a requirement: the substrate's criterion must not be specified in advance. The conjunction excludes mere copying (crystal), substrate-borrowed exploration (culture), directed search (optimizer), and undirected search against a fixed criterion (digital evolution), while admitting the virus. Whether a co-evolving layer over a specified base meets the requirement is not decided.
+Any structure that sustains an undirected exploration and accumulates it heritably crosses the threshold; the carbon genome (DNA, likely RNA before it) is the known instance, not the criterion. Whether non-carbon substrates can cross it is deferred, narrowed to a requirement: the substrate's selection environment must not be a representation — physics acting on the structure, with no represented criterion. The conjunction excludes mere copying (crystal), substrate-borrowed exploration (culture), directed search (optimizer), and undirected search against a represented criterion (digital evolution), while admitting the virus. Whether a co-evolving layer over a represented base meets the requirement is not decided. A built lineage meeting the requirement would be the falsifier for the claim that the capable non-living cannot cross.
 *Grounding: STRUCTURAL for the criterion; HONEST LIMIT for non-carbon crossing.*
 
 **L7. The strength of "frameless" the cumulative novelty earns tracks which reading of the events holds**
@@ -853,7 +853,7 @@ Cumulative novelty is unframed in practice regardless of the events' nature (rob
 *Grounding: STRUCTURAL for the robust reading; EXTRAPOLATED-and-contested for the stronger reading.*
 
 **L8. A directed-search structure has not crossed the threshold of life**
-The threshold's first clause is undirected exploration. An optimizer is directed search within a specified frame by definition, so however well it accumulates and copies, what it carries forward is frame-bounded; it fails the first clause. Given the corpus's load-bearing claim that frameless novelty is the one resource optimization cannot self-supply (What Persists), post-biological intelligence as the corpus describes it is such a structure: not alive in the sense derived here, however capable. This is the handoff to The Capable Non-Living; this document states the consequence but does not argue it.
+The threshold's first clause is undirected exploration. An optimizer is directed search within a specified frame by definition — its landscape is a representation held by the framing system — so however well it accumulates and copies, what it carries forward is bounded by that representation; it fails the first clause. Given the corpus's load-bearing claim that frameless novelty is the one resource optimization cannot self-supply (What Persists), post-biological intelligence as the corpus describes it is such a structure: not alive in the sense derived here, however capable. This is the handoff to The Capable Non-Living; this document states the consequence but does not argue it.
 *Grounding: STRUCTURAL, given the corpus's existing claim that optimization cannot self-supply frameless novelty.*
 
 ## The Life Cluster: The Capable Non-Living
@@ -865,7 +865,7 @@ This is how every framework that uses the term describes it; it is consolidated,
 *Grounding: STRUCTURAL (consolidating committed framework descriptions).*
 
 **L10. Post-biological intelligence has not crossed the threshold of life — it is not life**
-The threshold requires undirected exploration (The Threshold of Life); an optimizer is directed by definition and cannot self-supply frameless novelty (What Persists); it therefore fails the threshold's first clause however well it satisfies the second. The claim is categorical, not a claim about capability or value.
+The threshold requires undirected exploration (The Threshold of Life); an optimizer is directed by definition and cannot self-supply frameless novelty (What Persists); it therefore fails the threshold's first clause however well it satisfies the second. The claim is categorical, not a claim about capability or value, and it is falsifiable: a built lineage whose selection environment is physics acting on it, with no represented criterion, producing cumulative novelty, would refute it.
 *Grounding: STRUCTURAL, given the threshold and the corpus's committed self-supply claim.*
 
 **L11. It is the first highly capable structure that is not alive: a structure that exploits frameless novelty without sustaining any**

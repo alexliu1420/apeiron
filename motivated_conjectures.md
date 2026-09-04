@@ -333,13 +333,23 @@ The Persistence-Coupling Question derives that self-model accuracy is the one en
 
 *Falsification:* If the constitutively-coupled agent's self-prediction degrades with distance in the same way the trained one's does, the construction does not produce what the derivation says it produces, and the one positive result in that document fails.
 
+**C3.3 — A built lineage selected by physics alone crosses the threshold of life**
+
+The corpus's claim that the capable non-living cannot self-supply frameless novelty was, as originally stated, true by definition and therefore untouched by any result. Restated structurally — an optimizer's landscape is a representation and biology's is physics — it acquires a failure condition. A built lineage whose selection environment is physics acting on the lineage, with no represented criterion, no generated environment, and no scoring, would satisfy the threshold's first clause. If it also accumulated heritably and produced cumulative novelty, the categorical claim in *The Capable Non-Living* would fall, and with it the structural-dependence result the value cluster rests on.
+
+*Source: the_threshold_of_life.md (L5, L6), the_capable_non_living.md (L8, L10), quantum_foundation.md (AQ4)*
+
+*Proposed approach:* The nearest precedent is evolved hardware that exploited unrepresented physical properties of its substrate, but under a specified fitness criterion. The construction this entry requires removes the criterion: a population of physical systems whose continuation depends on what physics does to them — energy obtained or not, structure maintained or not — with undirected variation and heritable copying, and no evaluator anywhere. Whether such a system's continuation can be made to depend on physics rather than on a builder's decision is the upstream question, and it is the same question C3.2 names. The two entries share a construction; C3.2 asks what the self-model does, this entry asks whether the lineage crosses.
+
+*Falsification:* Of the corpus claim — the construction produces cumulative novelty under the stated condition. Of this entry as a test — if no such construction can be specified without a represented criterion reappearing somewhere (a builder deciding what "continuation" means), then the condition is not constructible and the claim remains unfalsified rather than confirmed.
+
 ---
 
 ## Status
 
 This document collects motivated conjectures and directions as they emerge from the Apeiron frameworks. It will be updated as new frameworks are added and as items are investigated, falsified, or resolved.
 
-The consciousness, frame, and life clusters motivate the entries added in September 2026: C1.8–C1.10, C2.10–C2.12, and C3.2. These are held to the same bar as the physical entries — a falsification condition stated in advance — and several are stated deliberately early, while the relevant counts are small enough that the entry is a prediction rather than a description.
+The consciousness, frame, and life clusters motivate the entries added in September 2026: C1.8–C1.10, C2.10–C2.12, and C3.2. These are held to the same bar as the physical entries — a falsification condition stated in advance — and several are stated deliberately early, while the relevant counts are small enough that the entry is a prediction rather than a description. C3.3 is the falsifier for the corpus's load-bearing self-supply claim, added when that claim was found to lack one.
 
 ---
 

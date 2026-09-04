@@ -12,6 +12,30 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Correction: The Self-Supply Claim Given a Falsifier] — September 2026
+
+**What changed:**
+
+The corpus's load-bearing claim that an optimizer cannot self-supply frameless novelty — carried by `the_threshold_of_life.md` (clause one, L5, L6, L8), `the_capable_non_living.md` (Part One, L10), and `quantum_foundation.md` (Part Four, AQ4) — is restated so that it has a failure condition. Edits: Threshold Part Two gains a paragraph stating what "not specified" means; the digital-evolution case, the discriminator sentence, the Part Three speculation line, and L6 are aligned; L8 gains a clause. Capable Non-Living Part One gains three paragraphs (the terminating condition of the regress, the falsifier, and an engagement with the observer-relative account of open-endedness) and a "What would falsify it" entry; L10 gains a clause. Quantum Foundation's Part Four closing paragraph and AQ4's grounding are rewritten. `motivated_conjectures.md` gains C3.3. `ASSUMPTIONS.md` mirrors L6, L8, L10, AQ4. README descriptions for Threshold and Capable Non-Living updated.
+
+**Why:**
+
+Attacked deliberately. The claim was tested against the strongest available cases — the 2025 matrix-multiplication result, the 2026 unit-distance counterexample, resolved Erdős problems, self-play, co-evolving environment generators — and none touched it, because as stated it was true by definition: a system with a criterion produces criterion-shaped output. Capable Non-Living described the result as "forced by the corpus's own definitions." No document carried a falsification condition. AQ4's grounding located the only world-touching premise and marked it "defensible but not proven." A prominent structurally-distinct position — open-endedness defined relative to an observer, held to be achievable now in built systems — was unengaged. And the discriminator between biology and built systems, as phrased in the threshold and quantum documents, slid toward a criterion of origin ("was it set up by a designer"), which L6 disavows.
+
+**The repair, and where it came from:**
+
+The seeding extension already had the structural version: a simulated environment is bounded by the simulator's model of what physics is, and the only frameless exploration runs on genuine physics without a pre-specified objective. That form was never carried into the threshold, capable-non-living, or quantum documents, which used the weaker "specified / not specified." The Persistence-Coupling Question supplied the vocabulary to state it one level down: represented versus physical. The discriminator is now the same in every location — an optimizer's landscape is a representation held by the framing system; biology's is physics acting on the organism; a representation cannot contain what it does not represent. That is structural, substrate-general, consistent with L6, and gives the claim a falsifier: a built lineage whose selection environment is physics with no represented criterion, producing cumulative novelty. Stated in Threshold, Capable Non-Living, AQ4, and as C3.3.
+
+**Engagement added:**
+
+The observer-relative definition of open-endedness (artifacts novel and learnable relative to an observer's model; Hughes et al. 2024, ICML) is met structurally in Capable Non-Living Part One, unnamed there per the methodology's rule on engaging positions by structure rather than by attribution. The two definitions measure different quantities — novelty relative to an observer smaller than the system, and novelty relative to the landscape the search runs against — and do not conflict. The corpus's claim is about the second and is not refuted by the first being achieved.
+
+**What does not change:**
+
+The conclusion — post-biological intelligence has not crossed the threshold of life — stands. What changes is its status: from definitional to structural-with-a-falsifier. `post_biological_arc_what_persists.md`, `capability_consciousness_and_life.md`, and `universe_as_experiment_extension.md` restate the claim in forms consistent with the repair and are not edited; the seeding extension's Part Two is the form the others now match.
+
+---
+
 ## [Motivated Conjectures: Consciousness, Frame, and Life Cluster Entries] — September 2026
 
 **What changed:**
