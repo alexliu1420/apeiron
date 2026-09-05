@@ -655,6 +655,9 @@ If forced to identify which assumptions are most load-bearing across all documen
 **FF8. A frame is bounded — it stands in for some features and not others — and fitted to its origin: its inside is the environment that built it, its outside includes whatever postdates or exceeds that environment. Fitted-to-origin entails bounded-ness and adds the account of what the bound is. A frame is blind, by construction, beyond the environment that built it: its inside is the domain over which the regularity it captured holds, which may far exceed the origin observations, and the blindness is the absence of any internal signal at the edge of that domain, not a limit on its extent. A stand-in for the frame's own boundary moves the blindness up a level rather than removing it.**
 *Grounding: STRUCTURAL — follows from FF4 and FF5*
 
+**FF37. A represented landscape — a model of the space of outcomes against which an optimizer's candidates are scored — is a frame in the sense of FF1: an internal structure whose states correspond to features of a space, with the search's dynamics running against it. The life cluster's discriminator between optimizers and living lineages is therefore this document's primitive applied to the landscape: an optimizer searches inside a frame and is bounded by it (FF8); a lineage searches against physics, which is not a frame. The regress of meta-search terminates only where the landscape is physics.**
+*Grounding: STRUCTURAL — follows from FF1 and FF8 applied to the landscape; one primitive, not two*
+
 ---
 
 ## The Frame and the Frameless: The Origin of Agency

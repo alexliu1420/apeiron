@@ -12,6 +12,26 @@ Corrections take priority over expansions. If evidence or argument shows a claim
 
 ---
 
+## [Correction: One Primitive, Not Two — Representation Is Frame] — September 2026
+
+**What changed:**
+
+`the_origin_of_frames.md` gains a paragraph at the end of "A Frame Is Fitted to Its Origin" and a new assumption FF37; `the_threshold_of_life.md` gains two sentences in the clause-one passage; `ASSUMPTIONS.md` mirrors FF37.
+
+**Why:**
+
+The self-supply correction installed "representation" as the discriminator between an optimizer's landscape and a living lineage's — a model of the outcome space against which candidates are scored, versus physics acting on the organism. It did not say what a representation is, or how it relates to the corpus's existing primitive. FF1 defines a frame as an internal structure whose states correspond to features of the environment, with the system's dynamics running against it rather than against the environment directly. A represented landscape satisfies that definition exactly: it corresponds to features of a space, the search runs against it, and it is fitted to what built it — the builder's model of a physics the builder cannot run at the point of optimization. It was designed or trained rather than produced by selection on the optimizer's persistence, but FF1 is thin by intent and does not ask how a frame was built. Leaving the two unconnected would have meant the corpus carrying a second primitive it had not derived.
+
+**What this establishes:**
+
+The life cluster's discriminator is The Origin of Frames' primitive applied to the landscape. What that document derives about frames — bounded, fitted to origin, blind at the edge (FF8) — is what the self-supply claim says about optimizers: a search inside a frame cannot reach what the frame does not contain, and cannot know where its edge is. The regress of meta-search under higher criteria terminates only where the landscape is physics, because only there does it stop being a frame. One derivation, stated in three documents in their own vocabulary, with the primitive located in one place.
+
+**What does not change:**
+
+No conclusion changes. The Threshold, Capable Non-Living, and Quantum Foundation passages stand; each now points to where the primitive is derived. FF1's thin definition is unchanged — the identification uses it as written.
+
+---
+
 ## [Correction Pass: Three Load-Bearing Claims Tested Against Their Strongest Cases] — September 2026
 
 **What changed:**
